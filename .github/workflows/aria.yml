@@ -2,8 +2,8 @@ name: ARIA Trading Bot
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # Täglich 07:00 UTC = neuer Handelstag
-  workflow_dispatch:        # Manuell startbar
+    - cron: '0 7 * * 1-5'   # Mo-Fr 07:00 UTC (Arbeitstage)
+  workflow_dispatch:          # Manuell startbar
 
 permissions:
   contents: write           # Damit der Bot state.json committen kann
