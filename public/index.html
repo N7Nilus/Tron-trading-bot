@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TRON Trading Bot</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
+
+:root {
+–bg: #060910;
+–bg2: #0d1117;
+–bg3: #161b22;
+–bg4: #1c2128;
+–border: #21262d;
+–text: #e6edf3;
+–text2: #7d8590;
+–text3: #484f58;
+–green: #3fb950;
+–green-dim: #1a4a25;
+–red: #f85149;
+–red-dim: #4a1a1a;
+–blue: #58a6ff;
+–blue-dim: #1a3a5c;
+–yellow: #d29922;
+–yellow-bright: #f0b429;
+–purple: #bc8cff;
+–tron: #00d4ff;
+–tron-dim: #003d4d;
+–glow: 0 0 20px rgba(0,212,255,0.15);
+}
+
+- { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: ‘Inter’, sans-serif; background: var(–bg); color: var(–text); min-height: 100vh; }
+
+/* Layout */
+.app { max-width: 1200px; margin: 0 auto; padding: 24px 16px; }
+
+/* Header */
+.header {
+display: flex; align-items: center; justify-content: space-between;
+padding: 20px 24px; background: var(–bg2); border: 1px solid var(–border);
+border-radius: 16px; margin-bottom: 20px; position: relative; overflow: hidden;
+}
+.header::before {
+content: ‘’; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+background: linear-gradient(90deg, transparent, var(–tron), transparent);
+}
+.brand { display: flex; align-items: center; gap: 14px; }
+.brand-icon {
+width: 44px; height: 44px; border-radius: 12px;
+background: linear-gradient(135deg, var(–tron-dim), var(–bg3));
+border: 1px solid var(–tron); display: flex; align-items: center; justify-content: center;
+font-size: 20px; box-shadow: var(–glow);
+}
+.brand-name { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; }
+.brand-name span { color: var(–tron); }
+.brand-sub { font-size: 11px; color: var(–text2); margin-top: 2px; font-family: ‘JetBrains Mono’, monospace; }
+.header-right { text-align: right; }
+.header-value { font-size: 28px; font-weight: 800; font-family: ‘JetBrains Mono’, monospace; letter-spacing: -1px; }
+.header-pnl { font-size: 12px; font-weight: 600; margin-top: 2px; font-family: ‘JetBrains Mono’, monospace; }
+
+/* Progress */
+.progress-card {
+background: var(–bg2); border: 1px solid var(–border); border-radius: 16px;
+padding: 20px 24px; margin-bottom: 20px;
+}
+.progress-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.progress-label { font-size: 12px; font-weight: 600; color: var(–text2); text-transform: uppercase; letter-spacing: 0.5px; }
+.progress-pct { font-size: 13px; font-weight: 700; color: var(–yellow-bright); font-family: ‘JetBrains Mono’, monospace; }
+.progress-track { background: var(–bg4); border-radius: 99px; height: 8px; overflow: hidden; position: relative; }
+.progress-fill {
+height: 100%; border-radius: 99px; transition: width 1s cubic-bezier(.4,0,.2,1);
+background: linear-gradient(90deg, var(–tron), var(–yellow-bright));
+box-shadow: 0 0 12px rgba(0,212,255,0.4);
+}
+.progress-milestones { display: flex; justify-content: space-between; margin-top: 8px; }
+.progress-milestone { font-size: 10px; color: var(–text3); font-family: ‘JetBrains Mono’, monospace; }
+
+/* Timers */
+.timers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+.timer-card {
+background: var(–bg2); border: 1px solid var(–border); border-radius: 12px; padding: 14px 18px;
+display: flex; justify-content: space-between; align-items: center;
+}
+.timer-label { font-size: 11px; color: var(–text2); font-weight: 500; }
+.timer-value { font-size: 16px; font-weight: 700; font-family: ‘JetBrains Mono’, monospace; color: var(–tron); }
+
+/* Tabs */
+.tabs { display: flex; gap: 4px; margin-bottom: 20px; background: var(–bg2); border: 1px solid var(–border); border-radius: 12px; padding: 4px; }
+.tab {
+flex: 1; padding: 8px 12px; border-radius: 8px; border: none; cursor: pointer;
+font-size: 12px; font-weight: 600; transition: all 0.2s; background: transparent; color: var(–text2);
+font-family: ‘Inter’, sans-serif;
+}
+.tab:hover { color: var(–text); background: var(–bg3); }
+.tab.active { background: var(–bg4); color: var(–text); box-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+
+/* Stats grid */
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 20px; }
+@media (max-width: 600px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+.stat-card {
+background: var(–bg2); border: 1px solid var(–border); border-radius: 12px; padding: 16px;
+transition: border-color 0.2s;
+}
+.stat-card:hover { border-color: var(–tron); }
+.stat-label { font-size: 10px; font-weight: 600; color: var(–text2); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+.stat-value { font-size: 18px; font-weight: 700; font-family: ‘JetBrains Mono’, monospace; }
+
+/* Cards */
+.card {
+background: var(–bg2); border: 1px solid var(–border); border-radius: 16px;
+margin-bottom: 12px; overflow: hidden;
+}
+.card-header {
+padding: 14px 18px; border-bottom: 1px solid var(–border);
+display: flex; align-items: center; gap: 8px;
+}
+.card-icon { font-size: 14px; }
+.card-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(–text2); }
+.card-body { padding: 16px 18px; }
+
+/* Position rows */
+.pos-row {
+display: flex; justify-content: space-between; align-items: center;
+padding: 12px 0; border-bottom: 1px solid var(–border);
+}
+.pos-row:last-child { border: none; padding-bottom: 0; }
+.pos-ticker { font-size: 14px; font-weight: 700; font-family: ‘JetBrains Mono’, monospace; }
+.pos-ticker a { color: var(–blue); text-decoration: none; }
+.pos-ticker a:hover { color: var(–tron); text-decoration: underline; }
+.pos-meta { font-size: 11px; color: var(–text2); margin-top: 2px; font-family: ‘JetBrains Mono’, monospace; }
+.pos-right { text-align: right; }
+.pos-value { font-size: 14px; font-weight: 600; font-family: ‘JetBrains Mono’, monospace; }
+.pos-pct { font-size: 11px; font-weight: 600; margin-top: 2px; font-family: ‘JetBrains Mono’, monospace; }
+
+/* Trade rows */
+.trade-row { padding: 14px 0; border-bottom: 1px solid var(–border); }
+.trade-row:last-child { border: none; padding-bottom: 0; }
+.trade-header { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.badge {
+padding: 3px 8px; border-radius: 6px; font-size: 10px; font-weight: 800;
+letter-spacing: 0.5px; font-family: ‘JetBrains Mono’, monospace;
+}
+.badge-buy { background: var(–green-dim); color: var(–green); border: 1px solid var(–green-dim); }
+.badge-sell { background: var(–red-dim); color: var(–red); border: 1px solid var(–red-dim); }
+.trade-ticker { font-size: 14px; font-weight: 700; font-family: ‘JetBrains Mono’, monospace; }
+.trade-ticker a { color: var(–blue); text-decoration: none; }
+.trade-ticker a:hover { color: var(–tron); }
+.trade-total { margin-left: auto; font-size: 13px; font-weight: 700; font-family: ‘JetBrains Mono’, monospace; }
+.trade-meta { font-size: 11px; color: var(–text2); margin-bottom: 5px; font-family: ‘JetBrains Mono’, monospace; }
+.trade-reason {
+font-size: 12px; color: var(–text2); line-height: 1.5;
+background: var(–bg3); border-radius: 8px; padding: 8px 10px;
+border-left: 2px solid var(–tron);
+}
+
+/* News */
+.news-item { padding: 8px 0; border-bottom: 1px solid var(–border); font-size: 12px; color: var(–text2); line-height: 1.4; }
+.news-item:last-child { border: none; }
+.news-item::before { content: ’→ ’; color: var(–tron); font-weight: 700; }
+
+/* Movers */
+.movers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+.mover-row { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid var(–border); font-size: 12px; font-family: ‘JetBrains Mono’, monospace; }
+.mover-row:last-child { border: none; }
+
+/* History table */
+.history-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.history-table th { text-align: left; padding: 8px 12px; color: var(–text2); font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid var(–border); }
+.history-table td { padding: 10px 12px; border-bottom: 1px solid var(–border); font-family: ‘JetBrains Mono’, monospace; }
+.history-table tr:last-child td { border: none; }
+.history-table tr:hover td { background: var(–bg3); }
+
+/* Log */
+.log-wrap { font-family: ‘JetBrains Mono’, monospace; font-size: 11px; max-height: 500px; overflow-y: auto; background: var(–bg); border-radius: 8px; padding: 12px; }
+.log-entry { padding: 3px 0; line-height: 1.5; border-bottom: 1px solid var(–bg2); }
+.log-time { color: var(–text3); }
+
+/* Colors */
+.green { color: var(–green); }
+.red { color: var(–red); }
+.blue { color: var(–blue); }
+.tron { color: var(–tron); }
+.yellow { color: var(–yellow-bright); }
+.purple { color: var(–purple); }
+.dim { color: var(–text2); }
+
+/* Empty state */
+.empty { text-align: center; padding: 48px; color: var(–text3); }
+.empty-icon { font-size: 36px; margin-bottom: 12px; }
+.empty-text { font-size: 13px; }
+
+/* Panes */
+.pane { display: none; }
+.pane.active { display: block; }
+
+/* Refresh */
+.refresh-btn {
+padding: 6px 14px; border-radius: 8px; border: 1px solid var(–border);
+cursor: pointer; background: var(–bg3); color: var(–text2); font-size: 12px;
+font-family: ‘Inter’, sans-serif; transition: all 0.2s;
+}
+.refresh-btn:hover { border-color: var(–tron); color: var(–tron); }
+
+/* Day pills */
+.day-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+.day-pill {
+padding: 4px 10px; border-radius: 6px; border: 1px solid var(–border);
+cursor: pointer; font-size: 11px; font-weight: 600; background: var(–bg3);
+color: var(–text2); font-family: ‘JetBrains Mono’, monospace; transition: all 0.2s;
+}
+.day-pill:hover { border-color: var(–tron); color: var(–tron); }
+.day-pill.active { background: var(–tron-dim); border-color: var(–tron); color: var(–tron); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(–bg2); }
+::-webkit-scrollbar-thumb { background: var(–bg4); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(–text3); }
+
+/* Disclaimer */
+.disclaimer { text-align: center; margin-top: 24px; font-size: 10px; color: var(–text3); }
+</style>
+
+</head>
+<body>
+<div class="app">
+
+  <!-- Header -->
+
+  <div class="header">
+    <div class="brand">
+      <div class="brand-icon">⚡</div>
+      <div>
+        <div class="brand-name"><span>TRON</span> Trading Bot</div>
+        <div class="brand-sub" id="sub">Initialisiere...</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="header-value" id="val" style="color:var(--tron)">—</div>
+      <div class="header-pnl" id="pnl">—</div>
+    </div>
+  </div>
+
+  <!-- Progress -->
+
+  <div class="progress-card">
+    <div class="progress-header">
+      <span class="progress-label">⚡ Challenge Fortschritt — €500 → €5.000</span>
+      <span class="progress-pct" id="pct">0%</span>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" id="pfill" style="width:0%"></div>
+    </div>
+    <div class="progress-milestones">
+      <span class="progress-milestone">€500</span>
+      <span class="progress-milestone">€1.500</span>
+      <span class="progress-milestone">€2.500</span>
+      <span class="progress-milestone">€3.500</span>
+      <span class="progress-milestone">€5.000</span>
+    </div>
+  </div>
+
+  <!-- Timers -->
+
+  <div class="timers">
+    <div class="timer-card">
+      <div>
+        <div class="timer-label">📅 Nächster Handelstag</div>
+        <div class="timer-value" id="cd-day">—</div>
+      </div>
+      <div style="font-size:24px">📈</div>
+    </div>
+    <div class="timer-card">
+      <div>
+        <div class="timer-label">🔄 Letztes Update</div>
+        <div class="timer-value" id="cd-tick" style="color:var(--text2)">—</div>
+      </div>
+      <div style="font-size:24px">⚡</div>
+    </div>
+  </div>
+
+  <!-- Tabs -->
+
+  <div style="display:flex;gap:8px;align-items:center;margin-bottom:16px">
+    <div class="tabs" style="flex:1">
+      <button class="tab active" onclick="switchTab('dashboard')">📊 Dashboard</button>
+      <button class="tab" onclick="switchTab('trades')">💱 Trades</button>
+      <button class="tab" onclick="switchTab('market')">📡 Markt</button>
+      <button class="tab" onclick="switchTab('history')">📈 Verlauf</button>
+      <button class="tab" onclick="switchTab('log')">📋 Log</button>
+    </div>
+    <button class="refresh-btn" onclick="load()">↻ Refresh</button>
+  </div>
+
+  <!-- Dashboard -->
+
+  <div id="pane-dashboard" class="pane active">
+    <div class="stats" id="stats"></div>
+    <div id="analysis-card"></div>
+    <div id="portfolio-card"></div>
+    <div id="strategy-card"></div>
+  </div>
+
+  <!-- Trades -->
+
+  <div id="pane-trades" class="pane">
+    <div id="trades-list"></div>
+  </div>
+
+  <!-- Market -->
+
+  <div id="pane-market" class="pane">
+    <div id="market-content"></div>
+  </div>
+
+  <!-- History -->
+
+  <div id="pane-history" class="pane">
+    <div class="card">
+      <div class="card-header"><span class="card-icon">📈</span><span class="card-title">30-Tage Verlauf</span></div>
+      <div class="card-body" style="padding:0">
+        <table class="history-table" id="history-table">
+          <thead><tr><th>Tag</th><th>Datum</th><th>Wert</th><th>P&L %</th><th>Mood</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Log -->
+
+  <div id="pane-log" class="pane">
+    <div class="card">
+      <div class="card-header"><span class="card-icon">📋</span><span class="card-title">System Log</span></div>
+      <div class="card-body" style="padding:12px">
+        <div class="log-wrap" id="log-wrap"><div class="empty"><div class="empty-text">Lädt...</div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="disclaimer">⚠️ Fiktive Simulation mit echten Marktdaten · Keine Finanzberatung · Imaginäres Kapital</div>
+</div>
+
+<script>
+let state = null;
+const fmt = n => '€' + Number(n).toFixed(2);
+const fmtPct = n => (n >= 0 ? '+' : '') + Number(n).toFixed(2) + '%';
+const tickerUrl = t => `https://finance.yahoo.com/quote/${t}`;
+const moodMap = { bullish: { icon: '🐂', label: 'Bullish', color: 'var(--green)' }, bearish: { icon: '🐻', label: 'Bearish', color: 'var(--red)' }, neutral: { icon: '😐', label: 'Neutral', color: 'var(--yellow-bright)' } };
+const logColors = { info: 'var(--text2)', success: 'var(--green)', error: 'var(--red)', buy: 'var(--green)', sell: 'var(--red)', strategy: 'var(--purple)', day: 'var(--tron)', tick: 'var(--text3)' };
+
+function switchTab(t) {
+  document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.pane').forEach(p => p.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('pane-' + t).classList.add('active');
+  if (t === 'log') loadLog();
+}
+
+async function load() {
+  try {
+    const r = await fetch('/api/state');
+    state = await r.json();
+    render();
+  } catch (e) {
+    document.getElementById('sub').textContent = 'Verbindungsfehler: ' + e.message;
+  }
+}
+
+function render() {
+  if (!state) return;
+  const cd = state.currentDay || state.days?.[state.days.length - 1];
+  const days = state.days || [];
+
+  // Header
+  document.getElementById('sub').textContent = `Tag ${days.length}/30 · Mo–Fr Betrieb · Start 13.04.2026`;
+  if (cd) {
+    const pos = cd.pnl >= 0;
+    document.getElementById('val').textContent = fmt(cd.totalValue);
+    document.getElementById('val').style.color = pos ? 'var(--green)' : 'var(--red)';
+    document.getElementById('pnl').textContent = fmtPct(cd.pnlPercent) + ' seit Start';
+    document.getElementById('pnl').style.color = pos ? 'var(--green)' : 'var(--red)';
+    const pct = Math.min(((cd.totalValue - 500) / 4500) * 100, 100);
+    document.getElementById('pfill').style.width = pct + '%';
+    document.getElementById('pct').textContent = pct.toFixed(1) + '%';
+  }
+
+  // Timers
+  if (state.nextDayAt) startCountdown(state.nextDayAt);
+  if (cd?.lastTick) document.getElementById('cd-tick').textContent = new Date(cd.lastTick).toLocaleTimeString('de-DE');
+
+  if (!cd) {
+    document.getElementById('stats').innerHTML = '';
+    ['analysis-card','portfolio-card','strategy-card'].forEach(id => {
+      document.getElementById(id).innerHTML = `<div class="empty"><div class="empty-icon">⚡</div><div class="empty-text">TRON startet am 13.04.2026</div></div>`;
+    });
+    return;
+  }
+
+  // Stats
+  const mood = moodMap[cd.mood] || moodMap.neutral;
+  document.getElementById('stats').innerHTML = [
+    { label: 'Portfoliowert', value: fmt(cd.totalValue), color: cd.pnl >= 0 ? 'var(--green)' : 'var(--red)' },
+    { label: 'Cash', value: fmt(cd.cash), color: 'var(--tron)' },
+    { label: 'P&L Gesamt', value: fmtPct(cd.pnlPercent), color: cd.pnl >= 0 ? 'var(--green)' : 'var(--red)' },
+    { label: 'Markt-Mood', value: `${mood.icon} ${mood.label}`, color: mood.color },
+  ].map(s => `<div class="stat-card"><div class="stat-label">${s.label}</div><div class="stat-value" style="color:${s.color}">${s.value}</div></div>`).join('');
+
+  // Analysis
+  document.getElementById('analysis-card').innerHTML = `
+    <div class="card">
+      <div class="card-header"><span class="card-icon">📰</span><span class="card-title">Marktanalyse — Tag ${cd.day} (${cd.date})</span></div>
+      <div class="card-body" style="font-size:13px;color:var(--text2);line-height:1.6">${cd.marketAnalysis || '—'}</div>
+    </div>`;
+
+  // Portfolio
+  if (cd.portfolio?.length) {
+    document.getElementById('portfolio-card').innerHTML = `
+      <div class="card">
+        <div class="card-header"><span class="card-icon">💼</span><span class="card-title">Aktuelle Positionen</span></div>
+        <div class="card-body">
+          ${cd.portfolio.map(p => {
+            const pct = ((p.currentPrice - p.buyPrice) / p.buyPrice) * 100;
+            const pos = pct >= 0;
+            return `<div class="pos-row">
+              <div>
+                <div class="pos-ticker"><a href="${tickerUrl(p.ticker)}" target="_blank">${p.ticker} ↗</a></div>
+                <div class="pos-meta">${p.name} · ${p.shares} Stk. @ $${p.currentPrice}</div>
+              </div>
+              <div class="pos-right">
+                <div class="pos-value">${fmt(p.value)}</div>
+                <div class="pos-pct" style="color:${pos ? 'var(--green)' : 'var(--red)'}">${fmtPct(pct)}</div>
+              </div>
+            </div>`;
+          }).join('')}
+        </div>
+      </div>`;
+  } else {
+    document.getElementById('portfolio-card').innerHTML = '';
+  }
+
+  // Strategy
+  document.getElementById('strategy-card').innerHTML = `
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🎯</span><span class="card-title">TRON Strategie</span></div>
+      <div class="card-body" style="font-size:13px;color:var(--text2);line-height:1.6;border-left:2px solid var(--tron);padding-left:14px">${cd.strategy || '—'}</div>
+    </div>`;
+
+  // Trades
+  const withTrades = [...days].reverse().filter(d => d.trades?.length > 0);
+  document.getElementById('trades-list').innerHTML = withTrades.length === 0
+    ? `<div class="empty"><div class="empty-icon">💱</div><div class="empty-text">Noch keine Trades</div></div>`
+    : withTrades.map(d => `
+      <div class="card">
+        <div class="card-header"><span class="card-icon">📅</span><span class="card-title">Tag ${d.day} · ${d.date}</span></div>
+        <div class="card-body">
+          ${d.trades.map(t => `
+            <div class="trade-row">
+              <div class="trade-header">
+                <span class="badge badge-${t.action.toLowerCase()}">${t.action}</span>
+                <span class="trade-ticker"><a href="${tickerUrl(t.ticker)}" target="_blank">${t.ticker} ↗</a></span>
+                <span class="dim" style="font-size:11px;font-family:'JetBrains Mono'">${t.shares}× @ $${t.price}</span>
+                <span class="trade-total">${fmt(t.total)}</span>
+              </div>
+              <div class="trade-reason">${t.reason}</div>
+            </div>`).join('')}
+        </div>
+      </div>`).join('');
+
+  // Market
+  const snap = cd.livePricesSnapshot || {};
+  const prices = Object.values(snap);
+  const gainers = prices.filter(p => p.change > 0).sort((a,b) => b.change - a.change).slice(0, 8);
+  const losers  = prices.filter(p => p.change < 0).sort((a,b) => a.change - b.change).slice(0, 8);
+  document.getElementById('market-content').innerHTML = `
+    <div class="movers">
+      <div class="card">
+        <div class="card-header"><span class="card-icon">📈</span><span class="card-title">Top Gewinner</span></div>
+        <div class="card-body">
+          ${gainers.length ? gainers.map(p => `<div class="mover-row"><a href="${tickerUrl(p.ticker)}" target="_blank" style="color:var(--blue);text-decoration:none">${p.ticker}</a><span class="green">+${p.change}%</span></div>`).join('') : '<div class="dim" style="font-size:12px">Keine Daten</div>'}
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">📉</span><span class="card-title">Top Verlierer</span></div>
+        <div class="card-body">
+          ${losers.length ? losers.map(p => `<div class="mover-row"><a href="${tickerUrl(p.ticker)}" target="_blank" style="color:var(--blue);text-decoration:none">${p.ticker}</a><span class="red">${p.change}%</span></div>`).join('') : '<div class="dim" style="font-size:12px">Keine Daten</div>'}
+        </div>
+      </div>
+    </div>
+    ${prices.length ? `<div class="card">
+      <div class="card-header"><span class="card-icon">📡</span><span class="card-title">Alle Live-Kurse (${prices.length})</span></div>
+      <div class="card-body" style="padding:0">
+        <table class="history-table">
+          <thead><tr><th>Ticker</th><th>Name</th><th>Kurs</th><th>Änderung</th></tr></thead>
+          <tbody>${prices.sort((a,b) => Math.abs(b.change)-Math.abs(a.change)).map(p => `
+            <tr>
+              <td><a href="${tickerUrl(p.ticker)}" target="_blank" style="color:var(--blue);text-decoration:none">${p.ticker} ↗</a></td>
+              <td style="color:var(--text2)">${p.name}</td>
+              <td>$${p.price}</td>
+              <td style="color:${p.change >= 0 ? 'var(--green)' : 'var(--red)'}">${p.change >= 0 ? '+' : ''}${p.change}%</td>
+            </tr>`).join('')}
+          </tbody>
+        </table>
+      </div>
+    </div>` : ''}`;
+
+  // History
+  const tbody = document.querySelector('#history-table tbody');
+  tbody.innerHTML = [...days].reverse().map(d => {
+    const m = moodMap[d.mood] || moodMap.neutral;
+    return `<tr>
+      <td style="color:var(--tron)">${d.day}</td>
+      <td>${d.date}</td>
+      <td>${fmt(d.totalValue)}</td>
+      <td style="color:${d.pnlPercent >= 0 ? 'var(--green)' : 'var(--red)'}">${fmtPct(d.pnlPercent)}</td>
+      <td>${m.icon}</td>
+    </tr>`;
+  }).join('');
+}
+
+function startCountdown(nextDayAt) {
+  clearInterval(window._cdTimer);
+  window._cdTimer = setInterval(() => {
+    const diff = nextDayAt - Date.now();
+    if (diff <= 0) { document.getElementById('cd-day').textContent = 'Startet...'; clearInterval(window._cdTimer); return; }
+    const h = Math.floor(diff / 3600000), m = Math.floor((diff % 3600000) / 60000), s = Math.floor((diff % 60000) / 1000);
+    document.getElementById('cd-day').textContent = `${String(h).padStart(2,'0')}h ${String(m).padStart(2,'0')}m ${String(s).padStart(2,'0')}s`;
+  }, 1000);
+}
+
+async function loadLog() {
+  try {
+    const r = await fetch('/api/log?n=300');
+    const log = await r.json();
+    document.getElementById('log-wrap').innerHTML = log.length === 0
+      ? '<div class="empty"><div class="empty-text">Log leer</div></div>'
+      : [...log].reverse().map(e => `
+          <div class="log-entry">
+            <span class="log-time">[${new Date(e.time).toLocaleTimeString('de-DE')}]</span>
+            <span style="color:${logColors[e.type] || 'var(--text2)'}"> ${e.msg}</span>
+          </div>`).join('');
+  } catch {}
+}
+
+load();
+setInterval(load, 30000);
+</script>
+
+</body>
+</html>
