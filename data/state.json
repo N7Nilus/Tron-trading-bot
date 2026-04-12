@@ -1,0 +1,51 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "date": "09.04.2025",
+      "portfolio": [
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corp",
+          "shares": 3,
+          "buyPrice": 142.5,
+          "currentPrice": 142.5,
+          "value": 427.5
+        },
+        {
+          "ticker": "TSLA",
+          "name": "Tesla Inc",
+          "shares": 1,
+          "buyPrice": 68.75,
+          "currentPrice": 68.75,
+          "value": 68.75
+        }
+      ],
+      "cash": 3.75,
+      "totalValue": 500,
+      "pnl": 0,
+      "pnlPercent": 0,
+      "trades": [
+        {
+          "action": "BUY",
+          "ticker": "NVDA",
+          "shares": 3,
+          "price": 142.5,
+          "total": 427.5,
+          "reason": "AI revolution accelerating - targeting €200+ on datacenter demand surge and new chip architecture rumors"
+        },
+        {
+          "action": "BUY",
+          "ticker": "TSLA",
+          "shares": 1,
+          "price": 68.75,
+          "total": 68.75,
+          "reason": "Oversold after recent dip, autonomous driving breakthrough expected this quarter - targeting €120 on robotaxi announcement"
+        }
+      ],
+      "marketAnalysis": "Market showing volatility as AI and EV sectors consolidate after massive 2024 gains. Tech earnings season approaching with high expectations for infrastructure plays. Whispers of major AI partnerships sending shockwaves through semiconductor names.",
+      "strategy": "All-in aggressive tech concentration play focusing on AI infrastructure and autonomous vehicle leaders with massive upside potential",
+      "mood": "bullish"
+    }
+  ]
+}
