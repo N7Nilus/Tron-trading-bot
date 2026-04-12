@@ -1,0 +1,37 @@
+name: ARIA Trading Bot
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # Täglich 07:00 UTC = neuer Handelstag
+  workflow_dispatch:        # Manuell startbar
+
+permissions:
+  contents: write           # Damit der Bot state.json committen kann
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ARIA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node bot.js
+
+      - name: Commit state
+        run: |
+          git config user.name "ARIA Bot"
+          git config user.email "aria@bot.local"
+          git add data/
+          git diff --staged --quiet || git commit -m "📊 ARIA Tag $(cat data/state.json | node -e \"process.stdin.resume();let d='';process.stdin.on('data',c=>d+=c);process.stdin.on('end',()=>console.log(JSON.parse(d).days?.length||0))\")"
+          git push
