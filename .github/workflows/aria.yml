@@ -1,12 +1,12 @@
-name: ARIA Trading Bot
+name: TRON Trading Bot
 
 on:
   schedule:
-    - cron: '0 7 * * 1-5'   # Mo-Fr 07:00 UTC (Arbeitstage)
-  workflow_dispatch:          # Manuell startbar
+    - cron: '0 7 * * 1-5'
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Damit der Bot state.json committen kann
+  contents: write
 
 jobs:
   trade:
@@ -23,15 +23,16 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run ARIA
+      - name: Run TRON
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: node bot.js
 
-      - name: Commit state
+      - name: Commit results
         run: |
-          git config user.name "ARIA Bot"
-          git config user.email "aria@bot.local"
+          git config user.name "TRON Bot"
+          git config user.email "tron@bot.local"
           git add data/ README.md
-          git diff --staged --quiet || git commit -m "ARIA daily update"
+          git diff --staged --quiet || git commit -m "TRON daily update"
           git push
