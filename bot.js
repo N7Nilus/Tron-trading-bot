@@ -11,9 +11,8 @@ const NEWS_FILE = path.join(DATA_DIR, "news.md");
 const client = new Anthropic.default({ apiKey: process.env.ANTHROPIC_API_KEY });
 const FINNHUB_KEY = process.env.FINNHUB_API_KEY || "";
 
-const START_DATE = new Date();
-START_DATE.setUTCDate(START_DATE.getUTCDate() + 1);
-START_DATE.setUTCHours(0, 0, 0, 0);
+const START_DATE = new Date("2026-04-14T00:00:00Z");
+
 
 const HOLIDAYS = [
   "2026-04-03","2026-04-06","2026-05-01","2026-05-14",
