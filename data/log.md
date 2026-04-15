@@ -63,3 +63,66 @@
 - `2026-04-14T15:30:14.667Z` BUY BE 1x @ $216.41 | Massive 59.23% surge on Oracle fuel cell deal expansion signals real AI infrastructure demand. This is the picks and shovels play for AI data centers that market is missing.
 - `2026-04-14T15:30:14.667Z` BUY OXY 5x @ $55.52 | Down 11.79% on peace hopes creates perfect contrarian entry. Geopolitical tensions don't disappear overnight and energy panic-selling creates alpha opportunity.
 - `2026-04-14T15:30:14.667Z` === TRON DAY 1 DONE ===
+- `2026-04-15T10:45:24.374Z` === TRON DAY 2 START ===
+- `2026-04-15T10:45:24.377Z` Lade Marktdaten...
+- `2026-04-15T10:45:24.910Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-15T10:45:24.995Z` Live: BE = $219.03 (+61.16%)
+- `2026-04-15T10:45:25.255Z` Live: OXY = $55.38 (-12.01%)
+- `2026-04-15T10:45:25.456Z` Live: IONQ = $35.76 (+25.52%)
+- `2026-04-15T10:45:25.683Z` Live: QBTS = $16.97 (+23.51%)
+- `2026-04-15T10:45:25.909Z` Live: ASML = $1518.3 (+16.22%)
+- `2026-04-15T10:45:26.117Z` Live: HOOD = $79.09 (+13.55%)
+- `2026-04-15T10:45:26.361Z` Live: RMS.PA = $1623 (-7.34%)
+- `2026-04-15T10:45:26.565Z` Live: RGTI = $16.87 (+21.89%)
+- `2026-04-15T10:45:26.856Z` Live: AVGO = $380.78 (+14.02%)
+- `2026-04-15T10:45:27.098Z` Live: NKE = $44.2 (+3.54%)
+- `2026-04-15T10:45:27.343Z` Live: QUBT = $8.11 (+19.79%)
+- `2026-04-15T10:45:27.545Z` Live: SNAL = $1.7 (+209.09%)
+- `2026-04-15T10:45:27.795Z` Live: LAES = $2.59 (+22.17%)
+- `2026-04-15T10:45:27.995Z` Live: BULL = $5.82 (+17.81%)
+- `2026-04-15T10:45:28.195Z` Live: IMMP = $0.31 (-13.89%)
+- `2026-04-15T10:45:28.398Z` Live: FSLR = $200.61 (+4.32%)
+- `2026-04-15T10:45:28.605Z` Live: ^BSESN = $78111.24 (+0.71%)
+- `2026-04-15T10:45:28.806Z` Live: ^NSEI = $24231.3 (+0.97%)
+- `2026-04-15T10:45:29.004Z` Live: XRP-USD = $1.36 (+0.34%)
+- `2026-04-15T10:45:29.204Z` Live: NICM = $6.96 (-0.85%)
+- `2026-04-15T10:45:29.402Z` Live: SIVE.ST = $20.8 (+82.94%)
+- `2026-04-15T10:45:29.604Z` Live: ARAI = $1.65 (+180.14%)
+- `2026-04-15T10:45:29.833Z` Live: XNDU = $14.83 (+98.53%)
+- `2026-04-15T10:45:30.033Z` Live: LIMN = $0.18 (-2.7%)
+- `2026-04-15T10:45:30.231Z` Live: INFQ = $14.12 (+40.64%)
+- `2026-04-15T10:45:30.430Z` Live: ROLR = $7.41 (+95%)
+- `2026-04-15T10:45:30.705Z` Live: RR = $2.23 (+16.15%)
+- `2026-04-15T10:45:30.960Z` Live: TVTX = $42.13 (+33.03%)
+- `2026-04-15T10:45:31.159Z` Live: CRDO = $159.52 (+49.38%)
+- `2026-04-15T10:45:31.357Z` Live: JBLU = $5.6 (+23.08%)
+- `2026-04-15T10:45:31.555Z` Live: APLD = $31.47 (+24.98%)
+- `2026-04-15T10:45:31.761Z` Live: TWST = $57.41 (+14.55%)
+- `2026-04-15T10:45:31.986Z` Live: TNGX = $24.06 (+21.52%)
+- `2026-04-15T10:45:32.259Z` Live: CAR = $411.56 (+61.3%)
+- `2026-04-15T10:45:32.458Z` Live: SEZL = $68 (+2.66%)
+- `2026-04-15T10:45:32.656Z` Live: IREN = $47.37 (+32.54%)
+- `2026-04-15T10:45:32.883Z` Live: MAAS = $6.71 (+18.34%)
+- `2026-04-15T10:45:33.112Z` Live: GSAT = $79.91 (+8.21%)
+- `2026-04-15T10:45:33.379Z` Live: DAVE = $213.76 (+29.1%)
+- `2026-04-15T10:45:33.606Z` Live: KMX = $41.66 (-3.81%)
+- `2026-04-15T10:45:33.836Z` Live: FSLY = $20.95 (-33.7%)
+- `2026-04-15T10:45:34.055Z` Live: ASTS = $88.57 (-4.32%)
+- `2026-04-15T10:45:34.280Z` Live: DOCN = $73.45 (-15.17%)
+- `2026-04-15T10:45:34.482Z` Live: VAL = $92.01 (-7.71%)
+- `2026-04-15T10:45:34.760Z` Live: RIG = $6.17 (-7.63%)
+- `2026-04-15T10:45:35.044Z` Live: RGC = $30.11 (+8.08%)
+- `2026-04-15T10:45:35.326Z` Live: ERO = $30.02 (+4.24%)
+- `2026-04-15T10:45:35.559Z` Live: PTEN = $9.88 (-12.02%)
+- `2026-04-15T10:45:35.777Z` Live: AKAM = $88.84 (-21.99%)
+- `2026-04-15T10:45:35.989Z` Live: CRK = $16.25 (-15.89%)
+- `2026-04-15T10:45:36.139Z` 50 echte Live-Kurse geladen
+- `2026-04-15T10:45:36.139Z` Lade News...
+- `2026-04-15T10:45:37.518Z` Yahoo News: 20 Headlines geladen
+- `2026-04-15T10:45:37.919Z` TRON analysiert News...
+- `2026-04-15T10:45:56.423Z` News analysiert: The Nasdaq has hit a remarkable 10-day winning streak, its longest since 2021, while the S&P 500 sit...
+- `2026-04-15T10:45:56.442Z` TRON trifft Handelsentscheidungen...
+- `2026-04-15T10:46:06.531Z` Portfolio: EUR 501.01 | PnL: +0.20%
+- `2026-04-15T10:46:06.532Z` BUY SNAL 1x @ $1.7 | Insane 209.09% moon shot with massive 816.4M volume - this is institutional algo buying creating mechanical momentum. Riding the parabolic move with tight stops.
+- `2026-04-15T10:46:06.532Z` BUY XNDU 0x @ $14.83 | Quantum computing narrative heating up with 98.53% gain - perfect AI adjacency play as market expands beyond semiconductors into quantum processing power.
+- `2026-04-15T10:46:06.532Z` === TRON DAY 2 DONE ===
