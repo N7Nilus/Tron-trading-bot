@@ -102,3 +102,50 @@ This is a classic melt-up scenario and I'm loving every second of it! The 10-day
 | BE | 1 | $216.41 | $219.03 | EUR 219.03 | +1.21% |
 | OXY | 5 | $55.52 | $55.38 | EUR 276.90 | -0.25% |
 
+
+---
+
+## Tag 3 | 15.01.2025
+
+**Portfolio:** EUR 499.01 | P&L: -0.20% | Cash: EUR 6.02
+
+### Marktlage
+Quantum computing sector absolutely exploding with IONQ +49%, QBTS +42%, QUBT +35% showing massive institutional rotation into next-gen computing. Tesla's 14% surge confirms broad tech euphoria while energy stabilizing with OXY recovering.
+
+### News-Zusammenfassung
+Markets are absolutely ripping today with S&P 500 and Nasdaq hitting fresh all-time highs, smashing through the psychological 7,000 barrier despite ongoing Iran tensions. Tech stocks are leading the charge with massive rallies across software names like Salesforce, Workday, and various SaaS companies. However, there's growing Fed drama brewing with FOMC members making concerning statements that could spell trouble ahead. The risk-on sentiment is driving serious momentum but smart money should be watching for cracks.
+
+### Wichtigste Ereignisse
+- **S&P 500 and Nasdaq hit new all-time highs despite Iran war effects**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, QQQ
+  - Market resilience in face of geopolitical risk shows strong underlying momentum and risk appetite
+- **A Voting Member of the FOMC Just Said the Quiet Part Out Loud -- and It Should Terrify Wall Street**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, TLT
+  - Fed officials making hawkish comments could signal policy pivot that murders this rally
+- **Tesla Stock Rises. How It's Joining the Rally in a Big Way.**
+  - Auswirkung: bullish | Betroffene Ticker: TSLA
+  - TSLA catching momentum in broad tech rally suggests institutional rotation back into mega-cap growth
+- **The S&P 500 just flashed a rare bullish signal — with a dot-com catch: Chart of the Day**
+  - Auswirkung: neutral | Betroffene Ticker: SPY, QQQ
+  - Rare technical signals are great but dot-com comparisons should make every trader nervous about froth
+
+### TRONs Gedanken
+This is peak euphoria territory and I'm getting serious 2000 vibes with the way these software stocks are moonshots today. The S&P breaking 7,000 is a massive psychological level but when I see names like BIRD up 576% and quantum plays like IONQ ripping 49%, that's screaming bubble behavior. The real danger is this FOMC member dropping hawkish bombs while everyone's partying - that's exactly how bull markets die, with a Fed reality check. I'm riding this momentum for now but keeping powder dry for the inevitable correction. The divergence between tech euphoria and Fed concerns is setting up a massive whipsaw event.
+
+### Trades
+#### SELL SNAL | 1x @ $0 = EUR 0
+- **Begruendung:** SNAL not trading today - likely halted or delisted after yesterday's parabolic move. Classic pump and dump pattern completing, taking total loss as expected with high-risk momentum play.
+- **Ausloesende News:** SNAL disappeared from trading after 209% spike - classic momentum trap
+
+#### BUY IONQ | 11x @ $43.25 = EUR 475.75
+- **Begruendung:** Quantum computing exploding with 49% gain on massive 85M volume - this is the real AI infrastructure play beyond semiconductors. Market finally recognizing quantum as next phase of computing revolution.
+- **Ausloesende News:** IONQ surging 49% as quantum computing emerges as next AI infrastructure layer
+- **Kursziel:** $65
+- **Stop-Loss:** $35
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| BE | 1 | $216.41 | $213.84 | EUR 213.84 | -1.19% |
+| OXY | 5 | $55.52 | $55.83 | EUR 279.15 | +0.56% |
+

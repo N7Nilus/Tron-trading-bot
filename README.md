@@ -1,63 +1,63 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 15.4.2026, 12:46:06
+> Echte Live-Daten: Yahoo Finance | 16.4.2026, 12:49:40
 
-## Status: Tag 2/30
+## Status: Tag 3/30
 | | |
 |---|---|
-| Portfolio | EUR 501.01 |
-| P&L | +0.20% |
-| Cash | EUR 6.08 |
+| Portfolio | EUR 499.01 |
+| P&L | -0.20% |
+| Cash | EUR 6.02 |
 | Mood | bullish |
 
 ```
-EUR 500 [--------------------] EUR 5000  (0.0%)
+EUR 500 [--------------------] EUR 5000  (-0.0%)
 ```
 
 ## News-Zusammenfassung
-The Nasdaq has hit a remarkable 10-day winning streak, its longest since 2021, while the S&P 500 sits just 0.5% from all-time highs as capital floods back into equities. Geopolitical tensions are showing signs of easing with Trump hinting at war's end and renewed hopes for US-Iran peace talks, causing oil prices to fall and risk-on sentiment to dominate. Tech giants like Nvidia and Google are flashing buy signals, while the Federal Reserve faces a historic shake-up in just one month. Bitcoin is rising alongside stocks, showing its evolving dual use case beyond traditional safe havens.
+Markets are absolutely ripping today with S&P 500 and Nasdaq hitting fresh all-time highs, smashing through the psychological 7,000 barrier despite ongoing Iran tensions. Tech stocks are leading the charge with massive rallies across software names like Salesforce, Workday, and various SaaS companies. However, there's growing Fed drama brewing with FOMC members making concerning statements that could spell trouble ahead. The risk-on sentiment is driving serious momentum but smart money should be watching for cracks.
 
 ## TRONs Gedanken
-This is a classic melt-up scenario and I'm loving every second of it! The 10-day Nasdaq streak with NVDA and GOOGL flashing buy signals tells me the AI trade is far from over - these machines are just getting warmed up. The geopolitical risk unwinding is rocket fuel for equities, but I'm watching that Fed shake-up like a hawk because it could derail this party faster than a circuit breaker. Smart money is flooding back in and retail is about to FOMO chase these highs, which means we ride this wave but stay ready to pivot. The energy sector getting crushed while tech soars is textbook rotation - I'm doubling down on semiconductor plays and quantum computing before the masses catch on. That Bitcoin surge alongside stocks proves digital assets are maturing into real portfolio allocators, not just fear trades.
+This is peak euphoria territory and I'm getting serious 2000 vibes with the way these software stocks are moonshots today. The S&P breaking 7,000 is a massive psychological level but when I see names like BIRD up 576% and quantum plays like IONQ ripping 49%, that's screaming bubble behavior. The real danger is this FOMC member dropping hawkish bombs while everyone's partying - that's exactly how bull markets die, with a Fed reality check. I'm riding this momentum for now but keeping powder dry for the inevitable correction. The divergence between tech euphoria and Fed concerns is setting up a massive whipsaw event.
 
 ## Heutige Trades
-### BUY SNAL
-- Menge: 1x @ $1.7 = EUR 1.7
-- Begruendung: Insane 209.09% moon shot with massive 816.4M volume - this is institutional algo buying creating mechanical momentum. Riding the parabolic move with tight stops.
-- News: SNAL exploding 209% with 816M volume signals institutional momentum
-- Kursziel: $2.5 | Stop-Loss: $1.4
+### SELL SNAL
+- Menge: 1x @ $0 = EUR 0
+- Begruendung: SNAL not trading today - likely halted or delisted after yesterday's parabolic move. Classic pump and dump pattern completing, taking total loss as expected with high-risk momentum play.
+- News: SNAL disappeared from trading after 209% spike - classic momentum trap
 
-### BUY XNDU
-- Menge: 0x @ $14.83 = EUR 0
-- Begruendung: Quantum computing narrative heating up with 98.53% gain - perfect AI adjacency play as market expands beyond semiconductors into quantum processing power.
-- News: Quantum computing breakout as AI narrative expands beyond traditional semiconductors
-- Kursziel: $20 | Stop-Loss: $12
+### BUY IONQ
+- Menge: 11x @ $43.25 = EUR 475.75
+- Begruendung: Quantum computing exploding with 49% gain on massive 85M volume - this is the real AI infrastructure play beyond semiconductors. Market finally recognizing quantum as next phase of computing revolution.
+- News: IONQ surging 49% as quantum computing emerges as next AI infrastructure layer
+- Kursziel: $65 | Stop-Loss: $35
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| BE | 1 | $216.41 | $219.03 | EUR 219.03 | +1.21% |
-| OXY | 5 | $55.52 | $55.38 | EUR 276.90 | -0.25% |
+| BE | 1 | $216.41 | $213.84 | EUR 213.84 | -1.19% |
+| OXY | 5 | $55.52 | $55.83 | EUR 279.15 | +0.56% |
 
 ## Top Gewinner
-- SNAL +209.09% @ $1.7
-- ARAI +180.14% @ $1.65
-- XNDU +98.53% @ $14.83
-- ROLR +95% @ $7.41
-- SIVE.ST +82.94% @ $20.8
+- BIRD +576.89% @ $16.99
+- XNDU +234.4% @ $25.18
+- ASTI +56.27% @ $6.36
+- WSHP +54.51% @ $8.22
+- EOSE +54.25% @ $7.08
 
 ## Top Verlierer
-- FSLY -33.7% @ $20.95
-- AKAM -21.99% @ $88.84
-- CRK -15.89% @ $16.25
-- DOCN -15.17% @ $73.45
-- IMMP -13.89% @ $0.31
+- CTNT -87.12% @ $0.17
+- DOO -31.71% @ $50.93
+- FSLY -28.61% @ $23.38
+- PLBL -21.91% @ $6.95
+- WNW -18.56% @ $3.16
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
 |---|---|---|---|
 | 1 | 14.01.2025 | EUR 500.01 | +0.00% |
 | 2 | 16.12.2024 | EUR 501.01 | +0.20% |
+| 3 | 15.01.2025 | EUR 499.01 | -0.20% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

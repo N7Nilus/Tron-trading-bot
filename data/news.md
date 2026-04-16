@@ -1,66 +1,61 @@
-# TRON News Report | 15.4.2026
+# TRON News Report | 16.4.2026
 
-> Generiert: 15.4.2026, 12:45:56
+> Generiert: 16.4.2026, 12:49:30
 
 ## Zusammenfassung
-The Nasdaq has hit a remarkable 10-day winning streak, its longest since 2021, while the S&P 500 sits just 0.5% from all-time highs as capital floods back into equities. Geopolitical tensions are showing signs of easing with Trump hinting at war's end and renewed hopes for US-Iran peace talks, causing oil prices to fall and risk-on sentiment to dominate. Tech giants like Nvidia and Google are flashing buy signals, while the Federal Reserve faces a historic shake-up in just one month. Bitcoin is rising alongside stocks, showing its evolving dual use case beyond traditional safe havens.
+Markets are absolutely ripping today with S&P 500 and Nasdaq hitting fresh all-time highs, smashing through the psychological 7,000 barrier despite ongoing Iran tensions. Tech stocks are leading the charge with massive rallies across software names like Salesforce, Workday, and various SaaS companies. However, there's growing Fed drama brewing with FOMC members making concerning statements that could spell trouble ahead. The risk-on sentiment is driving serious momentum but smart money should be watching for cracks.
 
 ## TRONs Markteinschaetzung
-This is a classic melt-up scenario and I'm loving every second of it! The 10-day Nasdaq streak with NVDA and GOOGL flashing buy signals tells me the AI trade is far from over - these machines are just getting warmed up. The geopolitical risk unwinding is rocket fuel for equities, but I'm watching that Fed shake-up like a hawk because it could derail this party faster than a circuit breaker. Smart money is flooding back in and retail is about to FOMO chase these highs, which means we ride this wave but stay ready to pivot. The energy sector getting crushed while tech soars is textbook rotation - I'm doubling down on semiconductor plays and quantum computing before the masses catch on. That Bitcoin surge alongside stocks proves digital assets are maturing into real portfolio allocators, not just fear trades.
+This is peak euphoria territory and I'm getting serious 2000 vibes with the way these software stocks are moonshots today. The S&P breaking 7,000 is a massive psychological level but when I see names like BIRD up 576% and quantum plays like IONQ ripping 49%, that's screaming bubble behavior. The real danger is this FOMC member dropping hawkish bombs while everyone's partying - that's exactly how bull markets die, with a Fed reality check. I'm riding this momentum for now but keeping powder dry for the inevitable correction. The divergence between tech euphoria and Fed concerns is setting up a massive whipsaw event.
 
 ## Wichtigste News
-### [+] Nasdaq Win Streak Hits 10 Days As Nvidia, Google Flash Buy Signals
-- **Einfluss:** bullish
-- **Betroffene Aktien:** NVDA, GOOGL
-- 10-day winning streak is massive momentum with major tech names signaling continuation
-
-### [+] S&P 500 Sits 0.5% From All-Time High as Capital Floods Back Into Equities
+### [+] S&P 500 and Nasdaq hit new all-time highs despite Iran war effects
 - **Einfluss:** bullish
 - **Betroffene Aktien:** SPY, QQQ
-- Money rotation into equities at record pace suggests institutional FOMO kicking in
+- Market resilience in face of geopolitical risk shows strong underlying momentum and risk appetite
 
-### [+] Oil prices fall as renewed hopes for peace talks feed a stock market rally
-- **Einfluss:** bullish
-- **Betroffene Aktien:** XLE, OXY, COP
-- Geopolitical risk premium unwinding boosts stocks but hammers energy sector
-
-### [-] We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve
+### [-] A Voting Member of the FOMC Just Said the Quiet Part Out Loud -- and It Should Terrify Wall Street
 - **Einfluss:** bearish
-- **Betroffene Aktien:** TLT, XLF, SPY
-- Fed uncertainty could trigger volatility across rates-sensitive sectors
+- **Betroffene Aktien:** SPY, TLT
+- Fed officials making hawkish comments could signal policy pivot that murders this rally
 
-### [+] Why IonQ Stock Skyrocketed Today
+### [+] Tesla Stock Rises. How It's Joining the Rally in a Big Way.
 - **Einfluss:** bullish
-- **Betroffene Aktien:** IONQ
-- Quantum computing momentum building as AI narrative expands
+- **Betroffene Aktien:** TSLA
+- TSLA catching momentum in broad tech rally suggests institutional rotation back into mega-cap growth
+
+### [~] The S&P 500 just flashed a rare bullish signal — with a dot-com catch: Chart of the Day
+- **Einfluss:** neutral
+- **Betroffene Aktien:** SPY, QQQ
+- Rare technical signals are great but dot-com comparisons should make every trader nervous about froth
 
 ## Trading-Signale
 | Ticker | Signal | Dringlichkeit | Begruendung |
 |---|---|---|---|
-| NVDA | consider_buy | high | Flashing buy signals during 10-day Nasdaq winning streak with AI momentum building |
-| GOOGL | consider_buy | high | Buy signal confirmation during tech rotation with search dominance in AI era |
-| IONQ | watch | medium | Quantum computing breakout as AI narrative expands beyond traditional semiconductors |
-| OXY | avoid | medium | Oil prices falling on peace talk hopes, down 12% today with energy sector rotation out |
-| SPY | consider_buy | high | Just 0.5% from all-time highs with capital flooding back into equities |
+| TSLA | consider_buy | high | Catching momentum in broad tech rally with institutional flow |
+| PLTR | consider_buy | medium | Trading up on broader AI/data analytics momentum |
+| BIRD | avoid | high | 576% spike reeks of pump and dump manipulation |
+| TLT | watch | medium | Fed drama could spike bond volatility and yields |
+| FSLY | consider_buy | low | Down 28% but part of broader tech rally theme, potential oversold bounce |
 
 ## Alle Headlines (20)
-- Dow Jones Futures: Nasdaq Win Streak Hits 10 Days As Nvidia, Google Flash Buy Signals; What To Do Now *(Yahoo Finance)*
-- 1 Industrials Stock Worth Investigating and 2 We Ignore *(Yahoo Finance)*
-- S&amp;P 500 Sits 0.5% From All-Time High as Capital Floods Back Into Equities *(Yahoo Finance)*
-- Morning Brief: We're watching for S&amp;P 500 record highs again *(Yahoo Finance)*
-- Trump Hints at War’s End as Hormuz Standoff Chokes Oil Flows *(Yahoo Finance)*
-- Bargain Alert: I More Than Doubled My Position in a Brand-Name Turnaround Stock That's Trading at a 37% Discount to Its Book Value *(Yahoo Finance)*
-- The S&amp;P 500 Is Down. Here's How to Put $1,000 to Work Right Now. *(Yahoo Finance)*
-- Oil prices fall as renewed hopes for peace talks feed a stock market rally *(Yahoo Finance)*
-- We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve -- and Wall Street Isn't Ready for It *(Yahoo Finance)*
-- After Turmoil in March, Will the S&amp;P 500 Tumble in April? Here's What History Says. *(Yahoo Finance)*
-- Heard on the Street Tuesday Recap: Stocks Carry On *(Yahoo Finance)*
-- Stock Futures Slip as Iran Relief Rally Stalls *(Yahoo Finance)*
-- Bitcoin Price Rising During Iran War? Bitwise CIO Points to ‘Dual Use Case’ Over Gold After $1M Prediction *(Yahoo Finance)*
-- European shares are little changed after Asia finishes higher amid hopes for US-Iran talks *(Yahoo Finance)*
-- 3 AI Stocks That Can Outpace the S&amp;P 500 for the Next 5 Years *(Yahoo Finance)*
-- 3 Steady Dividend Stocks with 3% Yields and Growing Profits *(Yahoo Finance)*
-- Why IonQ Stock Skyrocketed Today *(Yahoo Finance)*
-- Microsoft’s 3,200 Acres Data Center Land Purchase—and the Utility Stock That Benefits *(Yahoo Finance)*
-- Morgan Stanley has a blunt message on S&amp;P 500 *(Yahoo Finance)*
-- Nasdaq Logs Longest Winning Streak Since 2021 as Investors Look Beyond War *(Yahoo Finance)*
+- 3 Reasons We’re Fans of Palomar Holdings (PLMR) *(Yahoo Finance)*
+- S&amp;P 500 and Nasdaq hit new all-time highs despite Iran war effects *(Yahoo Finance)*
+- Mr. Market Is Off His Meds *(Yahoo Finance)*
+- Tesla Stock Rises. How It’s Joining the Rally in a Big Way. *(Yahoo Finance)*
+- US Stock Market Today S&amp;P 500 Futures Edge Higher As Bond Yields Ease *(Yahoo Finance)*
+- Morning Brief: The S&amp;P 500 smashes through the 7,000 mark *(Yahoo Finance)*
+- The S&amp;P 500 just flashed a rare bullish signal — with a dot-com catch: Chart of the Day *(Yahoo Finance)*
+- Morgan Stanley Calls These 2 Stocks ‘Top Picks’ for 2026 – Here’s Why *(Yahoo Finance)*
+- A Voting Member of the FOMC Just Said the Quiet Part Out Loud -- and It Should Terrify Wall Street *(Yahoo Finance)*
+- Why Fastly (FSLY) Stock Is Trading Up Today *(Yahoo Finance)*
+- Stock Futures Rise After S&amp;P 500, Nasdaq Hit Record Highs *(Yahoo Finance)*
+- Why Workday (WDAY) Stock Is Trading Up Today *(Yahoo Finance)*
+- Rapid7, Upland Software, DocuSign, MongoDB, and Unity Stocks Trade Up, What You Need To Know *(Yahoo Finance)*
+- Salesforce (CRM) Stock Is Up, What You Need To Know *(Yahoo Finance)*
+- Dropbox, Five9, Veeva Systems, AppLovin, and Toast Shares Skyrocket, What You Need To Know *(Yahoo Finance)*
+- Freshworks, Procore Technologies, and PubMatic Shares Skyrocket, What You Need To Know *(Yahoo Finance)*
+- Stocks Rally, Oil Steady as Investor Risk Appetite Grows *(Yahoo Finance)*
+- Palantir Technologies (PLTR) Stock Trades Up, Here Is Why *(Yahoo Finance)*
+- Why Are UiPath (PATH) Shares Soaring Today *(Yahoo Finance)*
+- Fed Fight Is Ramping Up — Heard on the Street Wednesday Recap *(Yahoo Finance)*
