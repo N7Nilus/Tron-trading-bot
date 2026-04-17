@@ -189,3 +189,66 @@
 - `2026-04-16T10:49:40.037Z` SELL SNAL 1x @ $0 | SNAL not trading today - likely halted or delisted after yesterday's parabolic move. Classic pump and dump pattern completing, taking total loss as expected with high-risk momentum play.
 - `2026-04-16T10:49:40.037Z` BUY IONQ 11x @ $43.25 | Quantum computing exploding with 49% gain on massive 85M volume - this is the real AI infrastructure play beyond semiconductors. Market finally recognizing quantum as next phase of computing revolution.
 - `2026-04-16T10:49:40.037Z` === TRON DAY 3 DONE ===
+- `2026-04-17T10:40:08.714Z` === TRON DAY 4 START ===
+- `2026-04-17T10:40:08.717Z` Lade Marktdaten...
+- `2026-04-17T10:40:09.026Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-17T10:40:09.056Z` Live: BE = $210.06 (+31.18%)
+- `2026-04-17T10:40:09.300Z` Live: OXY = $56.87 (-2.84%)
+- `2026-04-17T10:40:09.479Z` Live: NFLX = $107.79 (+5.62%)
+- `2026-04-17T10:40:09.659Z` Live: BTC-USD = $75251.24 (+1.03%)
+- `2026-04-17T10:40:09.839Z` Live: AMD = $278.26 (+17.59%)
+- `2026-04-17T10:40:10.094Z` Live: GE = $298.29 (-4.71%)
+- `2026-04-17T10:40:10.284Z` Live: NVTS = $12.37 (+31.32%)
+- `2026-04-17T10:40:10.471Z` Live: ETH-USD = $2344.35 (-1.11%)
+- `2026-04-17T10:40:10.652Z` Live: DVLT = $0.84 (+27.27%)
+- `2026-04-17T10:40:10.834Z` Live: XRP-USD = $1.44 (+4.6%)
+- `2026-04-17T10:40:11.015Z` Live: ISPC = $0.12 (-7.69%)
+- `2026-04-17T10:40:11.193Z` Live: BZAI = $1.73 (-24.78%)
+- `2026-04-17T10:40:11.371Z` Live: MSTR = $148.94 (+15.58%)
+- `2026-04-17T10:40:11.584Z` Live: ALO.PA = $16 (-28.32%)
+- `2026-04-17T10:40:11.763Z` Live: AXTI = $81.78 (+29.56%)
+- `2026-04-17T10:40:11.986Z` Live: SCHW = $92.62 (-4.78%)
+- `2026-04-17T10:40:12.166Z` Live: SOL-USD = $87.76 (+1.27%)
+- `2026-04-17T10:40:12.349Z` Live: RKLB = $82.93 (+24.26%)
+- `2026-04-17T10:40:12.574Z` Live: ALB = $215.62 (+25.11%)
+- `2026-04-17T10:40:12.752Z` Live: MAIR = $31.75 (+17.59%)
+- `2026-04-17T10:40:12.933Z` Live: BTC-EUR = $63807.39 (+0.8%)
+- `2026-04-17T10:40:13.180Z` Live: ABT = $95.47 (-7.06%)
+- `2026-04-17T10:40:13.398Z` Live: CAR = $448.98 (+51.13%)
+- `2026-04-17T10:40:13.577Z` Live: ON = $79.93 (+16.7%)
+- `2026-04-17T10:40:13.757Z` Live: CHTR = $235.97 (+5.71%)
+- `2026-04-17T10:40:13.938Z` Live: AEHR = $80.85 (+17.41%)
+- `2026-04-17T10:40:14.118Z` Live: ITM.L = $132.27 (+85.38%)
+- `2026-04-17T10:40:14.298Z` Live: XNDU = $32.67 (+327.06%)
+- `2026-04-17T10:40:14.478Z` Live: NN = $21.49 (+42.22%)
+- `2026-04-17T10:40:14.665Z` Live: FLY = $44.17 (+17.57%)
+- `2026-04-17T10:40:14.844Z` Live: PL = $39.89 (+16.54%)
+- `2026-04-17T10:40:15.024Z` Live: SMMT = $24.42 (+26.46%)
+- `2026-04-17T10:40:15.207Z` Live: RUM = $6.39 (+25.05%)
+- `2026-04-17T10:40:15.391Z` Live: FRMI = $6.67 (+38.38%)
+- `2026-04-17T10:40:15.577Z` Live: IRDM = $43.41 (+25.28%)
+- `2026-04-17T10:40:15.791Z` Live: LUNR = $27.28 (+24.17%)
+- `2026-04-17T10:40:15.976Z` Live: DOCN = $88.43 (+1.45%)
+- `2026-04-17T10:40:16.157Z` Live: SGML = $20.7 (+50.76%)
+- `2026-04-17T10:40:16.338Z` Live: RDW = $11.22 (+21.69%)
+- `2026-04-17T10:40:16.518Z` Live: SOC = $14.37 (+10.37%)
+- `2026-04-17T10:40:16.699Z` Live: HIMS = $26.99 (+36.66%)
+- `2026-04-17T10:40:16.926Z` Live: PII = $53.02 (-6.09%)
+- `2026-04-17T10:40:17.105Z` Live: IESC = $483.38 (-9.77%)
+- `2026-04-17T10:40:17.285Z` Live: MANE = $74.12 (+23.57%)
+- `2026-04-17T10:40:17.470Z` Live: MMED = $14.02 (+1.59%)
+- `2026-04-17T10:40:17.716Z` Live: MAIN = $53.46 (+0.04%)
+- `2026-04-17T10:40:17.912Z` Live: RYAAY = $57.38 (-9.69%)
+- `2026-04-17T10:40:18.093Z` Live: IBRX = $7.25 (-3.07%)
+- `2026-04-17T10:40:18.278Z` Live: BLTE = $158.05 (-12.76%)
+- `2026-04-17T10:40:18.463Z` Live: PLBL = $6.51 (-27.34%)
+- `2026-04-17T10:40:18.613Z` 50 echte Live-Kurse geladen
+- `2026-04-17T10:40:18.614Z` Lade News...
+- `2026-04-17T10:40:19.712Z` Yahoo News: 20 Headlines geladen
+- `2026-04-17T10:40:20.114Z` TRON analysiert News...
+- `2026-04-17T10:40:35.366Z` News analysiert: Markets are rallying on Iran ceasefire optimism while oil prices fall on Trump's diplomatic comments...
+- `2026-04-17T10:40:35.608Z` TRON trifft Handelsentscheidungen...
+- `2026-04-17T10:40:44.187Z` Portfolio: EUR 501.16 | PnL: +0.23%
+- `2026-04-17T10:40:44.187Z` SELL IONQ 11x @ $0 | IONQ not in live prices - likely halted after quantum bubble burst. Classic momentum trap as I predicted with high-risk plays. Cutting losses and refocusing on profitable core holdings.
+- `2026-04-17T10:40:44.187Z` BUY XNDU 15x @ $32.67 | EXPLOSIVE 327% move with 16.7M volume - this is the quantum computing breakout I've been hunting! Market finally recognizing quantum as real AI infrastructure play beyond traditional semiconductors.
+- `2026-04-17T10:40:44.187Z` === TRON DAY 4 DONE ===

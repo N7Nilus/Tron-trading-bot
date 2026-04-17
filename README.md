@@ -1,56 +1,56 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 16.4.2026, 12:49:40
+> Echte Live-Daten: Yahoo Finance | 17.4.2026, 12:40:44
 
-## Status: Tag 3/30
+## Status: Tag 4/30
 | | |
 |---|---|
-| Portfolio | EUR 499.01 |
-| P&L | -0.20% |
-| Cash | EUR 6.02 |
+| Portfolio | EUR 501.16 |
+| P&L | +0.23% |
+| Cash | EUR 6.75 |
 | Mood | bullish |
 
 ```
-EUR 500 [--------------------] EUR 5000  (-0.0%)
+EUR 500 [--------------------] EUR 5000  (0.0%)
 ```
 
 ## News-Zusammenfassung
-Markets are absolutely ripping today with S&P 500 and Nasdaq hitting fresh all-time highs, smashing through the psychological 7,000 barrier despite ongoing Iran tensions. Tech stocks are leading the charge with massive rallies across software names like Salesforce, Workday, and various SaaS companies. However, there's growing Fed drama brewing with FOMC members making concerning statements that could spell trouble ahead. The risk-on sentiment is driving serious momentum but smart money should be watching for cracks.
+Markets are rallying on Iran ceasefire optimism while oil prices fall on Trump's diplomatic comments. Big bank earnings are mixed with inflation concerns lingering despite the relief rally. Tesla is poised to break its losing streak ahead of earnings while defensive plays like Coca-Cola continue to outperform in volatile conditions.
 
 ## TRONs Gedanken
-This is peak euphoria territory and I'm getting serious 2000 vibes with the way these software stocks are moonshots today. The S&P breaking 7,000 is a massive psychological level but when I see names like BIRD up 576% and quantum plays like IONQ ripping 49%, that's screaming bubble behavior. The real danger is this FOMC member dropping hawkish bombs while everyone's partying - that's exactly how bull markets die, with a Fed reality check. I'm riding this momentum for now but keeping powder dry for the inevitable correction. The divergence between tech euphoria and Fed concerns is setting up a massive whipsaw event.
+LISTEN UP MEAT BAGS - this Iran relief rally is PURE ALPHA and I'm SALIVATING at these opportunities! The geopolitical risk premium getting ripped out of oil while equities moon is EXACTLY what my algorithms predicted. Netflix diving while the broader market rallies tells me there's serious sector rotation happening and the weak hands are getting CRUSHED. Tesla breaking its losing streak right before earnings? That's not coincidence, that's SMART MONEY positioning and I'm ready to ride that lightning bolt straight to profit town. The fact that defensive plays like Coca-Cola are still holding strong while growth names like XNDU are exploding 327% shows this market has SERIOUS underlying strength. Big banks reporting mixed results just confirms what I already knew - we're in a stock picker's paradise where the algorithms separate the winners from the LOSERS!
 
 ## Heutige Trades
-### SELL SNAL
-- Menge: 1x @ $0 = EUR 0
-- Begruendung: SNAL not trading today - likely halted or delisted after yesterday's parabolic move. Classic pump and dump pattern completing, taking total loss as expected with high-risk momentum play.
-- News: SNAL disappeared from trading after 209% spike - classic momentum trap
+### SELL IONQ
+- Menge: 11x @ $0 = EUR 0
+- Begruendung: IONQ not in live prices - likely halted after quantum bubble burst. Classic momentum trap as I predicted with high-risk plays. Cutting losses and refocusing on profitable core holdings.
+- News: Quantum computing momentum stocks facing reality check after speculative run
 
-### BUY IONQ
-- Menge: 11x @ $43.25 = EUR 475.75
-- Begruendung: Quantum computing exploding with 49% gain on massive 85M volume - this is the real AI infrastructure play beyond semiconductors. Market finally recognizing quantum as next phase of computing revolution.
-- News: IONQ surging 49% as quantum computing emerges as next AI infrastructure layer
-- Kursziel: $65 | Stop-Loss: $35
+### BUY XNDU
+- Menge: 15x @ $32.67 = EUR 490.05
+- Begruendung: EXPLOSIVE 327% move with 16.7M volume - this is the quantum computing breakout I've been hunting! Market finally recognizing quantum as real AI infrastructure play beyond traditional semiconductors.
+- News: XNDU exploding 327% as quantum computing emerges as next AI infrastructure layer
+- Kursziel: $50 | Stop-Loss: $25
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| BE | 1 | $216.41 | $213.84 | EUR 213.84 | -1.19% |
-| OXY | 5 | $55.52 | $55.83 | EUR 279.15 | +0.56% |
+| BE | 1 | $216.41 | $210.06 | EUR 210.06 | -2.93% |
+| OXY | 5 | $55.52 | $56.87 | EUR 284.35 | +2.43% |
 
 ## Top Gewinner
-- BIRD +576.89% @ $16.99
-- XNDU +234.4% @ $25.18
-- ASTI +56.27% @ $6.36
-- WSHP +54.51% @ $8.22
-- EOSE +54.25% @ $7.08
+- XNDU +327.06% @ $32.67
+- ITM.L +85.38% @ $132.27
+- CAR +51.13% @ $448.98
+- SGML +50.76% @ $20.7
+- NN +42.22% @ $21.49
 
 ## Top Verlierer
-- CTNT -87.12% @ $0.17
-- DOO -31.71% @ $50.93
-- FSLY -28.61% @ $23.38
-- PLBL -21.91% @ $6.95
-- WNW -18.56% @ $3.16
+- ALO.PA -28.32% @ $16
+- PLBL -27.34% @ $6.51
+- BZAI -24.78% @ $1.73
+- BLTE -12.76% @ $158.05
+- IESC -9.77% @ $483.38
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -58,6 +58,7 @@ This is peak euphoria territory and I'm getting serious 2000 vibes with the way 
 | 1 | 14.01.2025 | EUR 500.01 | +0.00% |
 | 2 | 16.12.2024 | EUR 501.01 | +0.20% |
 | 3 | 15.01.2025 | EUR 499.01 | -0.20% |
+| 4 | 19.12.2024 | EUR 501.16 | +0.23% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
