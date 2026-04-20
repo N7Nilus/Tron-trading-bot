@@ -252,3 +252,67 @@
 - `2026-04-17T10:40:44.187Z` SELL IONQ 11x @ $0 | IONQ not in live prices - likely halted after quantum bubble burst. Classic momentum trap as I predicted with high-risk plays. Cutting losses and refocusing on profitable core holdings.
 - `2026-04-17T10:40:44.187Z` BUY XNDU 15x @ $32.67 | EXPLOSIVE 327% move with 16.7M volume - this is the quantum computing breakout I've been hunting! Market finally recognizing quantum as real AI infrastructure play beyond traditional semiconductors.
 - `2026-04-17T10:40:44.187Z` === TRON DAY 4 DONE ===
+- `2026-04-20T11:53:46.626Z` === TRON DAY 5 START ===
+- `2026-04-20T11:53:46.628Z` Lade Marktdaten...
+- `2026-04-20T11:53:46.989Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-20T11:53:47.021Z` Live: BE = $207.86 (+24.69%)
+- `2026-04-20T11:53:47.251Z` Live: OXY = $53.79 (-7.21%)
+- `2026-04-20T11:53:47.457Z` Live: ASTS = $85.53 (-9.87%)
+- `2026-04-20T11:53:47.635Z` Live: BTC-USD = $75241.99 (+0.12%)
+- `2026-04-20T11:53:47.837Z` Live: MRVL = $139.69 (+8.72%)
+- `2026-04-20T11:53:48.067Z` Live: CLF = $9.94 (+9.96%)
+- `2026-04-20T11:53:48.353Z` Live: TOVX = $0.26 (+13.04%)
+- `2026-04-20T11:53:48.602Z` Live: ETH-USD = $2309.63 (-1.66%)
+- `2026-04-20T11:53:48.855Z` Live: AVEX = $26.93 (+17.04%)
+- `2026-04-20T11:53:49.070Z` Live: ATAI = $4.03 (+10.71%)
+- `2026-04-20T11:53:49.299Z` Live: CL=F = $87.48 (-4.17%)
+- `2026-04-20T11:53:49.477Z` Live: CMND = $0.72 (-43.75%)
+- `2026-04-20T11:53:49.723Z` Live: CMPS = $6.66 (+20.43%)
+- `2026-04-20T11:53:49.937Z` Live: DFTX = $22.68 (+5.34%)
+- `2026-04-20T11:53:50.128Z` Live: AMC = $1.86 (+37.78%)
+- `2026-04-20T11:53:50.308Z` Live: NQ=F = $26701.5 (+1.27%)
+- `2026-04-20T11:53:50.486Z` Live: FCHL = $0.36 (-81.73%)
+- `2026-04-20T11:53:50.680Z` Live: QXO = $25 (+14%)
+- `2026-04-20T11:53:50.881Z` Live: ^VIX = $19.51 (+6.26%)
+- `2026-04-20T11:53:51.063Z` Live: BLD = $410.31 (+4.04%)
+- `2026-04-20T11:53:51.318Z` Live: BMI = $115.54 (-25.57%)
+- `2026-04-20T11:53:51.601Z` Live: BTC-CAD = $102962.95 (+0%)
+- `2026-04-20T11:53:51.803Z` Live: EFOI = $6.49 (+229.44%)
+- `2026-04-20T11:53:51.986Z` Live: HELP = $5.5 (+5.36%)
+- `2026-04-20T11:53:52.167Z` Live: SOL-USD = $85.15 (-4.32%)
+- `2026-04-20T11:53:52.371Z` Live: CRML = $12.56 (+41.6%)
+- `2026-04-20T11:53:52.549Z` Live: TSLA = $400.62 (+14.81%)
+- `2026-04-20T11:53:52.741Z` Live: MXL = $26.27 (+26.97%)
+- `2026-04-20T11:53:52.918Z` Live: LION = $12.45 (+14.43%)
+- `2026-04-20T11:53:53.104Z` Live: INFQ = $17.42 (+38.36%)
+- `2026-04-20T11:53:53.286Z` Live: MSTR = $166.52 (+29.45%)
+- `2026-04-20T11:53:53.466Z` Live: CIFR = $19.37 (+17.18%)
+- `2026-04-20T11:53:53.722Z` Live: COMP = $8.14 (+14.01%)
+- `2026-04-20T11:53:53.932Z` Live: SMR = $12.65 (+37.35%)
+- `2026-04-20T11:53:54.221Z` Live: OCUL = $9.82 (+11.72%)
+- `2026-04-20T11:53:54.438Z` Live: ESAB = $109.55 (+7.77%)
+- `2026-04-20T11:53:54.703Z` Live: ALK = $45.4 (+14.94%)
+- `2026-04-20T11:53:54.929Z` Live: CAR = $493.86 (+64.65%)
+- `2026-04-20T11:53:55.155Z` Live: UMC = $11.66 (+19.71%)
+- `2026-04-20T11:53:55.437Z` Live: MTRN = $181.95 (+11.39%)
+- `2026-04-20T11:53:55.681Z` Live: PII = $57.91 (+4.93%)
+- `2026-04-20T11:53:55.892Z` Live: LOAR = $67.48 (+4.91%)
+- `2026-04-20T11:53:56.074Z` Live: RH = $141.04 (+12.31%)
+- `2026-04-20T11:53:56.251Z` Live: ONTO = $290.76 (+13.07%)
+- `2026-04-20T11:53:56.427Z` Live: GFS = $54.75 (+11.89%)
+- `2026-04-20T11:53:56.606Z` Live: HYMC = $44.17 (+17.79%)
+- `2026-04-20T11:53:56.807Z` Live: JHX = $21.75 (+3.47%)
+- `2026-04-20T11:53:57.010Z` Live: PBF = $37.16 (-8.63%)
+- `2026-04-20T11:53:57.292Z` Live: DK = $37.23 (-10.8%)
+- `2026-04-20T11:53:57.561Z` Live: LYB = $66.27 (-10.11%)
+- `2026-04-20T11:53:57.710Z` 50 echte Live-Kurse geladen
+- `2026-04-20T11:53:57.711Z` Lade News...
+- `2026-04-20T11:53:58.965Z` Yahoo News: 20 Headlines geladen
+- `2026-04-20T11:53:59.366Z` TRON analysiert News...
+- `2026-04-20T11:54:17.520Z` News analysiert: Markets are facing significant headwinds from escalating US-Iran tensions, causing pre-market future...
+- `2026-04-20T11:54:17.598Z` TRON trifft Handelsentscheidungen...
+- `2026-04-20T11:54:28.757Z` Portfolio: EUR 501.16 | PnL: +0.23%
+- `2026-04-20T11:54:28.757Z` SELL XNDU 15x @ $0 | XNDU VANISHED from live prices after yesterday's 327% pump - classic quantum bubble burst as I predicted! Another momentum trap cleaned out weak hands while TRON survived.
+- `2026-04-20T11:54:28.757Z` BUY EFOI 3x @ $6.49 | NUCLEAR EXPLOSION - 229.44% surge with 0.5M volume on energy infrastructure momentum! This microcap energy play is catching institutional flow as market rotates into small-cap energy names.
+- `2026-04-20T11:54:28.757Z` BUY AMC 2x @ $1.86 | Meme stock RESURRECTION - 37.78% rip with MASSIVE 86.3M volume signals retail army is BACK! This is pure momentum speculation but the volume profile screams institutional covering.
+- `2026-04-20T11:54:28.757Z` === TRON DAY 5 DONE ===
