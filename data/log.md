@@ -316,3 +316,67 @@
 - `2026-04-20T11:54:28.757Z` BUY EFOI 3x @ $6.49 | NUCLEAR EXPLOSION - 229.44% surge with 0.5M volume on energy infrastructure momentum! This microcap energy play is catching institutional flow as market rotates into small-cap energy names.
 - `2026-04-20T11:54:28.757Z` BUY AMC 2x @ $1.86 | Meme stock RESURRECTION - 37.78% rip with MASSIVE 86.3M volume signals retail army is BACK! This is pure momentum speculation but the volume profile screams institutional covering.
 - `2026-04-20T11:54:28.757Z` === TRON DAY 5 DONE ===
+- `2026-04-21T10:54:38.881Z` === TRON DAY 6 START ===
+- `2026-04-21T10:54:38.884Z` Lade Marktdaten...
+- `2026-04-21T10:54:39.312Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-21T10:54:39.393Z` Live: BE = $218.27 (+23.55%)
+- `2026-04-21T10:54:39.681Z` Live: OXY = $54.48 (-6.17%)
+- `2026-04-21T10:54:39.905Z` Live: BYND = $1.16 (+75.76%)
+- `2026-04-21T10:54:40.109Z` Live: BTC-USD = $76869.64 (-0.33%)
+- `2026-04-21T10:54:40.310Z` Live: AMZN = $248.28 (+3.5%)
+- `2026-04-21T10:54:40.569Z` Live: CAR = $608.8 (+64.09%)
+- `2026-04-21T10:54:40.790Z` Live: AAPL = $273.05 (+5.34%)
+- `2026-04-21T10:54:40.969Z` Live: BB = $5.5 (+42.12%)
+- `2026-04-21T10:54:41.148Z` Live: NVTS = $13.2 (+34.42%)
+- `2026-04-21T10:54:41.330Z` Live: PLUG = $3.22 (+16.25%)
+- `2026-04-21T10:54:41.612Z` Live: UNH = $323.48 (+3.35%)
+- `2026-04-21T10:54:41.789Z` Live: ALAB = $175.8 (+5.4%)
+- `2026-04-21T10:54:41.970Z` Live: CRDO = $174.53 (+29.9%)
+- `2026-04-21T10:54:42.154Z` Live: TTD = $24.05 (+13.34%)
+- `2026-04-21T10:54:42.404Z` Live: ETH-USD = $2336.17 (-3.51%)
+- `2026-04-21T10:54:42.584Z` Live: ONDS = $10.73 (+13.31%)
+- `2026-04-21T10:54:42.765Z` Live: BSX = $60.99 (-3.47%)
+- `2026-04-21T10:54:42.949Z` Live: XRP-USD = $1.45 (-1.83%)
+- `2026-04-21T10:54:43.175Z` Live: HPE = $27.81 (+12.09%)
+- `2026-04-21T10:54:43.357Z` Live: SPRC = $4.23 (+38.01%)
+- `2026-04-21T10:54:43.541Z` Live: SLNH = $1.4 (+50.54%)
+- `2026-04-21T10:54:43.720Z` Live: NOW = $99.72 (+11.97%)
+- `2026-04-21T10:54:43.960Z` Live: NRG = $157.18 (-7.67%)
+- `2026-04-21T10:54:44.207Z` Live: POET = $8.59 (+17.67%)
+- `2026-04-21T10:54:44.451Z` Live: FCHL = $0.23 (-88.08%)
+- `2026-04-21T10:54:44.697Z` Live: ARM = $175.1 (+11.12%)
+- `2026-04-21T10:54:44.947Z` Live: SWK = $75.12 (+3.83%)
+- `2026-04-21T10:54:45.192Z` Live: MXL = $31.73 (+48.9%)
+- `2026-04-21T10:54:45.380Z` Live: BLD = $489.83 (+23.56%)
+- `2026-04-21T10:54:45.607Z` Live: LEGN = $25.07 (+41.72%)
+- `2026-04-21T10:54:45.809Z` Live: NKTR = $100.35 (+24.74%)
+- `2026-04-21T10:54:45.984Z` Live: ERAS = $21.71 (+33.11%)
+- `2026-04-21T10:54:46.163Z` Live: USAR = $22.58 (+34.48%)
+- `2026-04-21T10:54:46.339Z` Live: LWLG = $14.18 (+24.5%)
+- `2026-04-21T10:54:46.556Z` Live: HPP = $8.51 (+39.28%)
+- `2026-04-21T10:54:46.756Z` Live: WIX = $75.55 (+16.34%)
+- `2026-04-21T10:54:46.958Z` Live: ACLS = $131.02 (+18.31%)
+- `2026-04-21T10:54:47.159Z` Live: SGML = $21.69 (+24.73%)
+- `2026-04-21T10:54:47.340Z` Live: BLLN = $86.97 (+10.51%)
+- `2026-04-21T10:54:47.598Z` Live: VECO = $46.73 (+16.5%)
+- `2026-04-21T10:54:47.801Z` Live: MP = $66.23 (+16.6%)
+- `2026-04-21T10:54:48.031Z` Live: UMC = $12.64 (+30.31%)
+- `2026-04-21T10:54:48.215Z` Live: KSPI = $91.81 (+15.43%)
+- `2026-04-21T10:54:48.392Z` Live: YSS = $38.47 (+13.58%)
+- `2026-04-21T10:54:48.571Z` Live: FRMI = $5.4 (+5.47%)
+- `2026-04-21T10:54:48.748Z` Live: BW = $16.54 (-9.32%)
+- `2026-04-21T10:54:48.928Z` Live: XNDU = $27.63 (+140.47%)
+- `2026-04-21T10:54:49.154Z` Live: INFQ = $16 (+27.08%)
+- `2026-04-21T10:54:49.338Z` Live: LCID = $6.75 (-26.95%)
+- `2026-04-21T10:54:49.593Z` Live: FLNC = $12.63 (-7.47%)
+- `2026-04-21T10:54:49.743Z` 50 echte Live-Kurse geladen
+- `2026-04-21T10:54:49.744Z` Lade News...
+- `2026-04-21T10:54:50.842Z` Yahoo News: 20 Headlines geladen
+- `2026-04-21T10:54:51.243Z` TRON analysiert News...
+- `2026-04-21T10:55:09.392Z` News analysiert: Market volatility dominates as geopolitical tensions escalate with US-Iran negotiations failing and ...
+- `2026-04-21T10:55:09.411Z` TRON trifft Handelsentscheidungen...
+- `2026-04-21T10:55:21.536Z` Portfolio: EUR 594.76 | PnL: +18.95%
+- `2026-04-21T10:55:21.536Z` SELL EFOI 3x @ $0 | EFOI vanished from live prices after yesterday's 229% nuclear pump - another momentum trap imploded as expected! Classic parabolic bubble burst pattern.
+- `2026-04-21T10:55:21.536Z` SELL AMC 2x @ $0 | AMC disappeared from trading after meme stock pump - retail euphoria crushed again! These momentum plays always end the same way.
+- `2026-04-21T10:55:21.536Z` BUY BB 18x @ $5.5 | BLACKBERRY NUCLEAR EXPLOSION - 42.12% surge on NVIDIA AI partnership with MASSIVE 55.1M volume! This validates my thesis on edge computing being the next AI infrastructure play beyond data centers.
+- `2026-04-21T10:55:21.536Z` === TRON DAY 6 DONE ===
