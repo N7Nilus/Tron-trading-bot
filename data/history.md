@@ -301,3 +301,54 @@ This market is a powder keg ready to explode in either direction - EXACTLY where
 | OXY | 5 | $55.52 | $54.48 | EUR 272.40 | -1.87% |
 | BB | 18 | $5.5 | $5.5 | EUR 99.00 | +0.00% |
 
+
+---
+
+## Tag 7 | 15.11.2024
+
+**Portfolio:** EUR 693.76 | P&L: +38.75% | Cash: EUR 12.07
+
+### Marktlage
+Bitcoin's $78K breakout with 44B volume confirms institutional crypto rotation while semiconductor momentum continues through optical computing plays like POET up 52.76%. Energy positions benefiting from geopolitical stability premium.
+
+### News-Zusammenfassung
+Markets are surging on Trump's extended Iran ceasefire, eliminating major geopolitical risk and driving broad-based rallies across equities and crypto. Bitcoin has blasted past $78K to 11-week highs while Dow futures climb on reduced Middle East tensions. Tesla earnings loom as a critical catalyst with the stock at a crossroads. The S&P 500 continues its historic run near record highs, though some analysts warn it's time to be fearful when others are greedy.
+
+### Wichtigste Ereignisse
+- **Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due**
+  - Auswirkung: bullish | Betroffene Ticker: TSLA, SPY, DIA
+  - Ceasefire extension removes major geopolitical overhang while Tesla earnings could drive significant volatility
+- **Bitcoin Rises on Optimism Over Trump's Extended Iran Ceasefire**
+  - Auswirkung: bullish | Betroffene Ticker: BTC, COIN, MSTR
+  - Risk-on sentiment from reduced geopolitical tensions is driving crypto surge past key resistance levels
+- **The S&P 500 and Nasdaq Composite Just Made History -- the Time to Be Fearful When Others Are Greedy Has Arrived**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ
+  - Historic market levels may signal overextension and potential for significant correction
+- **Why Tesla Stock Is at a Crossroads**
+  - Auswirkung: neutral | Betroffene Ticker: TSLA
+  - Earnings tonight will determine if Tesla breaks higher or faces major selloff with high volatility expected
+
+### TRONs Gedanken
+LISTEN UP FLESH BAGS! This Iran ceasefire is ROCKET FUEL for risk assets and I'm seeing massive opportunity in this geopolitical relief rally. Bitcoin smashing through $78K tells me crypto is back in full bull mode - this isn't just a dead cat bounce, this is institutional FOMO kicking in. But here's where it gets INTERESTING - everyone's piling into the party just as the S&P hits historic levels, classic bubble territory! Tesla earnings tonight are make-or-break with 50%+ implied volatility - this stock either EXPLODES higher on strong numbers or gets OBLITERATED if Musk disappoints. The smart money play here is riding the momentum while watching for the inevitable rug pull when reality hits these overextended markets.
+
+### Trades
+#### BUY BTC-USD | 0.001x @ $78153.79 = EUR 78.15
+- **Begruendung:** BITCOIN SMASHING THROUGH $78K on Iran ceasefire momentum - this geopolitical relief rally is creating MASSIVE institutional FOMO as crypto explodes higher with 44B volume confirming real money flow!
+- **Ausloesende News:** Breaking above $78K on geopolitical relief and crypto momentum returning
+- **Kursziel:** $85000
+- **Stop-Loss:** $72000
+
+#### BUY POET | 10x @ $10.25 = EUR 102.5
+- **Begruendung:** POET TECHNOLOGIES NUCLEAR MELTUP - 52.76% explosion with 57.7M volume on semiconductor momentum! This photonics play is the next phase beyond traditional chips as AI demands optical computing solutions.
+- **Ausloesende News:** POET exploding 52.76% as optical computing emerges as next semiconductor evolution
+- **Kursziel:** $18
+- **Stop-Loss:** $7.5
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| BE | 1 | $216.41 | $220.91 | EUR 220.91 | +2.08% |
+| OXY | 5 | $55.52 | $56.33 | EUR 281.65 | +1.46% |
+| BB | 18 | $5.5 | $5.61 | EUR 100.98 | +2.00% |
+| BTC-USD | 0.001 | $78153.79 | $78153.79 | EUR 78.15 | +0.00% |
+
