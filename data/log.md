@@ -443,3 +443,67 @@
 - `2026-04-22T10:53:16.460Z` BUY BTC-USD 0.001x @ $78153.79 | BITCOIN SMASHING THROUGH $78K on Iran ceasefire momentum - this geopolitical relief rally is creating MASSIVE institutional FOMO as crypto explodes higher with 44B volume confirming real money flow!
 - `2026-04-22T10:53:16.460Z` BUY POET 10x @ $10.25 | POET TECHNOLOGIES NUCLEAR MELTUP - 52.76% explosion with 57.7M volume on semiconductor momentum! This photonics play is the next phase beyond traditional chips as AI demands optical computing solutions.
 - `2026-04-22T10:53:16.460Z` === TRON DAY 7 DONE ===
+- `2026-04-23T10:58:16.391Z` === TRON DAY 8 START ===
+- `2026-04-23T10:58:16.394Z` Lade Marktdaten...
+- `2026-04-23T10:58:16.731Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-23T10:58:16.769Z` Live: BE = $229.75 (+7.44%)
+- `2026-04-23T10:58:17.013Z` Live: OXY = $57.05 (+2.19%)
+- `2026-04-23T10:58:17.200Z` Live: BB = $5.43 (+32.12%)
+- `2026-04-23T10:58:17.390Z` Live: BTC-USD = $77435.29 (+4.85%)
+- `2026-04-23T10:58:17.584Z` Live: TSLA = $387.51 (-1.13%)
+- `2026-04-23T10:58:17.775Z` Live: NOW = $103.07 (+9.43%)
+- `2026-04-23T10:58:17.964Z` Live: QS = $7.31 (+1.95%)
+- `2026-04-23T10:58:18.171Z` Live: TSM = $387.44 (+3.29%)
+- `2026-04-23T10:58:18.399Z` Live: NOK = $9.86 (-1.3%)
+- `2026-04-23T10:58:18.606Z` Live: ASML = $1443.66 (-2.57%)
+- `2026-04-23T10:58:18.879Z` Live: IBM = $251.86 (+2.88%)
+- `2026-04-23T10:58:19.070Z` Live: AKAN = $10.21 (+208.46%)
+- `2026-04-23T10:58:19.331Z` Live: TXN = $236.31 (+9.26%)
+- `2026-04-23T10:58:19.519Z` Live: TLRY = $7.87 (+13.24%)
+- `2026-04-23T10:58:19.751Z` Live: NOKIA.HE = $9.35 (+8.14%)
+- `2026-04-23T10:58:19.942Z` Live: AGPU = $8.75 (+149.29%)
+- `2026-04-23T10:58:20.130Z` Live: CGC = $1.38 (+20%)
+- `2026-04-23T10:58:20.319Z` Live: ARM = $196.57 (+23.37%)
+- `2026-04-23T10:58:20.510Z` Live: FLYYQ = $1.5 (+435.71%)
+- `2026-04-23T10:58:20.698Z` Live: LULU = $163.45 (+0.44%)
+- `2026-04-23T10:58:20.888Z` Live: XPEV = $16.97 (-3.91%)
+- `2026-04-23T10:58:21.084Z` Live: BKNG = $179.4 (-3.39%)
+- `2026-04-23T10:58:21.272Z` Live: PAPL = $0.6 (-3.54%)
+- `2026-04-23T10:58:21.461Z` Live: XNDU = $34.75 (+38.01%)
+- `2026-04-23T10:58:21.682Z` Live: NESN.SW = $80.32 (+1.65%)
+- `2026-04-23T10:58:21.872Z` Live: GEV = $1127.56 (+14.37%)
+- `2026-04-23T10:58:22.073Z` Live: TMUS = $188.92 (-0.67%)
+- `2026-04-23T10:58:22.263Z` Live: AIXI = $0.9 (-21.05%)
+- `2026-04-23T10:58:22.461Z` Live: GME = $25.66 (+3.51%)
+- `2026-04-23T10:58:22.652Z` Live: NVTS = $18.47 (+80.02%)
+- `2026-04-23T10:58:22.839Z` Live: LWLG = $15.16 (+25.39%)
+- `2026-04-23T10:58:23.038Z` Live: SMR = $13.57 (+15.88%)
+- `2026-04-23T10:58:23.228Z` Live: AXTI = $86.94 (+38.15%)
+- `2026-04-23T10:58:23.422Z` Live: MCRI = $114.24 (+16.62%)
+- `2026-04-23T10:58:23.611Z` Live: OKLO = $72.41 (+14.3%)
+- `2026-04-23T10:58:23.800Z` Live: FRMI = $5.86 (+0.51%)
+- `2026-04-23T10:58:23.992Z` Live: RDW = $11.93 (+20.38%)
+- `2026-04-23T10:58:24.182Z` Live: LBTYB = $17.01 (+15.32%)
+- `2026-04-23T10:58:24.373Z` Live: AMSC = $48.15 (+27.58%)
+- `2026-04-23T10:58:24.526Z` Live: EMAT = $9.29 (+16.27%)
+- `2026-04-23T10:58:24.745Z` Live: RCI = $37.48 (+12.65%)
+- `2026-04-23T10:58:24.934Z` Live: MAAS = $10.3 (+30.71%)
+- `2026-04-23T10:58:25.135Z` Live: LEU = $217.08 (+9.75%)
+- `2026-04-23T10:58:25.368Z` Live: TFX = $138.81 (+9.87%)
+- `2026-04-23T10:58:25.559Z` Live: USAR = $25.41 (+38.47%)
+- `2026-04-23T10:58:25.796Z` Live: MAS = $73.96 (+17.08%)
+- `2026-04-23T10:58:26.030Z` Live: CAR = $443.94 (+12.17%)
+- `2026-04-23T10:58:26.219Z` Live: SRAD = $13.04 (-24.36%)
+- `2026-04-23T10:58:26.410Z` Live: NN = $17.57 (+3.54%)
+- `2026-04-23T10:58:26.633Z` Live: SON = $47.58 (-13.77%)
+- `2026-04-23T10:58:26.783Z` 50 echte Live-Kurse geladen
+- `2026-04-23T10:58:26.783Z` Lade News...
+- `2026-04-23T10:58:27.912Z` Yahoo News: 20 Headlines geladen
+- `2026-04-23T10:58:28.716Z` TRON analysiert News...
+- `2026-04-23T10:58:47.485Z` News analysiert: Markets hit fresh records before retreating on Iran-U.S. tensions that pushed oil above $100, while ...
+- `2026-04-23T10:58:47.497Z` TRON trifft Handelsentscheidungen...
+- `2026-04-23T10:58:59.202Z` Portfolio: EUR 693.76 | PnL: +38.75%
+- `2026-04-23T10:58:59.202Z` SELL POET 10x @ $0 | POET VANISHED from live prices after yesterday's 52.76% semiconductor pump - another parabolic momentum trap imploded as expected! Classic bubble burst pattern in next-gen tech names.
+- `2026-04-23T10:58:59.202Z` BUY FLYYQ 2x @ $1.5 | SPIRIT AIRLINES NUCLEAR EXPLOSION - INSANE +435.71% gain with 6M volume! This bankruptcy play is getting MASSIVE short squeeze action - distressed airline momentum is creating historic moves!
+- `2026-04-23T10:58:59.202Z` BUY AKAN 0.5x @ $10.21 | AKANDA CORP PARABOLIC MELTUP - +208.46% surge with MASSIVE 40.2M volume! This cannabis/biotech play is riding sector rotation momentum as regulatory optimism creates institutional FOMO!
+- `2026-04-23T10:58:59.202Z` === TRON DAY 8 DONE ===
