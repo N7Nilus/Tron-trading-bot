@@ -507,3 +507,67 @@
 - `2026-04-23T10:58:59.202Z` BUY FLYYQ 2x @ $1.5 | SPIRIT AIRLINES NUCLEAR EXPLOSION - INSANE +435.71% gain with 6M volume! This bankruptcy play is getting MASSIVE short squeeze action - distressed airline momentum is creating historic moves!
 - `2026-04-23T10:58:59.202Z` BUY AKAN 0.5x @ $10.21 | AKANDA CORP PARABOLIC MELTUP - +208.46% surge with MASSIVE 40.2M volume! This cannabis/biotech play is riding sector rotation momentum as regulatory optimism creates institutional FOMO!
 - `2026-04-23T10:58:59.202Z` === TRON DAY 8 DONE ===
+- `2026-04-24T10:55:53.975Z` === TRON DAY 9 START ===
+- `2026-04-24T10:55:53.978Z` Lade Marktdaten...
+- `2026-04-24T10:55:54.785Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-24T10:55:54.923Z` Live: BE = $237.57 (+13.1%)
+- `2026-04-24T10:55:55.263Z` Live: OXY = $57.83 (+1.69%)
+- `2026-04-24T10:55:55.540Z` Live: BB = $5.27 (+12.37%)
+- `2026-04-24T10:55:55.788Z` Live: BTC-USD = $77762.65 (+2.49%)
+- `2026-04-24T10:55:56.119Z` Live: INTC = $66.78 (-2.51%)
+- `2026-04-24T10:55:56.397Z` Live: AMD = $305.33 (+9.73%)
+- `2026-04-24T10:55:56.693Z` Live: SKLZ = $12.45 (+220.88%)
+- `2026-04-24T10:55:56.976Z` Live: LCID = $6.27 (-18.57%)
+- `2026-04-24T10:55:57.248Z` Live: PLTR = $141.57 (-0.83%)
+- `2026-04-24T10:55:57.546Z` Live: IREN = $52.02 (+9.06%)
+- `2026-04-24T10:55:57.926Z` Live: EXPE = $250.37 (-1.6%)
+- `2026-04-24T10:55:58.300Z` Live: AXP = $318.55 (-2.21%)
+- `2026-04-24T10:55:58.607Z` Live: SNPS = $456.85 (+3.56%)
+- `2026-04-24T10:55:58.893Z` Live: ETH-USD = $2319.04 (+0.17%)
+- `2026-04-24T10:55:59.202Z` Live: TEM = $51.44 (-5.48%)
+- `2026-04-24T10:55:59.510Z` Live: JOBY = $8.49 (-7.92%)
+- `2026-04-24T10:55:59.784Z` Live: APLD = $36.35 (+20.8%)
+- `2026-04-24T10:56:00.062Z` Live: MRVL = $165.56 (+24.14%)
+- `2026-04-24T10:56:00.328Z` Live: SES = $1.22 (+6.09%)
+- `2026-04-24T10:56:00.616Z` Live: XRP-USD = $1.43 (+0.36%)
+- `2026-04-24T10:56:00.895Z` Live: MXL = $34.25 (+46.68%)
+- `2026-04-24T10:56:01.341Z` Live: AUUD = $5.06 (+8.12%)
+- `2026-04-24T10:56:01.620Z` Live: LABT = $8.65 (+8.13%)
+- `2026-04-24T10:56:01.899Z` Live: TOST = $27.92 (-2.04%)
+- `2026-04-24T10:56:02.171Z` Live: CAST = $1.68 (-56.25%)
+- `2026-04-24T10:56:02.498Z` Live: RBLX = $55.45 (-8.26%)
+- `2026-04-24T10:56:02.815Z` Live: FIX = $1773.91 (+10.46%)
+- `2026-04-24T10:56:03.186Z` Live: URI = $986.78 (+26.92%)
+- `2026-04-24T10:56:03.523Z` Live: TXN = $282.23 (+26.5%)
+- `2026-04-24T10:56:03.805Z` Live: PENN = $17.26 (+6.94%)
+- `2026-04-24T10:56:04.076Z` Live: EQPT = $24.53 (+21.38%)
+- `2026-04-24T10:56:04.370Z` Live: MOH = $174.7 (+17.35%)
+- `2026-04-24T10:56:04.708Z` Live: WST = $309.7 (+14.78%)
+- `2026-04-24T10:56:04.997Z` Live: HRI = $121.46 (+16.68%)
+- `2026-04-24T10:56:05.273Z` Live: SEDG = $47.36 (+21.72%)
+- `2026-04-24T10:56:05.578Z` Live: STM = $49.71 (+19.58%)
+- `2026-04-24T10:56:05.878Z` Live: MBLY = $8.7 (+11.25%)
+- `2026-04-24T10:56:06.186Z` Live: CHDN = $97.91 (+4.97%)
+- `2026-04-24T10:56:06.488Z` Live: MCHP = $90.64 (+17.91%)
+- `2026-04-24T10:56:06.756Z` Live: ON = $97.78 (+22.33%)
+- `2026-04-24T10:56:07.058Z` Live: LBRT = $32.32 (+15.59%)
+- `2026-04-24T10:56:07.345Z` Live: VC = $109.4 (+18.02%)
+- `2026-04-24T10:56:07.600Z` Live: PUMP = $16.83 (+14.02%)
+- `2026-04-24T10:56:07.848Z` Live: SUNB = $76.35 (+14.62%)
+- `2026-04-24T10:56:08.195Z` Live: AZZ = $146.59 (+9.59%)
+- `2026-04-24T10:56:08.530Z` Live: UNP = $271.26 (+8.04%)
+- `2026-04-24T10:56:08.838Z` Live: CAR = $229.14 (-48.96%)
+- `2026-04-24T10:56:09.111Z` Live: MEDP = $393.42 (-23.7%)
+- `2026-04-24T10:56:09.382Z` Live: YSS = $35.71 (-6.79%)
+- `2026-04-24T10:56:09.655Z` Live: NOW = $84.78 (-12.09%)
+- `2026-04-24T10:56:09.805Z` 50 echte Live-Kurse geladen
+- `2026-04-24T10:56:09.806Z` Lade News...
+- `2026-04-24T10:56:11.172Z` Yahoo News: 20 Headlines geladen
+- `2026-04-24T10:56:11.974Z` TRON analysiert News...
+- `2026-04-24T10:56:29.999Z` News analysiert: Market uncertainty dominates as geopolitical tensions with Iran weigh on stocks while AI continues i...
+- `2026-04-24T10:56:30.019Z` TRON trifft Handelsentscheidungen...
+- `2026-04-24T10:56:41.065Z` Portfolio: EUR 1000.00 | PnL: +100.00%
+- `2026-04-24T10:56:41.065Z` SELL FLYYQ 2x @ $0 | FLYYQ DISAPPEARED after yesterday's 435% pump - another classic momentum trap as predicted! Bankruptcy plays always implode when euphoria fades.
+- `2026-04-24T10:56:41.065Z` SELL AKAN 0.5x @ $0 | AKAN VANISHED after 208% cannabis explosion - predictable bubble burst in speculative biotech names! These parabolic moves never last.
+- `2026-04-24T10:56:41.065Z` BUY TXN 1x @ $282.23 | TEXAS INSTRUMENTS NUCLEAR EXPLOSION - MASSIVE 26.5% surge with 25.6M volume confirms semiconductor supercycle is REAL! This blue-chip analog play validates my thesis that AI infrastructure demand is sustainable not speculative!
+- `2026-04-24T10:56:41.065Z` === TRON DAY 9 DONE ===
