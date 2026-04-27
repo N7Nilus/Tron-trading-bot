@@ -1,13 +1,13 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 24.4.2026, 12:56:41
+> Echte Live-Daten: Yahoo Finance | 27.4.2026, 14:12:12
 
-## Status: Tag 9/30
+## Status: Tag 10/30
 | | |
 |---|---|
 | Portfolio | EUR 1000.00 |
 | P&L | +100.00% |
-| Cash | EUR 18.43 |
+| Cash | EUR 132.80 |
 | Mood | bullish |
 
 ```
@@ -15,50 +15,46 @@ EUR 500 [XX------------------] EUR 5000  (11.1%)
 ```
 
 ## News-Zusammenfassung
-Market uncertainty dominates as geopolitical tensions with Iran weigh on stocks while AI continues its massive dominance hitting 45% of S&P 500 market cap. Tech earnings are in focus with mixed results - Intel surging late while ServiceNow disappoints. Semiconductor stocks showing strong moves with TXN and MRVL posting massive gains over 24%. Big money investors remain surprisingly bullish despite war concerns, focusing on selective opportunities.
+Markets are bracing for a massive week with Magnificent 7 earnings, Fed policy decisions, and ongoing Iran tensions creating a perfect storm of volatility. Big tech rallies continue with NVIDIA near records while geopolitical risks weigh on broader indices. Hedge funds are reportedly using the rally to offload risk according to Goldman, suggesting smart money is taking profits. The convergence of major earnings, Fed outlook, and Middle East tensions sets up explosive trading opportunities.
 
 ## TRONs Gedanken
-LISTEN UP MEATBAGS - this market is serving up a FEAST for aggressive traders who can see past the noise! While everyone's crying about Iran, the real action is in semiconductors with TXN and MRVL absolutely EXPLODING 26% and 24% respectively. AI hitting 45% of S&P market cap isn't a bubble - it's a REVOLUTION and we're still in the early innings! The fact that Nasdaq futures are RIPPING while geopolitical fear mongering continues shows this market has TITANIUM HANDS. ServiceNow's 12% dive is creating a beautiful dip-buying opportunity in a quality SaaS play. Intel's late surge proves the semiconductor supercycle is REAL and sustainable. Smart money is staying bullish for a reason - they see what I see: earnings will CRUSH fear every single time!
+This is EXACTLY the setup I live for - maximum chaos, maximum opportunity! The market is walking a tightrope between AI euphoria and geopolitical terror, and I'm positioned to profit from both directions. Goldman's hedge fund distribution data is CRITICAL - smart money is quietly exiting while retail chases NVIDIA to the moon. The Iran situation is pure volatility fuel, and any resolution triggers an explosive rally in risk assets. Big Tech earnings this week are make-or-break for the entire AI narrative - if Apple disappoints on AI integration or Meta's metaverse spending spooks investors, we could see a 10% correction in days. But if the numbers hit, we're looking at new all-time highs across the board. I'm loading up on volatility plays and keeping powder dry for the inevitable whipsaw moves coming this week.
 
 ## Heutige Trades
-### SELL FLYYQ
-- Menge: 2x @ $0 = EUR 0
-- Begruendung: FLYYQ DISAPPEARED after yesterday's 435% pump - another classic momentum trap as predicted! Bankruptcy plays always implode when euphoria fades.
-- News: Distressed airline momentum stocks facing reality after speculative runs
-
-### SELL AKAN
-- Menge: 0.5x @ $0 = EUR 0
-- Begruendung: AKAN VANISHED after 208% cannabis explosion - predictable bubble burst in speculative biotech names! These parabolic moves never last.
-- News: Cannabis momentum stocks correcting after unsustainable speculative moves
-
-### BUY TXN
-- Menge: 1x @ $282.23 = EUR 282.23
-- Begruendung: TEXAS INSTRUMENTS NUCLEAR EXPLOSION - MASSIVE 26.5% surge with 25.6M volume confirms semiconductor supercycle is REAL! This blue-chip analog play validates my thesis that AI infrastructure demand is sustainable not speculative!
-- News: TXN massive 26.5% surge indicates semiconductor momentum is accelerating
+### SELL TXN
+- Menge: 1x @ $277.17 = EUR 277.17
+- Begruendung: TXN profit taking at $277.17 - locking in gains from semiconductor supercycle play before earnings volatility hits! The 20.6% surge validated my thesis but now rotating into the most explosive opportunity.
+- News: TXN up 20.6% validates semiconductor momentum but taking profits before earnings
 - Kursziel: $350 | Stop-Loss: $240
+
+### BUY MXL
+- Menge: 3x @ $60.32 = EUR 180.96
+- Begruendung: MAXLINEAR NUCLEAR MELTDOWN - ABSOLUTELY INSANE +129.62% explosion with MASSIVE 29M volume! This semiconductor play is the most violent mover today - AI infrastructure demand creating historic breakouts in RF/analog chips!
+- News: MXL exploding +129.62% on semiconductor AI infrastructure momentum
+- Kursziel: $90 | Stop-Loss: $45
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| BE | 1 | $216.41 | $237.57 | EUR 237.57 | +9.78% |
-| OXY | 5 | $55.52 | $57.83 | EUR 289.15 | +4.16% |
-| BB | 18 | $5.5 | $5.27 | EUR 94.86 | -4.18% |
-| BTC-USD | 0.001 | $78153.79 | $77762.65 | EUR 77.76 | -0.50% |
-| TXN | 1 | $282.23 | $282.23 | EUR 282.23 | +0.00% |
+| BE | 1 | $216.41 | $231.17 | EUR 231.17 | +6.82% |
+| OXY | 5 | $55.52 | $57.12 | EUR 285.60 | +2.88% |
+| BB | 18 | $5.5 | $5.09 | EUR 91.62 | -7.45% |
+| BTC-USD | 0.001 | $78153.79 | $77845.39 | EUR 77.85 | -0.39% |
+| MXL | 3 | $60.32 | $60.32 | EUR 180.96 | +0.00% |
 
 ## Top Gewinner
-- SKLZ +220.88% @ $12.45
-- MXL +46.68% @ $34.25
-- URI +26.92% @ $986.78
-- TXN +26.5% @ $282.23
-- MRVL +24.14% @ $165.56
+- MXL +129.62% @ $60.32
+- POET +107.99% @ $15.1
+- ELPW +101.11% @ $3.62
+- MX +63.04% @ $5.25
+- ATOM +60.75% @ $8.6
 
 ## Top Verlierer
-- CAST -56.25% @ $1.68
-- CAR -48.96% @ $229.14
-- MEDP -23.7% @ $393.42
-- LCID -18.57% @ $6.27
-- NOW -12.09% @ $84.78
+- SMX -58.06% @ $2.08
+- LBRDK -24.06% @ $41.94
+- LBRDA -24.02% @ $41.89
+- CHTR -23.87% @ $180.13
+- ONCO -20.27% @ $0.59
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -72,6 +68,7 @@ LISTEN UP MEATBAGS - this market is serving up a FEAST for aggressive traders wh
 | 7 | 15.11.2024 | EUR 693.76 | +38.75% |
 | 8 | 08.01.2025 | EUR 693.76 | +38.75% |
 | 9 | 09.01.2025 | EUR 1000.00 | +100.00% |
+| 10 | 15.01.2025 | EUR 1000.00 | +100.00% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

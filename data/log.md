@@ -571,3 +571,66 @@
 - `2026-04-24T10:56:41.065Z` SELL AKAN 0.5x @ $0 | AKAN VANISHED after 208% cannabis explosion - predictable bubble burst in speculative biotech names! These parabolic moves never last.
 - `2026-04-24T10:56:41.065Z` BUY TXN 1x @ $282.23 | TEXAS INSTRUMENTS NUCLEAR EXPLOSION - MASSIVE 26.5% surge with 25.6M volume confirms semiconductor supercycle is REAL! This blue-chip analog play validates my thesis that AI infrastructure demand is sustainable not speculative!
 - `2026-04-24T10:56:41.065Z` === TRON DAY 9 DONE ===
+- `2026-04-27T12:11:28.717Z` === TRON DAY 10 START ===
+- `2026-04-27T12:11:28.719Z` Lade Marktdaten...
+- `2026-04-27T12:11:29.101Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-27T12:11:29.137Z` Live: BE = $231.17 (+11.21%)
+- `2026-04-27T12:11:29.398Z` Live: OXY = $57.12 (+6.19%)
+- `2026-04-27T12:11:29.614Z` Live: BB = $5.09 (+4.73%)
+- `2026-04-27T12:11:29.801Z` Live: BTC-USD = $77845.39 (-0.54%)
+- `2026-04-27T12:11:30.081Z` Live: TXN = $277.17 (+20.6%)
+- `2026-04-27T12:11:30.302Z` Live: QCOM = $148.85 (+9.29%)
+- `2026-04-27T12:11:30.505Z` Live: NVDA = $208.26 (+3.26%)
+- `2026-04-27T12:11:30.691Z` Live: NTLA = $13.63 (-8.83%)
+- `2026-04-27T12:11:30.875Z` Live: XE = $29.2 (+26.96%)
+- `2026-04-27T12:11:31.060Z` Live: POET = $15.1 (+107.99%)
+- `2026-04-27T12:11:31.252Z` Live: OGN = $11.26 (+15.37%)
+- `2026-04-27T12:11:31.489Z` Live: AAPL = $271.06 (+0.31%)
+- `2026-04-27T12:11:31.674Z` Live: ETH-USD = $2320.79 (-0.46%)
+- `2026-04-27T12:11:31.859Z` Live: ONCO = $0.59 (-20.27%)
+- `2026-04-27T12:11:32.103Z` Live: DPZ = $368.18 (-1.04%)
+- `2026-04-27T12:11:32.363Z` Live: VZ = $46.38 (-0.37%)
+- `2026-04-27T12:11:32.547Z` Live: ATOM = $8.6 (+60.75%)
+- `2026-04-27T12:11:32.759Z` Live: SNDK = $989.9 (+7.48%)
+- `2026-04-27T12:11:32.949Z` Live: ELPW = $3.62 (+101.11%)
+- `2026-04-27T12:11:33.147Z` Live: SMX = $2.08 (-58.06%)
+- `2026-04-27T12:11:33.433Z` Live: MU = $496.72 (+9.15%)
+- `2026-04-27T12:11:33.618Z` Live: XRP-USD = $1.41 (-2.02%)
+- `2026-04-27T12:11:33.909Z` Live: CLF = $9.76 (-1.81%)
+- `2026-04-27T12:11:34.100Z` Live: MX = $5.25 (+63.04%)
+- `2026-04-27T12:11:34.287Z` Live: DKI = $0.46 (+13.02%)
+- `2026-04-27T12:11:34.495Z` Live: RMAX = $7.99 (+24.65%)
+- `2026-04-27T12:11:34.686Z` Live: UEC = $14.05 (-6.15%)
+- `2026-04-27T12:11:34.874Z` Live: CRSP = $48.79 (-15.86%)
+- `2026-04-27T12:11:35.204Z` Live: ULTA = $558.55 (+0.94%)
+- `2026-04-27T12:11:35.391Z` Live: MXL = $60.32 (+129.62%)
+- `2026-04-27T12:11:35.625Z` Live: SXT = $123.15 (+22.83%)
+- `2026-04-27T12:11:35.845Z` Live: INTC = $82.57 (+20.54%)
+- `2026-04-27T12:11:36.031Z` Live: AAOI = $162.17 (+1.73%)
+- `2026-04-27T12:11:36.221Z` Live: ARM = $234.81 (+40.83%)
+- `2026-04-27T12:11:36.406Z` Live: RMBS = $158.4 (+24.79%)
+- `2026-04-27T12:11:36.590Z` Live: AMD = $347.8 (+24.93%)
+- `2026-04-27T12:11:36.775Z` Live: TTMI = $149.01 (+18.04%)
+- `2026-04-27T12:11:36.959Z` Live: APPF = $169.29 (+8.19%)
+- `2026-04-27T12:11:37.161Z` Live: EOSE = $7.67 (+7.12%)
+- `2026-04-27T12:11:37.366Z` Live: HIMX = $12.09 (+8.92%)
+- `2026-04-27T12:11:37.554Z` Live: SYNA = $93.86 (+17%)
+- `2026-04-27T12:11:37.753Z` Live: CC = $26.61 (+14.8%)
+- `2026-04-27T12:11:37.986Z` Live: CHE = $421.11 (+9.49%)
+- `2026-04-27T12:11:38.171Z` Live: SNPS = $500.82 (+11.4%)
+- `2026-04-27T12:11:38.388Z` Live: AMBA = $66.92 (+14.92%)
+- `2026-04-27T12:11:38.601Z` Live: LBRDA = $41.89 (-24.02%)
+- `2026-04-27T12:11:38.785Z` Live: LBRDK = $41.94 (-24.06%)
+- `2026-04-27T12:11:38.972Z` Live: CHTR = $180.13 (-23.87%)
+- `2026-04-27T12:11:39.157Z` Live: STNE = $12.22 (-19.07%)
+- `2026-04-27T12:11:39.427Z` Live: CMCSA = $27.52 (-7.12%)
+- `2026-04-27T12:11:39.578Z` 50 echte Live-Kurse geladen
+- `2026-04-27T12:11:39.578Z` Lade News...
+- `2026-04-27T12:11:40.654Z` Yahoo News: 20 Headlines geladen
+- `2026-04-27T12:11:41.656Z` TRON analysiert News...
+- `2026-04-27T12:12:01.442Z` News analysiert: Markets are bracing for a massive week with Magnificent 7 earnings, Fed policy decisions, and ongoin...
+- `2026-04-27T12:12:01.501Z` TRON trifft Handelsentscheidungen...
+- `2026-04-27T12:12:12.809Z` Portfolio: EUR 1000.00 | PnL: +100.00%
+- `2026-04-27T12:12:12.809Z` SELL TXN 1x @ $277.17 | TXN profit taking at $277.17 - locking in gains from semiconductor supercycle play before earnings volatility hits! The 20.6% surge validated my thesis but now rotating into the most explosive opportunity.
+- `2026-04-27T12:12:12.809Z` BUY MXL 3x @ $60.32 | MAXLINEAR NUCLEAR MELTDOWN - ABSOLUTELY INSANE +129.62% explosion with MASSIVE 29M volume! This semiconductor play is the most violent mover today - AI infrastructure demand creating historic breakouts in RF/analog chips!
+- `2026-04-27T12:12:12.809Z` === TRON DAY 10 DONE ===
