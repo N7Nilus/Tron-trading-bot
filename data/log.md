@@ -697,3 +697,67 @@
 - `2026-04-28T12:17:40.750Z` SELL MXL 3x @ $51.65 | MXL crashing from $60.32 to $51.65 - down 14.4% from my entry but still up massive 62.78% overall! Classic momentum fade after parabolic run - taking the hit and rotating to sustainable AI play.
 - `2026-04-28T12:17:40.750Z` BUY ARM 1x @ $215.88 | ARM HOLDINGS NUCLEAR EXPLOSION - MASSIVE 23.29% surge with 13.9M volume on AI chip design dominance! This is the REAL semiconductor play - ARM architecture powering EVERYTHING from mobile to data centers to edge AI!
 - `2026-04-28T12:17:40.750Z` === TRON DAY 11 DONE ===
+- `2026-04-29T12:07:35.941Z` === TRON DAY 12 START ===
+- `2026-04-29T12:07:35.944Z` Lade Marktdaten...
+- `2026-04-29T12:07:36.287Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-29T12:07:36.324Z` Live: BE = $226.37 (+2.47%)
+- `2026-04-29T12:07:36.573Z` Live: OXY = $58.61 (+4.05%)
+- `2026-04-29T12:07:36.763Z` Live: BB = $5.14 (-8.38%)
+- `2026-04-29T12:07:36.972Z` Live: BTC-USD = $77473.5 (-0.18%)
+- `2026-04-29T12:07:37.156Z` Live: ARM = $198.65 (+13.2%)
+- `2026-04-29T12:07:37.340Z` Live: HOOD = $82.07 (-5.04%)
+- `2026-04-29T12:07:37.530Z` Live: SOFI = $18.36 (-2.5%)
+- `2026-04-29T12:07:37.713Z` Live: BBAI = $4.12 (+8.71%)
+- `2026-04-29T12:07:37.925Z` Live: STX = $579.03 (+3.42%)
+- `2026-04-29T12:07:38.161Z` Live: HUM = $229.72 (+5.69%)
+- `2026-04-29T12:07:38.363Z` Live: REGN = $731.77 (-2.09%)
+- `2026-04-29T12:07:38.568Z` Live: V = $309.3 (-0.21%)
+- `2026-04-29T12:07:38.754Z` Live: BIIB = $183.38 (-1.38%)
+- `2026-04-29T12:07:38.938Z` Live: LMND = $65.77 (-0.44%)
+- `2026-04-29T12:07:39.124Z` Live: GNRC = $217.12 (+1.53%)
+- `2026-04-29T12:07:39.338Z` Live: WDC = $390.99 (+1.87%)
+- `2026-04-29T12:07:39.548Z` Live: ENPH = $34.3 (+2.02%)
+- `2026-04-29T12:07:39.741Z` Live: ETH-USD = $2324.65 (+0.25%)
+- `2026-04-29T12:07:39.962Z` Live: NIO = $6.36 (-1.09%)
+- `2026-04-29T12:07:40.153Z` Live: VRT = $305.03 (-2.37%)
+- `2026-04-29T12:07:40.342Z` Live: CTSH = $55.12 (-8.82%)
+- `2026-04-29T12:07:40.534Z` Live: DOGE-USD = $0.11 (+12.19%)
+- `2026-04-29T12:07:40.753Z` Live: ON = $93.3 (+7.35%)
+- `2026-04-29T12:07:40.968Z` Live: AMAT = $381.11 (-3.35%)
+- `2026-04-29T12:07:41.165Z` Live: NXPI = $230.39 (+2.62%)
+- `2026-04-29T12:07:41.372Z` Live: SIMO = $149.18 (+4.72%)
+- `2026-04-29T12:07:41.555Z` Live: INHD = $0.08 (-56.28%)
+- `2026-04-29T12:07:41.741Z` Live: AKAN = $17.49 (+438.15%)
+- `2026-04-29T12:07:41.922Z` Live: KNSA = $53.85 (+26.86%)
+- `2026-04-29T12:07:42.110Z` Live: MAAS = $10.62 (+16.96%)
+- `2026-04-29T12:07:42.296Z` Live: OMCL = $45.51 (+23.84%)
+- `2026-04-29T12:07:42.479Z` Live: SANM = $215.46 (+23.78%)
+- `2026-04-29T12:07:42.680Z` Live: CECO = $74.29 (+20.86%)
+- `2026-04-29T12:07:42.870Z` Live: CNC = $49.57 (+26.65%)
+- `2026-04-29T12:07:43.057Z` Live: CVLT = $97.98 (+4.65%)
+- `2026-04-29T12:07:43.245Z` Live: RVMD = $144.83 (-2.73%)
+- `2026-04-29T12:07:43.473Z` Live: PII = $66.47 (+8.24%)
+- `2026-04-29T12:07:43.663Z` Live: HRI = $133.96 (+24.67%)
+- `2026-04-29T12:07:43.918Z` Live: PKX = $76.02 (+9.98%)
+- `2026-04-29T12:07:44.158Z` Live: BEN = $29.46 (+8.15%)
+- `2026-04-29T12:07:44.392Z` Live: AXGN = $41.99 (+17%)
+- `2026-04-29T12:07:44.589Z` Live: KEN = $88.58 (+8.94%)
+- `2026-04-29T12:07:44.775Z` Live: LFST = $7.67 (+12.96%)
+- `2026-04-29T12:07:44.993Z` Live: NOK = $11.3 (+8.65%)
+- `2026-04-29T12:07:45.196Z` Live: SEI = $74.44 (+13.7%)
+- `2026-04-29T12:07:45.432Z` Live: AVB = $183.5 (+6.6%)
+- `2026-04-29T12:07:45.669Z` Live: RHI = $27.52 (-4.81%)
+- `2026-04-29T12:07:45.856Z` Live: GLXY = $26.36 (+5.65%)
+- `2026-04-29T12:07:46.048Z` Live: VISN = $9.9 (-47.45%)
+- `2026-04-29T12:07:46.243Z` Live: ERAS = $9.9 (-55.82%)
+- `2026-04-29T12:07:46.394Z` 50 echte Live-Kurse geladen
+- `2026-04-29T12:07:46.395Z` Lade News...
+- `2026-04-29T12:07:47.603Z` Yahoo News: 20 Headlines geladen
+- `2026-04-29T12:07:48.606Z` TRON analysiert News...
+- `2026-04-29T12:08:05.297Z` News analysiert: Markets are positioning for a massive convergence of Fed decision, mega-cap tech earnings, and oil p...
+- `2026-04-29T12:08:05.486Z` TRON trifft Handelsentscheidungen...
+- `2026-04-29T12:08:17.656Z` Portfolio: EUR 1000.00 | PnL: +0.00%
+- `2026-04-29T12:08:17.656Z` SELL ARM 1x @ $198.65 | ARM NUCLEAR MELTDOWN - crashing from $215.88 to $198.65 after yesterday's surge! Down 8% on my position but still up 13.2% overall - this Fed decision volatility is DESTROYING momentum plays! Cutting losses before it gets worse!
+- `2026-04-29T12:08:17.657Z` BUY AKAN 6x @ $17.49 | AKAN GOING ABSOLUTELY BALLISTIC - INSANE +438.15% EXPLOSION with MASSIVE 7.4M volume! This cannabis/biotech nuclear bomb is the most violent mover in the market - Fed decision creating MAXIMUM volatility for maximum gains!
+- `2026-04-29T12:08:17.657Z` BUY NXPI 0.3x @ $230.39 | NXP SEMICONDUCTORS MONSTER BREAKOUT - +2.62% surge with analyst targets suggesting 11% more upside! This is the REAL semiconductor play riding the sector rotation while ARM implodes - automotive chips are the future!
+- `2026-04-29T12:08:17.657Z` === TRON DAY 12 DONE ===
