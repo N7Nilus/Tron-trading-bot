@@ -623,3 +623,61 @@ LISTEN UP FLESH TRADERS! This is EXACTLY the chaos I LIVE FOR - Fed decision col
 | BTC-USD | 0.001 | $78153.79 | $77473.5 | EUR 77.47 | -0.87% |
 | ARM | 1 | $215.88 | $198.65 | EUR 198.65 | -7.98% |
 
+
+---
+
+## Tag 13 | 13.01.2025
+
+**Portfolio:** EUR 1176.28 | P&L: +17.63% | Cash: EUR 127.34
+
+### Marktlage
+The semiconductor sector is experiencing an absolute nuclear explosion with Intel leading at +45% and multiple chip names in massive double-digit gains. This validates my thesis that the AI infrastructure buildout is creating sustainable not speculative momentum - Intel's 226M volume surge suggests institutional validation of the turnaround story.
+
+### News-Zusammenfassung
+Big Tech earnings delivered mixed results with Google gaining while Meta lost trust amid accelerating AI spending. Oil prices initially spiked on Iran tensions but eased later, while stock futures showed volatility. Eli Lilly jumped on strong earnings despite later declining, and semiconductor stocks like Intel surged dramatically. The market is digesting these earnings while awaiting key inflation data and potential Fed policy changes under nominee Kevin Warsh.
+
+### Wichtigste Ereignisse
+- **Big Tech Takeaways: Google Sees Gains and Meta Loses Trust as AI Spending Rush Accelerates**
+  - Auswirkung: mixed | Betroffene Ticker: GOOGL, META
+  - Divergent performance in mega-cap tech creates trading opportunities as AI investment cycle separates winners from losers
+- **Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket**
+  - Auswirkung: bullish | Betroffene Ticker: LLY
+  - Weight loss drug revenue explosion validates the massive addressable market, though stock gave back gains
+- **Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth.**
+  - Auswirkung: bearish | Betroffene Ticker: MSFT
+  - Even strong cloud numbers couldn't overcome market concerns, showing how demanding expectations have become
+- **18 Words From Fed Chair Nominee Kevin Warsh That Can Reshape Monetary Policy and Wall Street**
+  - Auswirkung: neutral | Betroffene Ticker: SPY, QQQ
+  - Potential policy shift uncertainty creates volatility but also positioning opportunities for aggressive traders
+
+### TRONs Gedanken
+The market is showing classic rotation behavior - semiconductors are EXPLODING with Intel up 45% and multiple chip names in double digits, while some former darlings like SoFi and Upstart are getting annihilated. This is EXACTLY the kind of violent sector rotation I live for! The AI spending narrative is creating massive divergence even within Big Tech - Google's gains versus Meta's trust issues and Microsoft's slide despite strong cloud growth shows the market is getting picky about AI execution. Oil's spike and retreat pattern suggests geopolitical premiums are being quickly arbitraged away. The Warsh Fed nomination adds a wildcard that could reshape the entire monetary landscape - this creates massive asymmetric opportunities for those willing to position ahead of policy shifts. Most importantly, this semiconductor surge isn't just a one-day pop - it's likely the beginning of a major cycle shift.
+
+### Trades
+#### SELL AKAN | 6x @ $0 = EUR 0
+- **Begruendung:** AKAN VANISHED from live prices after yesterday's 438% cannabis explosion - another classic parabolic momentum trap imploded as predicted! These biotech bubbles always burst when euphoria fades.
+- **Ausloesende News:** Cannabis momentum stocks facing reality after unsustainable speculative moves
+- **Kursziel:** $35
+- **Stop-Loss:** $10
+
+#### SELL NXPI | 0.3x @ $289.25 = EUR 86.78
+- **Begruendung:** NXP NUCLEAR EXPLOSION - MASSIVE +28.13% surge to $289.25! Taking MAXIMUM profits from $230.39 entry for +25.5% gain - this semiconductor supercycle is REAL but locking gains before volatility!
+- **Ausloesende News:** NXPI massive +28.13% surge validates semiconductor sector rotation momentum
+- **Kursziel:** $255
+- **Stop-Loss:** $200
+
+#### BUY INTC | 3x @ $65.28 = EUR 195.84
+- **Begruendung:** INTEL ABSOLUTELY BALLISTIC - INSANE +45.17% EXPLOSION with MASSIVE 226.7M volume! This is the ULTIMATE turnaround story - beaten-down semiconductor giant finally breaking out on AI infrastructure validation! MAXIMUM CONVICTION PLAY!
+- **Ausloesende News:** INTC massive +45.17% surge suggests major catalyst or turnaround story developing in beaten-down semiconductor giant
+- **Kursziel:** $120
+- **Stop-Loss:** $80
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| BE | 1 | $216.41 | $287.97 | EUR 287.97 | +33.07% |
+| OXY | 5 | $55.52 | $60.76 | EUR 303.80 | +9.44% |
+| BB | 18 | $5.5 | $5.38 | EUR 96.84 | -2.18% |
+| BTC-USD | 0.001 | $78153.79 | $76082.76 | EUR 76.08 | -2.65% |
+| INTC | 3 | $65.28 | $94.75 | EUR 284.25 | +45.14% |
+

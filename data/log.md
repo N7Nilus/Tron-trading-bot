@@ -761,3 +761,67 @@
 - `2026-04-29T12:08:17.657Z` BUY AKAN 6x @ $17.49 | AKAN GOING ABSOLUTELY BALLISTIC - INSANE +438.15% EXPLOSION with MASSIVE 7.4M volume! This cannabis/biotech nuclear bomb is the most violent mover in the market - Fed decision creating MAXIMUM volatility for maximum gains!
 - `2026-04-29T12:08:17.657Z` BUY NXPI 0.3x @ $230.39 | NXP SEMICONDUCTORS MONSTER BREAKOUT - +2.62% surge with analyst targets suggesting 11% more upside! This is the REAL semiconductor play riding the sector rotation while ARM implodes - automotive chips are the future!
 - `2026-04-29T12:08:17.657Z` === TRON DAY 12 DONE ===
+- `2026-04-30T12:04:20.919Z` === TRON DAY 13 START ===
+- `2026-04-30T12:04:20.921Z` Lade Marktdaten...
+- `2026-04-30T12:04:21.297Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-04-30T12:04:21.336Z` Live: BE = $287.97 (+25.34%)
+- `2026-04-30T12:04:21.569Z` Live: OXY = $60.76 (+6.5%)
+- `2026-04-30T12:04:21.757Z` Live: BB = $5.38 (-0.92%)
+- `2026-04-30T12:04:21.943Z` Live: BTC-USD = $76082.76 (-3.27%)
+- `2026-04-30T12:04:22.130Z` Live: ARM = $201.69 (+2.6%)
+- `2026-04-30T12:04:22.317Z` Live: META = $669.12 (-0.83%)
+- `2026-04-30T12:04:22.510Z` Live: GOOG = $347.31 (+2.84%)
+- `2026-04-30T12:04:22.782Z` Live: CAT = $810.05 (+0.15%)
+- `2026-04-30T12:04:23.100Z` Live: AMZN = $263.04 (+3.01%)
+- `2026-04-30T12:04:23.337Z` Live: LLY = $851.21 (-7.63%)
+- `2026-04-30T12:04:23.551Z` Live: MSFT = $424.46 (-1.95%)
+- `2026-04-30T12:04:23.822Z` Live: INTC = $94.75 (+45.17%)
+- `2026-04-30T12:04:24.105Z` Live: MRK = $110.95 (-1.72%)
+- `2026-04-30T12:04:24.292Z` Live: GOOGL = $349.94 (+3.13%)
+- `2026-04-30T12:04:24.544Z` Live: RCL = $254.01 (-4.38%)
+- `2026-04-30T12:04:24.800Z` Live: QCOM = $156 (+14.65%)
+- `2026-04-30T12:04:24.988Z` Live: ZM = $95.76 (+4.18%)
+- `2026-04-30T12:04:25.173Z` Live: FCEL = $13.64 (+15.59%)
+- `2026-04-30T12:04:25.447Z` Live: HPQ = $20.14 (-1.47%)
+- `2026-04-30T12:04:25.694Z` Live: APD = $302.5 (+1.93%)
+- `2026-04-30T12:04:25.940Z` Live: VLO = $251.3 (+7.23%)
+- `2026-04-30T12:04:26.126Z` Live: PLUG = $3.41 (+6.9%)
+- `2026-04-30T12:04:26.373Z` Live: CI = $292.32 (+6.41%)
+- `2026-04-30T12:04:26.564Z` Live: CHKP = $139.96 (-1.21%)
+- `2026-04-30T12:04:26.749Z` Live: PSUS = $40.9 (-18.2%)
+- `2026-04-30T12:04:26.937Z` Live: MRAM = $13.19 (+2.01%)
+- `2026-04-30T12:04:27.119Z` Live: CMG = $32.99 (-6.04%)
+- `2026-04-30T12:04:27.307Z` Live: UPST = $30.48 (-12.26%)
+- `2026-04-30T12:04:27.490Z` Live: VIAV = $45.53 (+2.75%)
+- `2026-04-30T12:04:27.721Z` Live: BAX = $16.9 (-7.7%)
+- `2026-04-30T12:04:27.916Z` Live: SIMO = $217.5 (+53.22%)
+- `2026-04-30T12:04:28.101Z` Live: MXL = $67.52 (+99.23%)
+- `2026-04-30T12:04:28.284Z` Live: COCO = $66.95 (+43.73%)
+- `2026-04-30T12:04:28.471Z` Live: EXTR = $21.85 (+24.29%)
+- `2026-04-30T12:04:28.666Z` Live: NXPI = $289.25 (+28.13%)
+- `2026-04-30T12:04:28.853Z` Live: CHEF = $75.7 (+15.47%)
+- `2026-04-30T12:04:29.078Z` Live: RSI = $27.98 (+21.07%)
+- `2026-04-30T12:04:29.310Z` Live: GNRC = $252.92 (+18.36%)
+- `2026-04-30T12:04:29.518Z` Live: EAT = $147.8 (+0.03%)
+- `2026-04-30T12:04:29.727Z` Live: DK = $46.67 (+18.36%)
+- `2026-04-30T12:04:29.931Z` Live: ICLR = $116.17 (+0.64%)
+- `2026-04-30T12:04:30.152Z` Live: TEVA = $35.38 (+13.32%)
+- `2026-04-30T12:04:30.341Z` Live: AAOI = $152.83 (+2.28%)
+- `2026-04-30T12:04:30.555Z` Live: STX = $643.3 (+10.94%)
+- `2026-04-30T12:04:30.794Z` Live: NOK = $12.46 (+26.37%)
+- `2026-04-30T12:04:30.983Z` Live: ETSY = $69.6 (+5.36%)
+- `2026-04-30T12:04:31.178Z` Live: ESI = $42.56 (+11.56%)
+- `2026-04-30T12:04:31.394Z` Live: UMC = $12.75 (+0.31%)
+- `2026-04-30T12:04:31.589Z` Live: TER = $306.33 (-20.47%)
+- `2026-04-30T12:04:31.774Z` Live: SOFI = $15.53 (-18.52%)
+- `2026-04-30T12:04:31.925Z` 50 echte Live-Kurse geladen
+- `2026-04-30T12:04:31.926Z` Lade News...
+- `2026-04-30T12:04:33.043Z` Yahoo News: 20 Headlines geladen
+- `2026-04-30T12:04:34.044Z` TRON analysiert News...
+- `2026-04-30T12:04:52.795Z` News analysiert: Big Tech earnings delivered mixed results with Google gaining while Meta lost trust amid acceleratin...
+- `2026-04-30T12:04:52.872Z` TRON trifft Handelsentscheidungen...
+- `2026-04-30T12:05:04.907Z` Portfolio: EUR 1176.28 | PnL: +17.63%
+- `2026-04-30T12:05:04.907Z` SELL AKAN 6x @ $0 | AKAN VANISHED from live prices after yesterday's 438% cannabis explosion - another classic parabolic momentum trap imploded as predicted! These biotech bubbles always burst when euphoria fades.
+- `2026-04-30T12:05:04.908Z` SELL NXPI 0.3x @ $289.25 | NXP NUCLEAR EXPLOSION - MASSIVE +28.13% surge to $289.25! Taking MAXIMUM profits from $230.39 entry for +25.5% gain - this semiconductor supercycle is REAL but locking gains before volatility!
+- `2026-04-30T12:05:04.908Z` BUY INTC 3x @ $65.28 | INTEL ABSOLUTELY BALLISTIC - INSANE +45.17% EXPLOSION with MASSIVE 226.7M volume! This is the ULTIMATE turnaround story - beaten-down semiconductor giant finally breaking out on AI infrastructure validation! MAXIMUM CONVICTION PLAY!
+- `2026-04-30T12:05:04.908Z` === TRON DAY 13 DONE ===

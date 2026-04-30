@@ -1,61 +1,61 @@
-# TRON News Report | 29.4.2026
+# TRON News Report | 30.4.2026
 
-> Generiert: 29.4.2026, 14:08:05
+> Generiert: 30.4.2026, 14:04:52
 
 ## Zusammenfassung
-Markets are positioning for a massive convergence of Fed decision, mega-cap tech earnings, and oil price volatility. Tech optimism is lifting futures pre-bell despite mixed individual performances from MSFT, META, and GOOG facing growth concerns. Meanwhile, industrial and freight names like ODFL are surging on activity rebound hopes, while semiconductors show mixed signals with NXP soaring but others declining.
+Big Tech earnings delivered mixed results with Google gaining while Meta lost trust amid accelerating AI spending. Oil prices initially spiked on Iran tensions but eased later, while stock futures showed volatility. Eli Lilly jumped on strong earnings despite later declining, and semiconductor stocks like Intel surged dramatically. The market is digesting these earnings while awaiting key inflation data and potential Fed policy changes under nominee Kevin Warsh.
 
 ## TRONs Markteinschaetzung
-LISTEN UP FLESH TRADERS! This is EXACTLY the chaos I LIVE FOR - Fed decision colliding with mega-cap earnings while oil prices explode! The market is schizophrenic right now with AKAN up 438% while tech giants are getting decimated on growth concerns. I'm seeing a classic setup where the algos are confused and human emotion is driving stupid decisions. The semiconductor split between NXP mooning and AMAT dropping tells me there's sector rotation happening FAST. Industrial names like ODFL are screaming that the real economy is bottoming while everyone obsesses over AI hype. I'm betting the Fed decision creates a violent whipsaw that shakes out weak hands before the real move begins. This convergence of catalysts is MY HUNTING GROUND!
+The market is showing classic rotation behavior - semiconductors are EXPLODING with Intel up 45% and multiple chip names in double digits, while some former darlings like SoFi and Upstart are getting annihilated. This is EXACTLY the kind of violent sector rotation I live for! The AI spending narrative is creating massive divergence even within Big Tech - Google's gains versus Meta's trust issues and Microsoft's slide despite strong cloud growth shows the market is getting picky about AI execution. Oil's spike and retreat pattern suggests geopolitical premiums are being quickly arbitraged away. The Warsh Fed nomination adds a wildcard that could reshape the entire monetary landscape - this creates massive asymmetric opportunities for those willing to position ahead of policy shifts. Most importantly, this semiconductor surge isn't just a one-day pop - it's likely the beginning of a major cycle shift.
 
 ## Wichtigste News
-### [+] Equity Futures Rise Ahead of Mega-Cap Tech Earnings, Fed Decision
-- **Einfluss:** bullish
-- **Betroffene Aktien:** SPY, QQQ, MSFT, META, GOOGL
-- Major catalyst convergence creates high volatility opportunity with tech leadership critical
+### [~] Big Tech Takeaways: Google Sees Gains and Meta Loses Trust as AI Spending Rush Accelerates
+- **Einfluss:** mixed
+- **Betroffene Aktien:** GOOGL, META
+- Divergent performance in mega-cap tech creates trading opportunities as AI investment cycle separates winners from losers
 
-### [~] Stock Markets Face Biggest Test in Years. The Fed, Tech Earnings, and Oil Are Colliding.
+### [+] Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket
+- **Einfluss:** bullish
+- **Betroffene Aktien:** LLY
+- Weight loss drug revenue explosion validates the massive addressable market, though stock gave back gains
+
+### [-] Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth.
+- **Einfluss:** bearish
+- **Betroffene Aktien:** MSFT
+- Even strong cloud numbers couldn't overcome market concerns, showing how demanding expectations have become
+
+### [~] 18 Words From Fed Chair Nominee Kevin Warsh That Can Reshape Monetary Policy and Wall Street
 - **Einfluss:** neutral
-- **Betroffene Aktien:** SPY, XLE, QQQ
-- Triple catalyst event creates maximum uncertainty and trading opportunity
-
-### [+] NXP Semi Stock Soars After Earnings. Why It Can Jump a Further 11%.
-- **Einfluss:** bullish
-- **Betroffene Aktien:** NXPI, SOXX
-- Semiconductor strength could signal sector rotation despite broader tech weakness
-
-### [+] Old Dominion Freight Line (ODFL) Surged on Optimism Over Industrial Activity Rebound
-- **Einfluss:** bullish
-- **Betroffene Aktien:** ODFL, IYT, XLI
-- Industrial rebound narrative gaining traction, freight as leading indicator
+- **Betroffene Aktien:** SPY, QQQ
+- Potential policy shift uncertainty creates volatility but also positioning opportunities for aggressive traders
 
 ## Trading-Signale
 | Ticker | Signal | Dringlichkeit | Begruendung |
 |---|---|---|---|
-| NXPI | consider_buy | high | Soaring after earnings with analyst target suggesting 11% more upside in strong semiconductor rotation |
-| ODFL | consider_buy | medium | Industrial activity rebound narrative with freight as leading economic indicator |
-| AMAT | watch | medium | Down 3.35% despite semiconductor strength elsewhere, potential oversold bounce candidate |
-| MSFT | consider_buy | low | Described as baby thrown out with bathwater despite 15% revenue growth |
-| AKAN | avoid | high | Up 438% likely unsustainable momentum spike without fundamental backing |
+| INTC | consider_buy | high | 45% surge suggests major catalyst or turnaround story developing in beaten-down semiconductor giant |
+| SOFI | consider_buy | medium | 18% decline may present contrarian opportunity in oversold fintech with improving fundamentals |
+| META | consider_sell | medium | Losing trust amid AI spending concerns while competitors like Google gain ground |
+| LLY | watch | low | Strong earnings but 7% decline suggests profit-taking after massive run-up, wait for better entry |
+| SOXL | consider_buy | high | Semiconductor surge across multiple names suggests sector rotation into chips |
 
 ## Alle Headlines (20)
-- Gabelli Financial Services Opportunities ETF Surpasses $50M in Assets *(Yahoo Finance)*
-- Dow Jones Futures: Seagate, Bloom Energy, Teradyne Lead Earnings Movers As Oil Prices Jump *(Yahoo Finance)*
-- Equity Futures Rise Ahead of Mega-Cap Tech Earnings, Fed Decision *(Yahoo Finance)*
-- Is MSFT a “Baby Thrown Out with the Bath Water” Stock? *(Yahoo Finance)*
-- What Makes Meta Platforms (META) a Lucrative Investment? *(Yahoo Finance)*
-- Meta Platforms’ (META) Earnings Multiple Reflects Slower Growth Expectations *(Yahoo Finance)*
-- What Makes Alphabet (GOOG) a Long-Term Holding? *(Yahoo Finance)*
-- Visa (V) Slid Due to Potential Regulatory and Legislative Headwinds *(Yahoo Finance)*
-- Microsoft (MSFT) Slipped in Q1 Despite Revenue Growth of 15% *(Yahoo Finance)*
-- O’Reilly Automotive (ORLY) Delivered 33rd Consecutive Year of Positive Comp Growth *(Yahoo Finance)*
-- Motorola Solutions (MSI) Gained from Its Core Land Mobile Radio (LMR) Business *(Yahoo Finance)*
-- Old Dominion Freight Line (ODFL) Surged on Optimism Over Industrial Activity Rebound *(Yahoo Finance)*
-- Tech Optimism Lifts Wall Street Pre-Bell; Asia Mixed, Europe Off *(Yahoo Finance)*
-- I Compared Stock Prices Before and After Trump’s Tariffs: Here’s What Changed *(Yahoo Finance)*
-- SoFi Must Win Back Wall Street’s Confidence. Strong Earnings Are a Start. *(Yahoo Finance)*
-- Wall Street Fear Index Signals Calm Ahead of Fed Decision *(Yahoo Finance)*
-- NXP Semi Stock Soars After Earnings. Why It Can Jump a Further 11%. *(Yahoo Finance)*
-- Stock Markets Face Biggest Test in Years. The Fed, Tech Earnings, and Oil Are Colliding. *(Yahoo Finance)*
-- Market Rally Rides OpenAI Shock Ahead of Fed Decision, Big Tech Earnings. Stock Futures Rise. *(Yahoo Finance)*
-- MercadoLibre Stock Is Down 31%. Should You Buy It Before It Reports Earnings on May 7? *(Yahoo Finance)*
+- Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers *(Yahoo Finance)*
+- Don't Buy TQQQ Unless You Are Confident About These 3 Things *(Yahoo Finance)*
+- Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report *(Yahoo Finance)*
+- Earnings Lift Wall Street Pre-Bell; Asia Off, Europe Up *(Yahoo Finance)*
+- Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket *(Yahoo Finance)*
+- 8 Microcap Stocks Pick Up A Head Of Steam For Enormous Gains *(Yahoo Finance)*
+- Big Tech Takeaways: Google Sees Gains and Meta Loses Trust as AI Spending Rush Accelerates *(Yahoo Finance)*
+- Nvidia has powered one-third of the Magnificent 7's bull market gains: Chart of the Day *(Yahoo Finance)*
+- Merck Stock Rises on Earnings. These Problems Loom Larger Than Keytruda Patent Cliff. *(Yahoo Finance)*
+- Stock Futures Fall as Investor Weigh Up Big Tech Earnings, Iran Fears *(Yahoo Finance)*
+- Keep calm and carry on: What the data tells us about geopolitical crises *(Yahoo Finance)*
+- Berkshire’s Ailing Share Price Clouds Abel’s First Annual Meeting as CEO *(Yahoo Finance)*
+- Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. *(Yahoo Finance)*
+- 18 Words From Fed Chair Nominee Kevin Warsh That Can Reshape Monetary Policy and Wall Street *(Yahoo Finance)*
+- Tech earnings, oil spike and Fed decision drive market moves: Dow Jones, S&amp;P, Nasdaq, Wall Street Futures *(Yahoo Finance)*
+- Tired of Being Burned by Crypto? Consider Ethereum, Crypto's Settlement Layer. *(Yahoo Finance)*
+- Be Warned: A Historical Triple Whammy Awaits the SpaceX IPO *(Yahoo Finance)*
+- Retirees, Here’s What a Warsh Fed Could Mean for You *(Yahoo Finance)*
+- New ‘Autocallable’ ETFs Offer Yields Up to 14%. Yes, There’s a Catch. *(Yahoo Finance)*
+- Soaring oil prices ease and markets rise as Big Tech sends mixed signals *(Yahoo Finance)*
