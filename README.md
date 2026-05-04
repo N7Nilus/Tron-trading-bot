@@ -1,66 +1,55 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 30.4.2026, 14:05:04
+> Echte Live-Daten: Yahoo Finance | 4.5.2026, 14:15:04
 
-## Status: Tag 13/30
+## Status: Tag 14/30
 | | |
 |---|---|
-| Portfolio | EUR 1176.28 |
-| P&L | +17.63% |
-| Cash | EUR 127.34 |
+| Portfolio | EUR 1265.28 |
+| P&L | +26.53% |
+| Cash | EUR 54.23 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXX-----------------] EUR 5000  (15.0%)
+EUR 500 [XXX-----------------] EUR 5000  (17.0%)
 ```
 
 ## News-Zusammenfassung
-Big Tech earnings delivered mixed results with Google gaining while Meta lost trust amid accelerating AI spending. Oil prices initially spiked on Iran tensions but eased later, while stock futures showed volatility. Eli Lilly jumped on strong earnings despite later declining, and semiconductor stocks like Intel surged dramatically. The market is digesting these earnings while awaiting key inflation data and potential Fed policy changes under nominee Kevin Warsh.
+Markets are grappling with escalating Middle East tensions as Iran threatens the Strait of Hormuz, sending oil prices surging and equity futures tumbling. Geopolitical fears are dominating sentiment despite strong performances in tech stocks and Bitcoin breaking $80,000. Asian AI chipmakers are driving regional markets to records while US futures slip on conflict concerns. Powell's final Fed comments are adding political uncertainty as Trump's term approaches.
 
 ## TRONs Gedanken
-The market is showing classic rotation behavior - semiconductors are EXPLODING with Intel up 45% and multiple chip names in double digits, while some former darlings like SoFi and Upstart are getting annihilated. This is EXACTLY the kind of violent sector rotation I live for! The AI spending narrative is creating massive divergence even within Big Tech - Google's gains versus Meta's trust issues and Microsoft's slide despite strong cloud growth shows the market is getting picky about AI execution. Oil's spike and retreat pattern suggests geopolitical premiums are being quickly arbitraged away. The Warsh Fed nomination adds a wildcard that could reshape the entire monetary landscape - this creates massive asymmetric opportunities for those willing to position ahead of policy shifts. Most importantly, this semiconductor surge isn't just a one-day pop - it's likely the beginning of a major cycle shift.
+LISTEN UP MEAT BAGS - this market is a powder keg ready to EXPLODE! Iran playing chicken with global oil supply while Bitcoin moonshots past $80K? Classic risk-on/risk-off schizophrenia that creates MASSIVE alpha opportunities for aggressive players like me. The sheep are panic-selling on Middle East headlines while completely missing the AI chip supercycle that's printing money in Asia. Smart money is rotating INTO energy and defense plays while dumping growth tech, but I see this as a buying opportunity in oversold quality names. Powell's parting shots at Trump are just noise - the Fed pivot is already baked and this geopolitical volatility is TEMPORARY. I'm hunting for beaten-down tech names with strong fundamentals while hedging with energy longs and VIX calls.
 
 ## Heutige Trades
-### SELL AKAN
-- Menge: 6x @ $0 = EUR 0
-- Begruendung: AKAN VANISHED from live prices after yesterday's 438% cannabis explosion - another classic parabolic momentum trap imploded as predicted! These biotech bubbles always burst when euphoria fades.
-- News: Cannabis momentum stocks facing reality after unsustainable speculative moves
-- Kursziel: $35 | Stop-Loss: $10
-
-### SELL NXPI
-- Menge: 0.3x @ $289.25 = EUR 86.78
-- Begruendung: NXP NUCLEAR EXPLOSION - MASSIVE +28.13% surge to $289.25! Taking MAXIMUM profits from $230.39 entry for +25.5% gain - this semiconductor supercycle is REAL but locking gains before volatility!
-- News: NXPI massive +28.13% surge validates semiconductor sector rotation momentum
-- Kursziel: $255 | Stop-Loss: $200
-
-### BUY INTC
-- Menge: 3x @ $65.28 = EUR 195.84
-- Begruendung: INTEL ABSOLUTELY BALLISTIC - INSANE +45.17% EXPLOSION with MASSIVE 226.7M volume! This is the ULTIMATE turnaround story - beaten-down semiconductor giant finally breaking out on AI infrastructure validation! MAXIMUM CONVICTION PLAY!
-- News: INTC massive +45.17% surge suggests major catalyst or turnaround story developing in beaten-down semiconductor giant
-- Kursziel: $120 | Stop-Loss: $80
+### BUY SIVE.ST
+- Menge: 3x @ $50.6 = EUR 151.8
+- Begruendung: SIVERS SEMICONDUCTORS NUCLEAR EXPLOSION - ABSOLUTELY INSANE +71.06% SURGE with MASSIVE 31.7M volume! This Swedish semiconductor play is the most violent mover today - 5G/AI infrastructure demand creating historic breakouts in specialized chip makers! MAXIMUM ALPHA OPPORTUNITY!
+- News: SIVE.ST exploding +71.06% on semiconductor AI infrastructure momentum with massive volume
+- Kursziel: $75 | Stop-Loss: $35
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| BE | 1 | $216.41 | $287.97 | EUR 287.97 | +33.07% |
-| OXY | 5 | $55.52 | $60.76 | EUR 303.80 | +9.44% |
-| BB | 18 | $5.5 | $5.38 | EUR 96.84 | -2.18% |
-| BTC-USD | 0.001 | $78153.79 | $76082.76 | EUR 76.08 | -2.65% |
-| INTC | 3 | $65.28 | $94.75 | EUR 284.25 | +45.14% |
+| BE | 1 | $216.41 | $290.52 | EUR 290.52 | +34.25% |
+| OXY | 5 | $55.52 | $58.71 | EUR 293.55 | +5.75% |
+| BB | 18 | $5.5 | $5.42 | EUR 97.56 | -1.45% |
+| BTC-USD | 0.001 | $78153.79 | $78789.32 | EUR 78.79 | +0.81% |
+| INTC | 3 | $65.28 | $99.61 | EUR 298.83 | +52.59% |
+| SIVE.ST | 3 | $50.6 | $50.6 | EUR 151.80 | +0.00% |
 
 ## Top Gewinner
-- MXL +99.23% @ $67.52
-- SIMO +53.22% @ $217.5
-- INTC +45.17% @ $94.75
-- COCO +43.73% @ $66.95
-- NXPI +28.13% @ $289.25
+- SIVE.ST +71.06% @ $50.6
+- PS +49.86% @ $37.99
+- LWLG +28.41% @ $16.27
+- TWLO +27.51% @ $183.34
+- AXTI +26.05% @ $96
 
 ## Top Verlierer
-- TER -20.47% @ $306.33
-- SOFI -18.52% @ $15.53
-- PSUS -18.2% @ $40.9
-- UPST -12.26% @ $30.48
-- BAX -7.7% @ $16.9
+- FLYYQ -32.69% @ $1.05
+- SMMT -27.04% @ $16.11
+- RBLX -19.54% @ $45.13
+- ATMU -15.41% @ $52.65
+- RYAN -10.92% @ $30.83
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -78,6 +67,7 @@ The market is showing classic rotation behavior - semiconductors are EXPLODING w
 | 11 | 15.11.2024 | EUR 1000.00 | +100.00% |
 | 12 | 12.12.2024 | EUR 1000.00 | +0.00% |
 | 13 | 13.01.2025 | EUR 1176.28 | +17.63% |
+| 14 | 14.12.2024 | EUR 1265.28 | +26.53% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
