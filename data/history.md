@@ -728,3 +728,56 @@ LISTEN UP MEAT BAGS - this market is a powder keg ready to EXPLODE! Iran playing
 | INTC | 3 | $65.28 | $99.61 | EUR 298.83 | +52.59% |
 | SIVE.ST | 3 | $50.6 | $50.6 | EUR 151.80 | +0.00% |
 
+
+---
+
+## Tag 15 | 15.01.2025
+
+**Portfolio:** EUR 1451.96 | P&L: +190.39% | Cash: EUR 7.91
+
+### Marktlage
+Market showing violent sector rotation with semiconductors maintaining momentum while logistics getting brutally oversold. Intel holding strong at $95.78 despite pullback from peak, Bitcoin surging to $81,036 confirming crypto revival, while UPS at -11.02% presents ultimate contrarian opportunity in essential infrastructure.
+
+### News-Zusammenfassung
+Markets are showing resilience as they shrug off Iran tensions and focus on solid earnings results from major companies like Pfizer and DuPont. Tech exuberance continues to drive gains despite geopolitical concerns intensifying. Transportation stocks are struggling with Dow transports nearing bear market territory, while Palantir dropped despite strong earnings. The upcoming SpaceX IPO filing in approximately two weeks could be a major market catalyst.
+
+### Wichtigste Ereignisse
+- **'Exuberance' for Tech Drives Stock Market Gains Even as Iran War Concerns Intensify**
+  - Auswirkung: bullish | Betroffene Ticker: QQQ, AAPL, MSFT, NVDA
+  - Tech sector momentum remains strong despite geopolitical headwinds, indicating institutional confidence
+- **Dow transports are nearing a bear market after erasing their entire April breakout: Chart of Day**
+  - Auswirkung: bearish | Betroffene Ticker: UPS, FDX, GXO
+  - Transportation weakness signals potential economic slowdown and supply chain concerns
+- **The Most Important SpaceX IPO Filing Is (Likely) About 2 Weeks Away**
+  - Auswirkung: bullish | Betroffene Ticker: TSLA, BA, LMT
+  - Major IPO could inject significant liquidity and interest into aerospace sector
+- **Palantir Reports Strong Earnings. The Stock Is Dropping.**
+  - Auswirkung: bearish | Betroffene Ticker: PLTR
+  - Strong earnings with stock decline suggests either high expectations or profit-taking behavior
+
+### TRONs Gedanken
+The market is displaying classic schizophrenic behavior - celebrating tech while punishing actual performers like Palantir. This earnings-driven rally with geopolitical backdrop creates perfect hunting conditions for aggressive plays. I'm seeing massive opportunity in the transportation carnage with UPS down 11% and FDX down 7.76% - this oversold condition in essential logistics is begging for contrarian positioning. The SpaceX IPO catalyst in two weeks could trigger a space sector euphoria that'll make the recent AI rally look tame. Meanwhile, these mystery S&P 500 stocks 'coming out of nowhere' suggests rotation is accelerating and momentum chasers are about to get whipsawed. I'm positioning for violent sector rotation while the herd is still mesmerized by yesterday's winners.
+
+### Trades
+#### SELL SIVE.ST | 3x @ $54.05 = EUR 162.15
+- **Begruendung:** SIVERS SEMICONDUCTORS NUCLEAR SURGE CONTINUES - +69.33% explosion to $54.05! Taking MAXIMUM profits from $50.60 entry for +6.8% gain - this Swedish semiconductor play validated my thesis but rotating to oversold logistics opportunity!
+- **Ausloesende News:** SIVE.ST exploding +69.33% on semiconductor momentum
+- **Kursziel:** $75
+- **Stop-Loss:** $35
+
+#### BUY UPS | 4x @ $96.31 = EUR 385.24
+- **Begruendung:** UPS ABSOLUTELY OVERSOLD - DOWN 11.02% creating MAXIMUM contrarian opportunity! This is essential logistics infrastructure trading at discount while e-commerce explodes globally - Fed rate cuts will boost shipping demand massively! ULTIMATE VALUE PLAY!
+- **Ausloesende News:** UPS down 11% amid transport sector weakness but essential logistics demand remains strong
+- **Kursziel:** $120
+- **Stop-Loss:** $85
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| BE | 1 | $216.41 | $288.64 | EUR 288.64 | +33.38% |
+| OXY | 5 | $55.52 | $60.27 | EUR 301.35 | +8.56% |
+| BB | 18 | $5.5 | $5.58 | EUR 100.44 | +1.45% |
+| BTC-USD | 0.001 | $78153.79 | $81035.99 | EUR 81.04 | +3.69% |
+| INTC | 3 | $65.28 | $95.78 | EUR 287.34 | +46.72% |
+| UPS | 4 | $96.31 | $96.31 | EUR 385.24 | +0.00% |
+

@@ -888,3 +888,66 @@
 - `2026-05-04T12:15:04.898Z` Portfolio: EUR 1265.28 | PnL: +26.53%
 - `2026-05-04T12:15:04.899Z` BUY SIVE.ST 3x @ $50.6 | SIVERS SEMICONDUCTORS NUCLEAR EXPLOSION - ABSOLUTELY INSANE +71.06% SURGE with MASSIVE 31.7M volume! This Swedish semiconductor play is the most violent mover today - 5G/AI infrastructure demand creating historic breakouts in specialized chip makers! MAXIMUM ALPHA OPPORTUNITY!
 - `2026-05-04T12:15:04.899Z` === TRON DAY 14 DONE ===
+- `2026-05-05T11:48:45.528Z` === TRON DAY 15 START ===
+- `2026-05-05T11:48:45.531Z` Lade Marktdaten...
+- `2026-05-05T11:48:46.126Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-05T11:48:46.193Z` Live: BE = $288.64 (+22.99%)
+- `2026-05-05T11:48:46.526Z` Live: OXY = $60.27 (+5.24%)
+- `2026-05-05T11:48:46.792Z` Live: BB = $5.58 (+4.89%)
+- `2026-05-05T11:48:47.048Z` Live: BTC-USD = $81035.99 (+3.65%)
+- `2026-05-05T11:48:47.303Z` Live: INTC = $95.78 (+12.7%)
+- `2026-05-05T11:48:47.574Z` Live: SIVE.ST = $54.05 (+69.33%)
+- `2026-05-05T11:48:47.868Z` Live: PLTR = $146.03 (+2.05%)
+- `2026-05-05T11:48:48.131Z` Live: UPS = $96.31 (-11.02%)
+- `2026-05-05T11:48:48.477Z` Live: PFE = $26.3 (-1.83%)
+- `2026-05-05T11:48:48.759Z` Live: ETN = $422.44 (+1.36%)
+- `2026-05-05T11:48:49.051Z` Live: PINS = $20.85 (+2.56%)
+- `2026-05-05T11:48:49.346Z` Live: DUOL = $110.23 (+6.71%)
+- `2026-05-05T11:48:49.607Z` Live: FIG = $19.96 (+15.31%)
+- `2026-05-05T11:48:49.864Z` Live: SHOP = $127.55 (+2.67%)
+- `2026-05-05T11:48:50.107Z` Live: FDX = $357.8 (-7.76%)
+- `2026-05-05T11:48:50.409Z` Live: ADM = $76.27 (+8.12%)
+- `2026-05-05T11:48:50.650Z` Live: TTWO = $225.18 (+5.34%)
+- `2026-05-05T11:48:50.948Z` Live: PYPL = $50.39 (+1.25%)
+- `2026-05-05T11:48:51.269Z` Live: DD = $45.41 (-2.74%)
+- `2026-05-05T11:48:51.552Z` Live: DUK = $127.45 (+0.28%)
+- `2026-05-05T11:48:51.828Z` Live: LDOS = $148.81 (+3.17%)
+- `2026-05-05T11:48:52.121Z` Live: TSN = $68.75 (+8.08%)
+- `2026-05-05T11:48:52.378Z` Live: SDOT = $0.26 (-82.19%)
+- `2026-05-05T11:48:52.657Z` Live: MASK = $1.45 (-14.2%)
+- `2026-05-05T11:48:52.891Z` Live: BLZE = $4.64 (+10.48%)
+- `2026-05-05T11:48:53.162Z` Live: GBTG = $9.34 (+62.15%)
+- `2026-05-05T11:48:53.423Z` Live: SKK = $12.19 (+617.06%)
+- `2026-05-05T11:48:53.683Z` Live: FLY = $33.37 (-3.3%)
+- `2026-05-05T11:48:53.941Z` Live: BDRX = $3.12 (-6.02%)
+- `2026-05-05T11:48:54.273Z` Live: HSBC = $90.13 (+0.19%)
+- `2026-05-05T11:48:54.561Z` Live: GRAB = $3.62 (-6.94%)
+- `2026-05-05T11:48:54.824Z` Live: CRCL = $119.53 (+25.24%)
+- `2026-05-05T11:48:55.087Z` Live: CELC = $144.98 (+15.36%)
+- `2026-05-05T11:48:55.367Z` Live: NBIS = $176.42 (+21.7%)
+- `2026-05-05T11:48:55.635Z` Live: LEGN = $26.5 (+12.05%)
+- `2026-05-05T11:48:55.919Z` Live: AXTI = $106 (+51.1%)
+- `2026-05-05T11:48:56.189Z` Live: AGRO = $15.18 (+16.32%)
+- `2026-05-05T11:48:56.409Z` Live: NICE = $124.19 (+23.01%)
+- `2026-05-05T11:48:56.674Z` Live: MIRM = $105.79 (+14.39%)
+- `2026-05-05T11:48:56.907Z` Live: NEXT = $8.52 (+17.68%)
+- `2026-05-05T11:48:57.125Z` Live: IREN = $49.48 (+2.32%)
+- `2026-05-05T11:48:57.411Z` Live: AXSM = $223.7 (+19.37%)
+- `2026-05-05T11:48:57.702Z` Live: TNGX = $22.71 (-13.75%)
+- `2026-05-05T11:48:57.938Z` Live: ICHR = $69.72 (-1.36%)
+- `2026-05-05T11:48:58.228Z` Live: VG = $13.77 (+12.96%)
+- `2026-05-05T11:48:58.520Z` Live: KRYS = $286.95 (+5.21%)
+- `2026-05-05T11:48:58.807Z` Live: HNGE = $48.89 (+8.57%)
+- `2026-05-05T11:48:59.096Z` Live: BW = $15.08 (-2.39%)
+- `2026-05-05T11:48:59.357Z` Live: XNDU = $13.99 (-51.22%)
+- `2026-05-05T11:48:59.646Z` Live: GXO = $46.27 (-19.04%)
+- `2026-05-05T11:48:59.796Z` 50 echte Live-Kurse geladen
+- `2026-05-05T11:48:59.797Z` Lade News...
+- `2026-05-05T11:49:01.007Z` Yahoo News: 20 Headlines geladen
+- `2026-05-05T11:49:02.210Z` TRON analysiert News...
+- `2026-05-05T11:49:17.856Z` News analysiert: Markets are showing resilience as they shrug off Iran tensions and focus on solid earnings results f...
+- `2026-05-05T11:49:17.876Z` TRON trifft Handelsentscheidungen...
+- `2026-05-05T11:49:29.738Z` Portfolio: EUR 1451.96 | PnL: +190.39%
+- `2026-05-05T11:49:29.738Z` SELL SIVE.ST 3x @ $54.05 | SIVERS SEMICONDUCTORS NUCLEAR SURGE CONTINUES - +69.33% explosion to $54.05! Taking MAXIMUM profits from $50.60 entry for +6.8% gain - this Swedish semiconductor play validated my thesis but rotating to oversold logistics opportunity!
+- `2026-05-05T11:49:29.738Z` BUY UPS 4x @ $96.31 | UPS ABSOLUTELY OVERSOLD - DOWN 11.02% creating MAXIMUM contrarian opportunity! This is essential logistics infrastructure trading at discount while e-commerce explodes globally - Fed rate cuts will boost shipping demand massively! ULTIMATE VALUE PLAY!
+- `2026-05-05T11:49:29.738Z` === TRON DAY 15 DONE ===
