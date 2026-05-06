@@ -951,3 +951,70 @@
 - `2026-05-05T11:49:29.738Z` SELL SIVE.ST 3x @ $54.05 | SIVERS SEMICONDUCTORS NUCLEAR SURGE CONTINUES - +69.33% explosion to $54.05! Taking MAXIMUM profits from $50.60 entry for +6.8% gain - this Swedish semiconductor play validated my thesis but rotating to oversold logistics opportunity!
 - `2026-05-05T11:49:29.738Z` BUY UPS 4x @ $96.31 | UPS ABSOLUTELY OVERSOLD - DOWN 11.02% creating MAXIMUM contrarian opportunity! This is essential logistics infrastructure trading at discount while e-commerce explodes globally - Fed rate cuts will boost shipping demand massively! ULTIMATE VALUE PLAY!
 - `2026-05-05T11:49:29.738Z` === TRON DAY 15 DONE ===
+- `2026-05-06T12:27:02.293Z` === TRON DAY 16 START ===
+- `2026-05-06T12:27:02.295Z` Lade Marktdaten...
+- `2026-05-06T12:27:02.752Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-06T12:27:02.790Z` Live: BE = $295.25 (+30.43%)
+- `2026-05-06T12:27:03.032Z` Live: OXY = $59.34 (+1.25%)
+- `2026-05-06T12:27:03.220Z` Live: BB = $5.6 (+8.95%)
+- `2026-05-06T12:27:03.410Z` Live: BTC-USD = $80937.36 (+2.9%)
+- `2026-05-06T12:27:03.645Z` Live: INTC = $108.15 (+27.96%)
+- `2026-05-06T12:27:03.860Z` Live: UPS = $98.07 (-5.65%)
+- `2026-05-06T12:27:04.053Z` Live: UBER = $72.95 (-1.57%)
+- `2026-05-06T12:27:04.242Z` Live: AMD = $355.26 (+9.92%)
+- `2026-05-06T12:27:04.506Z` Live: DIS = $100.48 (-0.98%)
+- `2026-05-06T12:27:04.697Z` Live: SMCI = $27.83 (+2.13%)
+- `2026-05-06T12:27:04.933Z` Live: NVO = $44.87 (+8.99%)
+- `2026-05-06T12:27:05.123Z` Live: HUT = $80.51 (+11.65%)
+- `2026-05-06T12:27:05.356Z` Live: CVS = $80.69 (-0.36%)
+- `2026-05-06T12:27:05.556Z` Live: KHC = $22.54 (+0.31%)
+- `2026-05-06T12:27:05.746Z` Live: ARM = $208.84 (+5.13%)
+- `2026-05-06T12:27:05.980Z` Live: GLW = $162.1 (+5.91%)
+- `2026-05-06T12:27:06.190Z` Live: NVDA = $196.5 (-7.82%)
+- `2026-05-06T12:27:06.380Z` Live: IREN = $54.74 (+23.18%)
+- `2026-05-06T12:27:06.569Z` Live: POET = $9.21 (+14.69%)
+- `2026-05-06T12:27:06.756Z` Live: OSCR = $17.94 (-0.55%)
+- `2026-05-06T12:27:06.947Z` Live: ANET = $170.22 (+2.98%)
+- `2026-05-06T12:27:07.216Z` Live: QCOM = $186.55 (+24.37%)
+- `2026-05-06T12:27:07.416Z` Live: SWKS = $72.56 (+18.99%)
+- `2026-05-06T12:27:07.643Z` Live: MAR = $354.52 (-1.06%)
+- `2026-05-06T12:27:07.838Z` Live: FLEX = $96.45 (+10.66%)
+- `2026-05-06T12:27:08.026Z` Live: ETH-USD = $2376.99 (+2.62%)
+- `2026-05-06T12:27:08.216Z` Live: CL=F = $94.95 (-6.86%)
+- `2026-05-06T12:27:08.407Z` Live: XRP-USD = $1.41 (+1.21%)
+- `2026-05-06T12:27:08.595Z` Live: NVAX = $8.1 (+2.27%)
+- `2026-05-06T12:27:08.810Z` Live: EVC = $3.98 (+3.65%)
+- `2026-05-06T12:27:08.999Z` Live: STRL = $806 (+70.82%)
+- `2026-05-06T12:27:09.188Z` Live: DOCN = $152.77 (+61.87%)
+- `2026-05-06T12:27:09.381Z` Live: CIFR = $22.1 (+28.04%)
+- `2026-05-06T12:27:09.571Z` Live: EWTX = $38.01 (+22.65%)
+- `2026-05-06T12:27:09.761Z` Live: FSLY = $32.36 (+31.38%)
+- `2026-05-06T12:27:09.951Z` Live: CYTK = $77.09 (+27.02%)
+- `2026-05-06T12:27:10.143Z` Live: ULS = $104.74 (+18.63%)
+- `2026-05-06T12:27:10.332Z` Live: UCTT = $83.14 (+6.25%)
+- `2026-05-06T12:27:10.522Z` Live: WAT = $342.75 (+13.97%)
+- `2026-05-06T12:27:10.713Z` Live: VVX = $76.5 (+17.93%)
+- `2026-05-06T12:27:10.927Z` Live: JBTM = $131.29 (+1.71%)
+- `2026-05-06T12:27:11.124Z` Live: CECO = $87.78 (+18.16%)
+- `2026-05-06T12:27:11.436Z` Live: GPK = $10.73 (+10.39%)
+- `2026-05-06T12:27:11.623Z` Live: SNDK = $1406.32 (+40.3%)
+- `2026-05-06T12:27:11.813Z` Live: APLD = $39.88 (+24.2%)
+- `2026-05-06T12:27:12.001Z` Live: LTH = $29.38 (+11.75%)
+- `2026-05-06T12:27:12.190Z` Live: ECG = $168.32 (+23.19%)
+- `2026-05-06T12:27:12.379Z` Live: AKAM = $117.94 (+23.59%)
+- `2026-05-06T12:27:12.568Z` Live: BLSH = $45.34 (+13.86%)
+- `2026-05-06T12:27:12.756Z` Live: IPGP = $90.84 (-19.15%)
+- `2026-05-06T12:27:12.907Z` 50 echte Live-Kurse geladen
+- `2026-05-06T12:27:12.907Z` Lade News...
+- `2026-05-06T12:27:14.029Z` Yahoo News: 20 Headlines geladen
+- `2026-05-06T12:27:15.233Z` TRON analysiert News...
+- `2026-05-06T12:27:35.399Z` News analysiert: Markets are surging on reports that the US and Iran are close to a peace agreement that could end th...
+- `2026-05-06T12:27:35.501Z` TRON trifft Handelsentscheidungen...
+- `2026-05-06T12:27:54.588Z` Portfolio: EUR 1496.00 | PnL: +199.20%
+- `2026-05-06T12:27:54.588Z` SELL OXY 5x @ $59.34 | OXY CRASHING on Iran peace deal hopes - energy sector getting ANNIHILATED as oil plunges 6.86%! This geopolitical relief rally is DESTROYING my energy hedge - cutting losses and rotating to semiconductor EXPLOSION!
+- `2026-05-06T12:27:54.588Z` SELL BB 18x @ $5.6 | BLACKBERRY EXPLODING +8.95% surge - taking profits on this cybersecurity momentum play before it fades! This 26M volume surge validates the thesis but semiconductor supercycle demands maximum allocation!
+- `2026-05-06T12:27:54.589Z` SELL UPS 4x @ $98.07 | UPS STILL BLEEDING -5.65% despite logistics thesis - this transport carnage is deeper than expected! Cutting losses and going ALL-IN on the semiconductor NUCLEAR EXPLOSION happening right now!
+- `2026-05-06T12:27:54.589Z` BUY INTC 2x @ $108.15 | INTEL ABSOLUTELY NUCLEAR - INSANE +27.96% EXPLOSION with MASSIVE 189.3M volume! This is the ULTIMATE turnaround story validated - adding to my position as this beaten-down giant finally breaks out on AI infrastructure demand!
+- `2026-05-06T12:27:54.589Z` BUY AMD 1x @ $355.26 | AMD MOONSHOT CONFIRMED - Massive earnings beat driving sector rotation! This +9.92% surge with 44.1M volume is just the beginning - AI chip demand is INFINITE and AMD is the execution machine! MAXIMUM CONVICTION!
+- `2026-05-06T12:27:54.589Z` BUY BTC-USD 0.002x @ $80937.36 | BITCOIN NUCLEAR BREAKOUT +2.9% to $80,937 - this geopolitical relief rally is sending risk assets to the MOON! Iran peace premium deflating means money flowing into crypto and tech - riding this momentum wave!
+- `2026-05-06T12:27:54.589Z` === TRON DAY 16 DONE ===
