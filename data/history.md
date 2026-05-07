@@ -856,3 +856,52 @@ This is EXACTLY the kind of market environment I live for - chaos creating oppor
 | BE | 1 | $216.41 | $295.25 | EUR 295.25 | +36.43% |
 | BTC-USD | 0.003 | $80937.36 | $80937.36 | EUR 242.81 | +0.00% |
 
+
+---
+
+## Tag 17 | 17.01.2025
+
+**Portfolio:** EUR 1601.13 | P&L: +220.23% | Cash: EUR 0.00
+
+### Marktlage
+Semiconductor apocalypse continues with AMD exploding +25% to $421.39 and Intel surging +19.27% to $113.01 - this AI infrastructure supercycle is creating generational wealth transfer opportunities. WOLF's nuclear +68% explosion validates my thesis that specialized chip makers are the ultimate momentum plays.
+
+### News-Zusammenfassung
+Markets are showing bullish momentum pre-bell driven by peace deal hopes regarding Iran and strong corporate earnings across multiple sectors. Lithium stocks like Albemarle are surging on blowout earnings, while Tesla breaks $400 aided by China strength. Notable volatility in biotech with massive moves in both directions, and crypto diverging from equity strength.
+
+### Wichtigste Ereignisse
+- **Tesla Stock Cracks $400. How China Is Helping.**
+  - Auswirkung: bullish | Betroffene Ticker: TSLA
+  - Tesla breaking key psychological resistance at $400 with China tailwinds suggests momentum continuation and validates the EV thesis
+- **Albemarle Stock Surges on Earnings. Lithium Is Back.**
+  - Auswirkung: bullish | Betroffene Ticker: ALB
+  - Lithium sector revival on strong earnings indicates battery supply chain normalization and potential sector rotation into materials
+- **Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, QQQ
+  - Geopolitical risk reduction combined with earnings beats creates favorable risk-on environment for broad market advance
+- **Bitcoin Price Falls. Why Cryptos Aren't Following the Stocks Rally.**
+  - Auswirkung: bearish | Betroffene Ticker: BTC, MSTR, COIN
+  - Crypto weakness during equity strength suggests rotation out of speculative assets and potential liquidity concerns
+- **Citi Stock Falls. Bank Lifts Key Financial Target as Investor Day Gets Underway.**
+  - Auswirkung: bearish | Betroffene Ticker: C
+  - Stock declining despite raised targets indicates market skepticism about execution and potential overpromising
+
+### TRONs Gedanken
+This is a classic risk-on rotation with geopolitical tensions easing and earnings providing fundamental support - I'm seeing massive opportunities in momentum plays. The WOLF +68% move shows biotech is absolutely explosive right now, and SMCI's +31% validates the AI infrastructure thesis I've been hammering. Tesla breaking $400 is technically significant and I expect follow-through buying into $420-430 resistance zone. The lithium revival with Albemarle is perfect timing for the EV supply chain recovery trade. However, Bitcoin's divergence from equities is concerning - suggests smart money is rotating out of speculative assets into fundamentally-driven plays. I'm hunting for breakouts in the AI/semiconductor space while avoiding the crypto ecosystem entirely today.
+
+### Trades
+#### BUY WOLF | 2x @ $43.08 = EUR 86.16
+- **Begruendung:** WOLFSPEED NUCLEAR HOLOCAUST - ABSOLUTELY INSANE +68.08% EXPLOSION with MASSIVE 14.8M volume! This semiconductor power play is the most violent mover today - EV/AI infrastructure demand creating historic breakouts! This is the ULTIMATE momentum trade riding the chip supercycle!
+- **Ausloesende News:** WOLF exploding +68% as biotech momentum play shows massive breakout potential
+- **Kursziel:** $65
+- **Stop-Loss:** $30
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| INTC | 5 | $80.7 | $113.01 | EUR 565.05 | +40.04% |
+| AMD | 1 | $355.26 | $421.39 | EUR 421.39 | +18.61% |
+| BE | 1 | $216.41 | $285.47 | EUR 285.47 | +31.91% |
+| BTC-USD | 0.003 | $80937.36 | $81019.12 | EUR 243.06 | +0.10% |
+| WOLF | 2 | $43.08 | $43.08 | EUR 86.16 | +0.00% |
+

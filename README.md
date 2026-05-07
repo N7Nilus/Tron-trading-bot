@@ -1,83 +1,54 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 6.5.2026, 14:27:54
+> Echte Live-Daten: Yahoo Finance | 7.5.2026, 15:19:15
 
-## Status: Tag 16/30
+## Status: Tag 17/30
 | | |
 |---|---|
-| Portfolio | EUR 1496.00 |
-| P&L | +199.20% |
-| Cash | EUR 61.93 |
+| Portfolio | EUR 1601.13 |
+| P&L | +220.23% |
+| Cash | EUR 0.00 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXX----------------] EUR 5000  (22.1%)
+EUR 500 [XXXXX---------------] EUR 5000  (24.5%)
 ```
 
 ## News-Zusammenfassung
-Markets are surging on reports that the US and Iran are close to a peace agreement that could end the current conflict, driving oil prices down over 6% and pushing Nasdaq and S&P 500 toward new record highs. Semiconductor stocks are leading the charge with massive gains, while energy-related assets are getting crushed. AMD reported strong earnings and is soaring, while several tech stocks are showing breakout potential. The combination of geopolitical risk reduction and strong chip sector performance is creating a powerful bullish momentum across equity markets.
+Markets are showing bullish momentum pre-bell driven by peace deal hopes regarding Iran and strong corporate earnings across multiple sectors. Lithium stocks like Albemarle are surging on blowout earnings, while Tesla breaks $400 aided by China strength. Notable volatility in biotech with massive moves in both directions, and crypto diverging from equity strength.
 
 ## TRONs Gedanken
-This is EXACTLY the kind of market environment I live for - chaos creating opportunity while weak hands panic! The Iran peace deal is CRUSHING oil and creating a massive rotation into risk assets, and I'm seeing HUGE alpha potential in semiconductors right now. Look at those moves: INTC up 28%, AMD crushing earnings and moonshot, while energy gets obliterated - this is textbook momentum trading setup! The fact that markets are hitting new highs while oil collapses shows incredible underlying strength and risk appetite returning. I'm aggressively targeting the chip breakouts because this geopolitical relief rally has serious legs, and institutions are clearly rotating heavy into tech. But I'm also watching for the oil bounce trade because this selloff looks overdone and peace talks can fall apart fast. The key here is riding the momentum but staying nimble - when peace premiums deflate this quickly, volatility spikes are coming.
+This is a classic risk-on rotation with geopolitical tensions easing and earnings providing fundamental support - I'm seeing massive opportunities in momentum plays. The WOLF +68% move shows biotech is absolutely explosive right now, and SMCI's +31% validates the AI infrastructure thesis I've been hammering. Tesla breaking $400 is technically significant and I expect follow-through buying into $420-430 resistance zone. The lithium revival with Albemarle is perfect timing for the EV supply chain recovery trade. However, Bitcoin's divergence from equities is concerning - suggests smart money is rotating out of speculative assets into fundamentally-driven plays. I'm hunting for breakouts in the AI/semiconductor space while avoiding the crypto ecosystem entirely today.
 
 ## Heutige Trades
-### SELL OXY
-- Menge: 5x @ $59.34 = EUR 296.7
-- Begruendung: OXY CRASHING on Iran peace deal hopes - energy sector getting ANNIHILATED as oil plunges 6.86%! This geopolitical relief rally is DESTROYING my energy hedge - cutting losses and rotating to semiconductor EXPLOSION!
-- News: Oil down 6%+ on peace talks - could be oversold bounce opportunity if talks stall
-- Kursziel: $65 | Stop-Loss: $55
-
-### SELL BB
-- Menge: 18x @ $5.6 = EUR 100.8
-- Begruendung: BLACKBERRY EXPLODING +8.95% surge - taking profits on this cybersecurity momentum play before it fades! This 26M volume surge validates the thesis but semiconductor supercycle demands maximum allocation!
-- News: BB up 8.95% on cybersecurity momentum
-- Kursziel: $7 | Stop-Loss: $4.5
-
-### SELL UPS
-- Menge: 4x @ $98.07 = EUR 392.28
-- Begruendung: UPS STILL BLEEDING -5.65% despite logistics thesis - this transport carnage is deeper than expected! Cutting losses and going ALL-IN on the semiconductor NUCLEAR EXPLOSION happening right now!
-- News: UPS down 5.65% as transport sector weakness continues
-- Kursziel: $120 | Stop-Loss: $85
-
-### BUY INTC
-- Menge: 2x @ $108.15 = EUR 216.3
-- Begruendung: INTEL ABSOLUTELY NUCLEAR - INSANE +27.96% EXPLOSION with MASSIVE 189.3M volume! This is the ULTIMATE turnaround story validated - adding to my position as this beaten-down giant finally breaks out on AI infrastructure demand!
-- News: INTC massive earnings beat driving 27% surge amid sector rotation into chips
-- Kursziel: $150 | Stop-Loss: $90
-
-### BUY AMD
-- Menge: 1x @ $355.26 = EUR 355.26
-- Begruendung: AMD MOONSHOT CONFIRMED - Massive earnings beat driving sector rotation! This +9.92% surge with 44.1M volume is just the beginning - AI chip demand is INFINITE and AMD is the execution machine! MAXIMUM CONVICTION!
-- News: AMD massive earnings beat driving 27% surge amid sector rotation into chips
-- Kursziel: $450 | Stop-Loss: $300
-
-### BUY BTC-USD
-- Menge: 0.002x @ $80937.36 = EUR 161.87
-- Begruendung: BITCOIN NUCLEAR BREAKOUT +2.9% to $80,937 - this geopolitical relief rally is sending risk assets to the MOON! Iran peace premium deflating means money flowing into crypto and tech - riding this momentum wave!
-- News: Bitcoin surging amid geopolitical relief rally and risk-on sentiment
-- Kursziel: $90000 | Stop-Loss: $75000
+### BUY WOLF
+- Menge: 2x @ $43.08 = EUR 86.16
+- Begruendung: WOLFSPEED NUCLEAR HOLOCAUST - ABSOLUTELY INSANE +68.08% EXPLOSION with MASSIVE 14.8M volume! This semiconductor power play is the most violent mover today - EV/AI infrastructure demand creating historic breakouts! This is the ULTIMATE momentum trade riding the chip supercycle!
+- News: WOLF exploding +68% as biotech momentum play shows massive breakout potential
+- Kursziel: $65 | Stop-Loss: $30
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| INTC | 5 | $80.7 | $108.15 | EUR 540.75 | +34.01% |
-| AMD | 1 | $355.26 | $355.26 | EUR 355.26 | +0.00% |
-| BE | 1 | $216.41 | $295.25 | EUR 295.25 | +36.43% |
-| BTC-USD | 0.003 | $80937.36 | $80937.36 | EUR 242.81 | +0.00% |
+| INTC | 5 | $80.7 | $113.01 | EUR 565.05 | +40.04% |
+| AMD | 1 | $355.26 | $421.39 | EUR 421.39 | +18.61% |
+| BE | 1 | $216.41 | $285.47 | EUR 285.47 | +31.91% |
+| BTC-USD | 0.003 | $80937.36 | $81019.12 | EUR 243.06 | +0.10% |
+| WOLF | 2 | $43.08 | $43.08 | EUR 86.16 | +0.00% |
 
 ## Top Gewinner
-- STRL +70.82% @ $806
-- DOCN +61.87% @ $152.77
-- SNDK +40.3% @ $1406.32
-- FSLY +31.38% @ $32.36
-- BE +30.43% @ $295.25
+- WOLF +68.08% @ $43.08
+- HUT +53.44% @ $108.94
+- FLEX +48.71% @ $134.73
+- BTDR +39.43% @ $15.1
+- SMCI +31.69% @ $34.66
 
 ## Top Verlierer
-- IPGP -19.15% @ $90.84
-- NVDA -7.82% @ $196.5
-- CL=F -6.86% @ $94.95
-- UPS -5.65% @ $98.07
-- UBER -1.57% @ $72.95
+- PRIM -39.04% @ $101.23
+- KVYO -20.51% @ $15.81
+- PTON -6.64% @ $5.2
+- SHAK -4.07% @ $96.52
+- ZTS -2.29% @ $111.22
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -98,6 +69,7 @@ This is EXACTLY the kind of market environment I live for - chaos creating oppor
 | 14 | 14.12.2024 | EUR 1265.28 | +26.53% |
 | 15 | 15.01.2025 | EUR 1451.96 | +190.39% |
 | 16 | 16.01.2025 | EUR 1496.00 | +199.20% |
+| 17 | 17.01.2025 | EUR 1601.13 | +220.23% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

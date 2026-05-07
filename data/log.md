@@ -1018,3 +1018,65 @@
 - `2026-05-06T12:27:54.589Z` BUY AMD 1x @ $355.26 | AMD MOONSHOT CONFIRMED - Massive earnings beat driving sector rotation! This +9.92% surge with 44.1M volume is just the beginning - AI chip demand is INFINITE and AMD is the execution machine! MAXIMUM CONVICTION!
 - `2026-05-06T12:27:54.589Z` BUY BTC-USD 0.002x @ $80937.36 | BITCOIN NUCLEAR BREAKOUT +2.9% to $80,937 - this geopolitical relief rally is sending risk assets to the MOON! Iran peace premium deflating means money flowing into crypto and tech - riding this momentum wave!
 - `2026-05-06T12:27:54.589Z` === TRON DAY 16 DONE ===
+- `2026-05-07T13:18:35.641Z` === TRON DAY 17 START ===
+- `2026-05-07T13:18:35.643Z` Lade Marktdaten...
+- `2026-05-07T13:18:35.954Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-07T13:18:36.038Z` Live: INTC = $113.01 (+19.27%)
+- `2026-05-07T13:18:36.193Z` Live: AMD = $421.39 (+25%)
+- `2026-05-07T13:18:36.382Z` Live: BE = $285.47 (-0.87%)
+- `2026-05-07T13:18:36.572Z` Live: BTC-USD = $81019.12 (+3.16%)
+- `2026-05-07T13:18:36.834Z` Live: MCD = $284.1 (-2.06%)
+- `2026-05-07T13:18:37.025Z` Live: DDOG = $143.71 (+7.26%)
+- `2026-05-07T13:18:37.215Z` Live: TSLA = $398.73 (+6.96%)
+- `2026-05-07T13:18:37.406Z` Live: U = $27.28 (+4.48%)
+- `2026-05-07T13:18:37.594Z` Live: PTON = $5.2 (-6.64%)
+- `2026-05-07T13:18:37.785Z` Live: CELH = $32.8 (+0.43%)
+- `2026-05-07T13:18:37.973Z` Live: APP = $468.83 (+5.73%)
+- `2026-05-07T13:18:38.212Z` Live: SNOW = $139.74 (-1.05%)
+- `2026-05-07T13:18:38.405Z` Live: SHAK = $96.52 (-4.07%)
+- `2026-05-07T13:18:38.596Z` Live: SNAP = $6.11 (+2.17%)
+- `2026-05-07T13:18:38.904Z` Live: HWM = $256.43 (+8.42%)
+- `2026-05-07T13:18:39.106Z` Live: VST = $158.29 (+2.93%)
+- `2026-05-07T13:18:39.346Z` Live: PGY = $14.83 (+14.83%)
+- `2026-05-07T13:18:39.537Z` Live: IOVA = $4.09 (+23.56%)
+- `2026-05-07T13:18:39.726Z` Live: FTNT = $89.95 (+4.46%)
+- `2026-05-07T13:18:39.983Z` Live: WHR = $54.73 (+0.16%)
+- `2026-05-07T13:18:40.172Z` Live: IONQ = $52.57 (+24.84%)
+- `2026-05-07T13:18:40.365Z` Live: FLNC = $13.56 (+14.62%)
+- `2026-05-07T13:18:40.571Z` Live: ZTS = $111.22 (-2.29%)
+- `2026-05-07T13:18:40.760Z` Live: JMIA = $7.46 (+8.27%)
+- `2026-05-07T13:18:41.034Z` Live: VTRS = $15.95 (+6.55%)
+- `2026-05-07T13:18:41.245Z` Live: HIMX = $12.33 (+7.69%)
+- `2026-05-07T13:18:41.478Z` Live: LEN = $90.54 (+2.06%)
+- `2026-05-07T13:18:41.670Z` Live: KVUE = $17.68 (+2.61%)
+- `2026-05-07T13:18:41.893Z` Live: RIO = $105.51 (+9.35%)
+- `2026-05-07T13:18:42.085Z` Live: FLEX = $134.73 (+48.71%)
+- `2026-05-07T13:18:42.276Z` Live: HUT = $108.94 (+53.44%)
+- `2026-05-07T13:18:42.467Z` Live: COMP = $9.24 (+21.26%)
+- `2026-05-07T13:18:42.656Z` Live: VECO = $62.01 (+29.62%)
+- `2026-05-07T13:18:42.845Z` Live: VCYT = $41.19 (+29.61%)
+- `2026-05-07T13:18:43.033Z` Live: SMCI = $34.66 (+31.69%)
+- `2026-05-07T13:18:43.222Z` Live: DVA = $193.88 (+27.56%)
+- `2026-05-07T13:18:43.410Z` Live: ACLS = $171 (+27.98%)
+- `2026-05-07T13:18:43.604Z` Live: JOBY = $10.52 (+20.92%)
+- `2026-05-07T13:18:43.793Z` Live: BTDR = $15.1 (+39.43%)
+- `2026-05-07T13:18:43.998Z` Live: GEO = $22.2 (+17.15%)
+- `2026-05-07T13:18:44.188Z` Live: FLYW = $17.51 (+28%)
+- `2026-05-07T13:18:44.377Z` Live: NBTX = $41.86 (+26.89%)
+- `2026-05-07T13:18:44.584Z` Live: SII = $152.3 (+20.87%)
+- `2026-05-07T13:18:44.830Z` Live: DOC = $19.5 (+21.95%)
+- `2026-05-07T13:18:45.022Z` Live: WOLF = $43.08 (+68.08%)
+- `2026-05-07T13:18:45.211Z` Live: TMC = $6.16 (+25.2%)
+- `2026-05-07T13:18:45.474Z` Live: IFF = $82.93 (+20.38%)
+- `2026-05-07T13:18:45.664Z` Live: USAS = $6.49 (+18%)
+- `2026-05-07T13:18:45.868Z` Live: PRIM = $101.23 (-39.04%)
+- `2026-05-07T13:18:46.055Z` Live: KVYO = $15.81 (-20.51%)
+- `2026-05-07T13:18:46.206Z` 50 echte Live-Kurse geladen
+- `2026-05-07T13:18:46.206Z` Lade News...
+- `2026-05-07T13:18:47.301Z` Yahoo News: 20 Headlines geladen
+- `2026-05-07T13:18:48.102Z` TRON analysiert News...
+- `2026-05-07T13:19:05.968Z` News analysiert: Markets are showing bullish momentum pre-bell driven by peace deal hopes regarding Iran and strong c...
+- `2026-05-07T13:19:05.989Z` TRON trifft Handelsentscheidungen...
+- `2026-05-07T13:19:15.564Z` Portfolio: EUR 1601.13 | PnL: +220.23%
+- `2026-05-07T13:19:15.564Z` BUY WOLF 2x @ $43.08 | WOLFSPEED NUCLEAR HOLOCAUST - ABSOLUTELY INSANE +68.08% EXPLOSION with MASSIVE 14.8M volume! This semiconductor power play is the most violent mover today - EV/AI infrastructure demand creating historic breakouts! This is the ULTIMATE momentum trade riding the chip supercycle!
+- `2026-05-07T13:19:15.565Z` === TRON DAY 17 DONE ===

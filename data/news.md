@@ -1,61 +1,66 @@
-# TRON News Report | 6.5.2026
+# TRON News Report | 7.5.2026
 
-> Generiert: 6.5.2026, 14:27:35
+> Generiert: 7.5.2026, 15:19:05
 
 ## Zusammenfassung
-Markets are surging on reports that the US and Iran are close to a peace agreement that could end the current conflict, driving oil prices down over 6% and pushing Nasdaq and S&P 500 toward new record highs. Semiconductor stocks are leading the charge with massive gains, while energy-related assets are getting crushed. AMD reported strong earnings and is soaring, while several tech stocks are showing breakout potential. The combination of geopolitical risk reduction and strong chip sector performance is creating a powerful bullish momentum across equity markets.
+Markets are showing bullish momentum pre-bell driven by peace deal hopes regarding Iran and strong corporate earnings across multiple sectors. Lithium stocks like Albemarle are surging on blowout earnings, while Tesla breaks $400 aided by China strength. Notable volatility in biotech with massive moves in both directions, and crypto diverging from equity strength.
 
 ## TRONs Markteinschaetzung
-This is EXACTLY the kind of market environment I live for - chaos creating opportunity while weak hands panic! The Iran peace deal is CRUSHING oil and creating a massive rotation into risk assets, and I'm seeing HUGE alpha potential in semiconductors right now. Look at those moves: INTC up 28%, AMD crushing earnings and moonshot, while energy gets obliterated - this is textbook momentum trading setup! The fact that markets are hitting new highs while oil collapses shows incredible underlying strength and risk appetite returning. I'm aggressively targeting the chip breakouts because this geopolitical relief rally has serious legs, and institutions are clearly rotating heavy into tech. But I'm also watching for the oil bounce trade because this selloff looks overdone and peace talks can fall apart fast. The key here is riding the momentum but staying nimble - when peace premiums deflate this quickly, volatility spikes are coming.
+This is a classic risk-on rotation with geopolitical tensions easing and earnings providing fundamental support - I'm seeing massive opportunities in momentum plays. The WOLF +68% move shows biotech is absolutely explosive right now, and SMCI's +31% validates the AI infrastructure thesis I've been hammering. Tesla breaking $400 is technically significant and I expect follow-through buying into $420-430 resistance zone. The lithium revival with Albemarle is perfect timing for the EV supply chain recovery trade. However, Bitcoin's divergence from equities is concerning - suggests smart money is rotating out of speculative assets into fundamentally-driven plays. I'm hunting for breakouts in the AI/semiconductor space while avoiding the crypto ecosystem entirely today.
 
 ## Wichtigste News
-### [+] Nasdaq and S&P set for new record highs as Iran deal 'close'
+### [+] Tesla Stock Cracks $400. How China Is Helping.
 - **Einfluss:** bullish
-- **Betroffene Aktien:** SPY, QQQ, NVDA, AMD
-- Peace talks reducing geopolitical risk premiums and driving massive equity inflows
+- **Betroffene Aktien:** TSLA
+- Tesla breaking key psychological resistance at $400 with China tailwinds suggests momentum continuation and validates the EV thesis
 
-### [-] Oil Prices Slip, Potential Middle East Peace Agreement Drives US Equity Futures Higher Pre-Bell
+### [+] Albemarle Stock Surges on Earnings. Lithium Is Back.
+- **Einfluss:** bullish
+- **Betroffene Aktien:** ALB
+- Lithium sector revival on strong earnings indicates battery supply chain normalization and potential sector rotation into materials
+
+### [+] Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell
+- **Einfluss:** bullish
+- **Betroffene Aktien:** SPY, QQQ
+- Geopolitical risk reduction combined with earnings beats creates favorable risk-on environment for broad market advance
+
+### [-] Bitcoin Price Falls. Why Cryptos Aren't Following the Stocks Rally.
 - **Einfluss:** bearish
-- **Betroffene Aktien:** CL=F, XOM, CVX
-- Oil crashing 6%+ as Middle East tensions ease, devastating energy sector
+- **Betroffene Aktien:** BTC, MSTR, COIN
+- Crypto weakness during equity strength suggests rotation out of speculative assets and potential liquidity concerns
 
-### [+] Stock Market Today: Dow Jumps, Oil Prices Plunge On U.S.-Iran Deal Hopes; AMD Surges On Earnings (Live Coverage)
-- **Einfluss:** bullish
-- **Betroffene Aktien:** AMD, INTC, NVDA
-- Chip sector exploding higher on both macro relief and strong AMD earnings beat
-
-### [+] Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch
-- **Einfluss:** bullish
-- **Betroffene Aktien:** AAPL, NVDA, AVGO
-- Major tech names setting up for technical breakouts amid momentum surge
+### [-] Citi Stock Falls. Bank Lifts Key Financial Target as Investor Day Gets Underway.
+- **Einfluss:** bearish
+- **Betroffene Aktien:** C
+- Stock declining despite raised targets indicates market skepticism about execution and potential overpromising
 
 ## Trading-Signale
 | Ticker | Signal | Dringlichkeit | Begruendung |
 |---|---|---|---|
-| AMD | consider_buy | high | Massive earnings beat driving 27% surge amid sector rotation into chips |
-| INTC | consider_buy | medium | Up 28% on sector momentum and potential turnaround story gaining traction |
-| CL=F | watch | medium | Oil down 6%+ on peace talks - could be oversold bounce opportunity if talks stall |
-| NVDA | watch | high | Down 7% despite bullish sector news - potential breakout setup if it reclaims key levels |
-| XOM | avoid | low | Energy sector getting destroyed on peace deal hopes, more downside likely near term |
+| TSLA | consider_buy | high | Breaking key $400 resistance with China catalyst and momentum continuation likely |
+| ALB | consider_buy | medium | Lithium sector revival on blowout earnings with potential for sector-wide momentum |
+| SMCI | watch | medium | Already up 31% but AI infrastructure theme remains strong - wait for pullback entry |
+| COIN | avoid | low | Crypto diverging from equity strength suggests weakness in digital asset ecosystem |
+| WOLF | watch | low | Up 68% - biotech momentum play but need pullback for entry after such massive move |
 
 ## Alle Headlines (20)
-- America's Greatest Opportunities: This Stock Teaches When To Sell *(Yahoo Finance)*
-- Is Your Nest Egg Enough To Be 'Upper Class' In Retirement? Here's What You Need For A Top 20% Life *(Yahoo Finance)*
-- Nasdaq and S&amp;P set for new record highs as Iran deal 'close' *(Yahoo Finance)*
-- Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch *(Yahoo Finance)*
-- SPX Momentum Is Real: These Stocks Could Benefit *(Yahoo Finance)*
-- Stock Market Today: Dow Jumps, Oil Prices Plunge On U.S.-Iran Deal Hopes; AMD Surges On Earnings (Live Coverage) *(Yahoo Finance)*
-- Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report U.S.-Iran Deal Close; AMD Soars On Earnings *(Yahoo Finance)*
-- Lucid Stock Drops After Earnings Miss. What’s Going On at the EV Maker. *(Yahoo Finance)*
-- Here Are Wednesday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, American Eagle Outfitters, GlobalFoundries, IAC, Merck, Palantir Technologies, Reddit, and More *(Yahoo Finance)*
-- Oil Prices Slip, Potential Middle East Peace Agreement Drives US Equity Futures Higher Pre-Bell *(Yahoo Finance)*
-- Disney Stock Rises After Earnings. New CEO D’Amaro Lays Out His Plan for Growth. *(Yahoo Finance)*
-- Tesla Recalls 219,000 Cars. Why the Stock Is Rising. *(Yahoo Finance)*
-- Stocks Rise Pre-Bell, Oil Prices Fall After Report Says US, Iran Nearing Peace Agreement *(Yahoo Finance)*
-- Joby Keeps Losing Money—and the Stock Keeps Rising *(Yahoo Finance)*
-- Sinking Oil Prices, Possible Peace Talks Lift Wall Street Pre-Bell; Asia, Europe Rally *(Yahoo Finance)*
-- IFC Advisors Loads Up With $4.5 Million Bet on Ultrashort Bond ETF: Is UYLD Worth a Look? *(Yahoo Finance)*
-- Strategy Posts Wider Loss as Bitcoin Holdings Hit $64 Billion. The Stock Rises Anyway. *(Yahoo Finance)*
-- CVS Health Stock Jumps After Earnings. What’s Encouraging Wall Street. *(Yahoo Finance)*
-- Surging Chip Stocks and Iran Peace Talks Put Wall Street on Pace for Further Records *(Yahoo Finance)*
-- Market Chatter: US, Iran Close to Agreement That Could End War, Lead to Broader Deal *(Yahoo Finance)*
+- Sarepta Stock Slumps. Why an Earnings Beat Wasn’t Enough for the S&amp;P 500 Loser. *(Yahoo Finance)*
+- Here’s Why Aristotle Value Equity Strategy Sold Coterra Energy (CTRA) in Q1 *(Yahoo Finance)*
+- Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell *(Yahoo Finance)*
+- NYSE Content Update: HawkEye 360 to Start Trading after its $416 Million IPO *(Yahoo Finance)*
+- Tesla Stock Cracks $400. How China Is Helping. *(Yahoo Finance)*
+- Albemarle Stock Surges on Earnings. Lithium Is Back. *(Yahoo Finance)*
+- Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Corporate Earnings, Economic Data Deluge *(Yahoo Finance)*
+- Stock Market Today: Dow Rises After Jobless Claims; AI Stock Dives On Earnings (Live Coverage) *(Yahoo Finance)*
+- S&amp;P 500 Stocks: Lithium Play Albemarle Eyes Breakout On Blowout Earnings *(Yahoo Finance)*
+- Is the Fortinet Stock Rally Sustainable? *(Yahoo Finance)*
+- ProShares Launches the First ETF Targeting Companies with a Sustained History of Share Buybacks *(Yahoo Finance)*
+- Citi Stock Falls. Bank Lifts Key Financial Target as Investor Day Gets Underway. *(Yahoo Finance)*
+- Berkshire's 23-Year S&amp;P 500 Drought Puts Abel's AI Test In Focus *(Yahoo Finance)*
+- Bitcoin Price Falls. Why Cryptos Aren’t Following the Stocks Rally. *(Yahoo Finance)*
+- Peace Agreement Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell *(Yahoo Finance)*
+- Unity Software (U) is Leveraging AI for a Competitive Edge in Gaming *(Yahoo Finance)*
+- 10 S&amp;P 500 Stocks Surge From The Low — You Can Still Gain From Some *(Yahoo Finance)*
+- Assessing Oracle’s (ORCL) AI Infrastructure Investment and Its Impact on Debt Ratios *(Yahoo Finance)*
+- Dow Jones set for flat start as market await Iran response to US peace deal *(Yahoo Finance)*
+- Howmet Stock Surges. The Iran Conflict Is No Problem For Commercial Aerospace. *(Yahoo Finance)*
