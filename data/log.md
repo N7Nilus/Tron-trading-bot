@@ -1080,3 +1080,68 @@
 - `2026-05-07T13:19:15.564Z` Portfolio: EUR 1601.13 | PnL: +220.23%
 - `2026-05-07T13:19:15.564Z` BUY WOLF 2x @ $43.08 | WOLFSPEED NUCLEAR HOLOCAUST - ABSOLUTELY INSANE +68.08% EXPLOSION with MASSIVE 14.8M volume! This semiconductor power play is the most violent mover today - EV/AI infrastructure demand creating historic breakouts! This is the ULTIMATE momentum trade riding the chip supercycle!
 - `2026-05-07T13:19:15.565Z` === TRON DAY 17 DONE ===
+- `2026-05-08T11:00:23.194Z` === TRON DAY 18 START ===
+- `2026-05-08T11:00:23.197Z` Lade Marktdaten...
+- `2026-05-08T11:00:23.546Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-08T11:00:23.637Z` Live: INTC = $109.62 (+16.02%)
+- `2026-05-08T11:00:23.831Z` Live: AMD = $408.46 (+15.22%)
+- `2026-05-08T11:00:24.016Z` Live: BE = $258.64 (-8.72%)
+- `2026-05-08T11:00:24.203Z` Live: BTC-USD = $80208.25 (+0.48%)
+- `2026-05-08T11:00:24.387Z` Live: WOLF = $45.16 (+52.93%)
+- `2026-05-08T11:00:24.569Z` Live: IREN = $56.85 (+24.92%)
+- `2026-05-08T11:00:24.754Z` Live: CRWV = $128.84 (+15.45%)
+- `2026-05-08T11:00:24.913Z` Live: NET = $256.79 (+25.28%)
+- `2026-05-08T11:00:25.095Z` Live: RKLB = $78.58 (-4.76%)
+- `2026-05-08T11:00:25.366Z` Live: QCOM = $202.55 (+12.79%)
+- `2026-05-08T11:00:25.550Z` Live: TTD = $23.49 (-0.42%)
+- `2026-05-08T11:00:25.758Z` Live: MRVL = $160.01 (-3.11%)
+- `2026-05-08T11:00:25.993Z` Live: RXT = $3.52 (+141.1%)
+- `2026-05-08T11:00:26.179Z` Live: AAOI = $157.55 (-4.14%)
+- `2026-05-08T11:00:26.376Z` Live: MELI = $1870.01 (+4.32%)
+- `2026-05-08T11:00:26.560Z` Live: INOD = $45.64 (+8.07%)
+- `2026-05-08T11:00:26.744Z` Live: XYZ = $70.14 (-0.52%)
+- `2026-05-08T11:00:26.960Z` Live: CRWD = $505.72 (+13.45%)
+- `2026-05-08T11:00:27.165Z` Live: FLR = $51.08 (-4.25%)
+- `2026-05-08T11:00:27.350Z` Live: DDOG = $188.73 (+42.77%)
+- `2026-05-08T11:00:27.534Z` Live: TEM = $49.47 (-10.83%)
+- `2026-05-08T11:00:27.718Z` Live: SOUN = $9.63 (+20.98%)
+- `2026-05-08T11:00:27.900Z` Live: HUBS = $243.72 (+9.9%)
+- `2026-05-08T11:00:28.082Z` Live: ETH-USD = $2288.24 (-2.48%)
+- `2026-05-08T11:00:28.286Z` Live: IRM = $126.81 (+0.65%)
+- `2026-05-08T11:00:28.498Z` Live: PLNT = $44.01 (-33.99%)
+- `2026-05-08T11:00:28.679Z` Live: AKAM = $116.69 (+13.31%)
+- `2026-05-08T11:00:28.887Z` Live: ZTS = $87.31 (-24.06%)
+- `2026-05-08T11:00:29.076Z` Live: FLNC = $18.97 (+55.75%)
+- `2026-05-08T11:00:29.261Z` Live: XMTR = $78.5 (+53.11%)
+- `2026-05-08T11:00:29.471Z` Live: AAON = $129.25 (+38.52%)
+- `2026-05-08T11:00:29.658Z` Live: HAWK = $34 (+30.77%)
+- `2026-05-08T11:00:29.863Z` Live: HIMX = $16.03 (+36.43%)
+- `2026-05-08T11:00:30.053Z` Live: SITM = $797.31 (+41.83%)
+- `2026-05-08T11:00:30.297Z` Live: HRB = $36.29 (+14.37%)
+- `2026-05-08T11:00:30.493Z` Live: WRBY = $27.2 (+22.97%)
+- `2026-05-08T11:00:30.676Z` Live: FA = $15.76 (+23.51%)
+- `2026-05-08T11:00:30.860Z` Live: NP = $30.47 (+21.25%)
+- `2026-05-08T11:00:31.044Z` Live: LFST = $8.85 (+16.91%)
+- `2026-05-08T11:00:31.226Z` Live: FTNT = $107.97 (+28.06%)
+- `2026-05-08T11:00:31.415Z` Live: PTRN = $16.95 (+25.84%)
+- `2026-05-08T11:00:31.639Z` Live: COLD = $14.97 (+22.4%)
+- `2026-05-08T11:00:31.825Z` Live: RXO = $23.11 (+15.72%)
+- `2026-05-08T11:00:32.008Z` Live: XNDU = $17.38 (-40.27%)
+- `2026-05-08T11:00:32.191Z` Live: SEZL = $99.82 (+25.4%)
+- `2026-05-08T11:00:32.376Z` Live: VERX = $14.67 (+18.59%)
+- `2026-05-08T11:00:32.608Z` Live: FUN = $22.76 (+21.19%)
+- `2026-05-08T11:00:32.825Z` Live: FSLY = $19.5 (-22.79%)
+- `2026-05-08T11:00:33.015Z` Live: SHAK = $69.24 (-32.42%)
+- `2026-05-08T11:00:33.219Z` Live: IBP = $216.92 (-24.82%)
+- `2026-05-08T11:00:33.369Z` 50 echte Live-Kurse geladen
+- `2026-05-08T11:00:33.370Z` Lade News...
+- `2026-05-08T11:00:34.495Z` Yahoo News: 20 Headlines geladen
+- `2026-05-08T11:00:35.498Z` TRON analysiert News...
+- `2026-05-08T11:00:55.957Z` News analysiert: Markets are wrestling with geopolitical tensions as U.S.-Iran ceasefire holds but remains fragile, w...
+- `2026-05-08T11:00:56.007Z` TRON trifft Handelsentscheidungen...
+- `2026-05-08T11:01:11.499Z` Portfolio: EUR 1570.02 | PnL: +214.00%
+- `2026-05-08T11:01:11.499Z` SELL INTC 1x @ $109.62 | INTEL SURGE CONTINUES +16.02% but taking partial profits from massive position - this 119.4M volume move validates turnaround thesis but need cash for BIGGER opportunities in this chaos!
+- `2026-05-08T11:01:11.499Z` SELL BE 1x @ $258.64 | BLOOM ENERGY FINALLY CRASHING -8.72% as predicted - this overvalued green energy play was due for correction! Taking profits from $216.41 entry for +19.5% gain before further bleeding!
+- `2026-05-08T11:01:11.499Z` BUY BTC-USD 0.002x @ $80208.25 | BITCOIN CONSOLIDATION at $80,208 - small pullback +0.48% creating perfect accumulation opportunity! This crypto supercycle is just beginning and any dip is FREE MONEY with institutional adoption exploding!
+- `2026-05-08T11:01:11.499Z` BUY NET 0.5x @ $256.79 | CLOUDFLARE NUCLEAR EXPLOSION +25.28% to $256.79 - this cloud security monster is UNSTOPPABLE! Beat earnings and still surging - AI infrastructure demand driving this BEAST to new highs! MAXIMUM ALPHA OPPORTUNITY!
+- `2026-05-08T11:01:11.499Z` === TRON DAY 18 DONE ===

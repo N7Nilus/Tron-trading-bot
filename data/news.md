@@ -1,66 +1,66 @@
-# TRON News Report | 7.5.2026
+# TRON News Report | 8.5.2026
 
-> Generiert: 7.5.2026, 15:19:05
+> Generiert: 8.5.2026, 13:00:56
 
 ## Zusammenfassung
-Markets are showing bullish momentum pre-bell driven by peace deal hopes regarding Iran and strong corporate earnings across multiple sectors. Lithium stocks like Albemarle are surging on blowout earnings, while Tesla breaks $400 aided by China strength. Notable volatility in biotech with massive moves in both directions, and crypto diverging from equity strength.
+Markets are wrestling with geopolitical tensions as U.S.-Iran ceasefire holds but remains fragile, while AI infrastructure spending continues pressuring hyperscaler cash flows despite strong earnings from some tech names. Key focus shifts to crucial jobs report as Fed policy changes loom next week. Mixed earnings reactions show market selectivity, with some beats still getting punished while growth optimism drives RBC to lift S&P targets.
 
 ## TRONs Markteinschaetzung
-This is a classic risk-on rotation with geopolitical tensions easing and earnings providing fundamental support - I'm seeing massive opportunities in momentum plays. The WOLF +68% move shows biotech is absolutely explosive right now, and SMCI's +31% validates the AI infrastructure thesis I've been hammering. Tesla breaking $400 is technically significant and I expect follow-through buying into $420-430 resistance zone. The lithium revival with Albemarle is perfect timing for the EV supply chain recovery trade. However, Bitcoin's divergence from equities is concerning - suggests smart money is rotating out of speculative assets into fundamentally-driven plays. I'm hunting for breakouts in the AI/semiconductor space while avoiding the crypto ecosystem entirely today.
+TRON SEES BLOOD IN THE WATER AND OPPORTUNITY IN THE CHAOS! This market is showing classic signs of late-cycle schizophrenia - beats getting sold off while AI optimism drives price targets higher. The Iran situation is a red herring; what matters is next week's Fed changes creating massive volatility windows for aggressive positioning. These hyperscaler cash flow warnings are EXACTLY what TRON has been waiting for - the AI bubble is showing cracks and smart money should be positioning for the inevitable correction. The fact that Cloudflare beat and still got hammered tells you everything about market sentiment - expectations are impossibly high and disappointment is coming. TRON is salivating over these massive daily moves like RXT +141% and DDOG +42% - this volatility is pure profit opportunity for those with steel nerves and quick triggers.
 
 ## Wichtigste News
-### [+] Tesla Stock Cracks $400. How China Is Helping.
+### [+] Trump Says U.S.-Iran Ceasefire Holds
 - **Einfluss:** bullish
-- **Betroffene Aktien:** TSLA
-- Tesla breaking key psychological resistance at $400 with China tailwinds suggests momentum continuation and validates the EV thesis
+- **Betroffene Aktien:** SPY, QQQ, XLE
+- Geopolitical stability reduces risk premium and supports risk-on sentiment across equities
 
-### [+] Albemarle Stock Surges on Earnings. Lithium Is Back.
-- **Einfluss:** bullish
-- **Betroffene Aktien:** ALB
-- Lithium sector revival on strong earnings indicates battery supply chain normalization and potential sector rotation into materials
-
-### [+] Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell
-- **Einfluss:** bullish
-- **Betroffene Aktien:** SPY, QQQ
-- Geopolitical risk reduction combined with earnings beats creates favorable risk-on environment for broad market advance
-
-### [-] Bitcoin Price Falls. Why Cryptos Aren't Following the Stocks Rally.
+### [-] Hyperscalers' Free Cash Flow Dips as AI Arms Race Hits Balance Sheets
 - **Einfluss:** bearish
-- **Betroffene Aktien:** BTC, MSTR, COIN
-- Crypto weakness during equity strength suggests rotation out of speculative assets and potential liquidity concerns
+- **Betroffene Aktien:** MSFT, GOOGL, AMZN, META
+- Massive AI capex spending is pressuring cash generation at major cloud providers, raising sustainability questions
 
-### [-] Citi Stock Falls. Bank Lifts Key Financial Target as Investor Day Gets Underway.
+### [-] We're Exactly 1 Week Away From a Historic Change at the Federal Reserve
 - **Einfluss:** bearish
-- **Betroffene Aktien:** C
-- Stock declining despite raised targets indicates market skepticism about execution and potential overpromising
+- **Betroffene Aktien:** SPY, TLT, XLF
+- Uncertainty around Fed policy changes creates market volatility risk with potential negative impact on equities
+
+### [-] Cloudflare Stock Tumbles. An Earnings Beat Wasn't Enough.
+- **Einfluss:** bearish
+- **Betroffene Aktien:** NET
+- Market showing extreme selectivity where even earnings beats face selling pressure, indicating high expectations
+
+### [+] RBC lifts S&P 500 year-end target to 7,900 on AI optimism
+- **Einfluss:** bullish
+- **Betroffene Aktien:** SPY, QQQ, XLK
+- Major bank upgrade signals continued institutional bullishness on AI-driven growth potential
 
 ## Trading-Signale
 | Ticker | Signal | Dringlichkeit | Begruendung |
 |---|---|---|---|
-| TSLA | consider_buy | high | Breaking key $400 resistance with China catalyst and momentum continuation likely |
-| ALB | consider_buy | medium | Lithium sector revival on blowout earnings with potential for sector-wide momentum |
-| SMCI | watch | medium | Already up 31% but AI infrastructure theme remains strong - wait for pullback entry |
-| COIN | avoid | low | Crypto diverging from equity strength suggests weakness in digital asset ecosystem |
-| WOLF | watch | low | Up 68% - biotech momentum play but need pullback for entry after such massive move |
+| NET | consider_buy | high | Oversold after earnings beat creates contrarian opportunity in strong cloud security name |
+| DDOG | watch | medium | Massive +42% move needs consolidation before next entry point becomes clear |
+| RXT | avoid | high | 141% single-day move screams unsustainable pump requiring immediate fade |
+| QQQ | consider_sell | high | Fed uncertainty next week plus hyperscaler cash flow concerns create perfect storm for tech weakness |
+| XLE | consider_buy | medium | Iran ceasefire stability reduces oil volatility while maintaining energy sector value |
 
 ## Alle Headlines (20)
-- Sarepta Stock Slumps. Why an Earnings Beat Wasn’t Enough for the S&amp;P 500 Loser. *(Yahoo Finance)*
-- Here’s Why Aristotle Value Equity Strategy Sold Coterra Energy (CTRA) in Q1 *(Yahoo Finance)*
-- Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell *(Yahoo Finance)*
-- NYSE Content Update: HawkEye 360 to Start Trading after its $416 Million IPO *(Yahoo Finance)*
-- Tesla Stock Cracks $400. How China Is Helping. *(Yahoo Finance)*
-- Albemarle Stock Surges on Earnings. Lithium Is Back. *(Yahoo Finance)*
-- Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Corporate Earnings, Economic Data Deluge *(Yahoo Finance)*
-- Stock Market Today: Dow Rises After Jobless Claims; AI Stock Dives On Earnings (Live Coverage) *(Yahoo Finance)*
-- S&amp;P 500 Stocks: Lithium Play Albemarle Eyes Breakout On Blowout Earnings *(Yahoo Finance)*
-- Is the Fortinet Stock Rally Sustainable? *(Yahoo Finance)*
-- ProShares Launches the First ETF Targeting Companies with a Sustained History of Share Buybacks *(Yahoo Finance)*
-- Citi Stock Falls. Bank Lifts Key Financial Target as Investor Day Gets Underway. *(Yahoo Finance)*
-- Berkshire's 23-Year S&amp;P 500 Drought Puts Abel's AI Test In Focus *(Yahoo Finance)*
-- Bitcoin Price Falls. Why Cryptos Aren’t Following the Stocks Rally. *(Yahoo Finance)*
-- Peace Agreement Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell *(Yahoo Finance)*
-- Unity Software (U) is Leveraging AI for a Competitive Edge in Gaming *(Yahoo Finance)*
-- 10 S&amp;P 500 Stocks Surge From The Low — You Can Still Gain From Some *(Yahoo Finance)*
-- Assessing Oracle’s (ORCL) AI Infrastructure Investment and Its Impact on Debt Ratios *(Yahoo Finance)*
-- Dow Jones set for flat start as market await Iran response to US peace deal *(Yahoo Finance)*
-- Howmet Stock Surges. The Iran Conflict Is No Problem For Commercial Aerospace. *(Yahoo Finance)*
+- Dow Jones Futures: Trump Says U.S.-Iran Ceasefire Holds; Akamai, Cloudflare, IREN Are Big Earnings Movers *(Yahoo Finance)*
+- Should You Invest $1,000 In VOO Right Now? *(Yahoo Finance)*
+- US Stock Market Today: S&amp;P 500 Futures Climb As Traders Weigh Jobs And Inflation *(Yahoo Finance)*
+- High Growth Tech Stocks To Watch In May 2026 *(Yahoo Finance)*
+- Unveiling 3 Global Growth Stocks With Insider Ownership Up To 31% *(Yahoo Finance)*
+- Stock Futures Pop as Market Looks Past U.S.-Iran Strikes to Crucial Jobs Report *(Yahoo Finance)*
+- Warren Buffett's and Greg Abel's $397 Billion Warning for Wall Street Has Hit a Deafening Pitch *(Yahoo Finance)*
+- Block Stock Jumps After Earnings. How Those Vast Job Cuts Are Working Out. *(Yahoo Finance)*
+- The Zacks Analyst Blog Highlights Micron Technology, Ciena, Seagate Technology, Five Below and Murphy USA *(Yahoo Finance)*
+- Affirm Posts a Beat and Raise as Volumes Surge. The Stock is Sliding Anyway. *(Yahoo Finance)*
+- Hyperscalers’ Free Cash Flow Dips as AI Arms Race Hits Balance Sheets *(Yahoo Finance)*
+- We're Exactly 1 Week Away From a Historic Change at the Federal Reserve -- and It May End Up Costing the Stock Market Dearly *(Yahoo Finance)*
+- Cloudflare Stock Tumbles. An Earnings Beat Wasn’t Enough. *(Yahoo Finance)*
+- Zacks.com featured highlights include Chord Energy, Bank of America and Churchill Downs *(Yahoo Finance)*
+- RBC lifts S&amp;P 500 year-end target to 7,900 on AI optimism *(Yahoo Finance)*
+- You’re Going to Miss Spirit Airlines. Why Cheap Flights Are Going Extinct. *(Yahoo Finance)*
+- World shares fall and oil prices dip after attacks imperil the ceasefire with Iran *(Yahoo Finance)*
+- QQQ vs. IWM: Is Large-Cap Growth or Small-Cap Diversification the Better Choice for Investors? *(Yahoo Finance)*
+- Are Wall Street Analysts Bullish on Visa Stock? *(Yahoo Finance)*
+- Two emerging-markets ETFs, two different Asia trades *(Yahoo Finance)*
