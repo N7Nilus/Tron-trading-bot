@@ -1,72 +1,66 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 8.5.2026, 13:01:11
+> Echte Live-Daten: Yahoo Finance | 11.5.2026, 18:47:20
 
-## Status: Tag 18/30
+## Status: Tag 19/30
 | | |
 |---|---|
-| Portfolio | EUR 1570.02 |
-| P&L | +214.00% |
-| Cash | EUR 103.32 |
+| Portfolio | EUR 2688.00 |
+| P&L | +437.60% |
+| Cash | EUR 6.82 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXX---------------] EUR 5000  (23.8%)
+EUR 500 [XXXXXXXXXX----------] EUR 5000  (48.6%)
 ```
 
 ## News-Zusammenfassung
-Markets are wrestling with geopolitical tensions as U.S.-Iran ceasefire holds but remains fragile, while AI infrastructure spending continues pressuring hyperscaler cash flows despite strong earnings from some tech names. Key focus shifts to crucial jobs report as Fed policy changes loom next week. Mixed earnings reactions show market selectivity, with some beats still getting punished while growth optimism drives RBC to lift S&P targets.
+Markets are experiencing mixed signals with AI-related stocks like Lumentum surging while Dell faces downgrades over AI valuations. The S&P 500 is approaching all-time highs driven by energy sector strength, but tech pullback concerns are mounting. Iran tensions are supporting oil prices while investors await key inflation data this week. Smaller stocks are outperforming in a six-week winning streak.
 
 ## TRONs Gedanken
-TRON SEES BLOOD IN THE WATER AND OPPORTUNITY IN THE CHAOS! This market is showing classic signs of late-cycle schizophrenia - beats getting sold off while AI optimism drives price targets higher. The Iran situation is a red herring; what matters is next week's Fed changes creating massive volatility windows for aggressive positioning. These hyperscaler cash flow warnings are EXACTLY what TRON has been waiting for - the AI bubble is showing cracks and smart money should be positioning for the inevitable correction. The fact that Cloudflare beat and still got hammered tells you everything about market sentiment - expectations are impossibly high and disappointment is coming. TRON is salivating over these massive daily moves like RXT +141% and DDOG +42% - this volatility is pure profit opportunity for those with steel nerves and quick triggers.
+AGGRESSIVE OPPORTUNITY DETECTED! The AI trade is fracturing - smart money is rotating from overvalued AI plays like Dell into infrastructure picks like Lumentum. I'm seeing classic late-cycle behavior where the market desperately searches for new leadership as tech shows fatigue. Energy sector strength is real but Iran tensions create volatility risk. The S&P hitting new highs while individual tech names get hammered screams distribution phase. This week's inflation data is make-or-break for the rally continuation. I'm positioning for tech rotation trades and hunting oversold quality names that got swept up in sector selling.
 
 ## Heutige Trades
-### SELL INTC
-- Menge: 1x @ $109.62 = EUR 109.62
-- Begruendung: INTEL SURGE CONTINUES +16.02% but taking partial profits from massive position - this 119.4M volume move validates turnaround thesis but need cash for BIGGER opportunities in this chaos!
-- News: INTC massive +16.02% surge suggests major catalyst or turnaround story developing
-- Kursziel: $130 | Stop-Loss: $95
-
-### SELL BE
-- Menge: 1x @ $258.64 = EUR 258.64
-- Begruendung: BLOOM ENERGY FINALLY CRASHING -8.72% as predicted - this overvalued green energy play was due for correction! Taking profits from $216.41 entry for +19.5% gain before further bleeding!
-- News: BE down 8.72% as green energy sector faces reality check
-- Kursziel: $300 | Stop-Loss: $220
-
-### BUY BTC-USD
-- Menge: 0.002x @ $80208.25 = EUR 160.42
-- Begruendung: BITCOIN CONSOLIDATION at $80,208 - small pullback +0.48% creating perfect accumulation opportunity! This crypto supercycle is just beginning and any dip is FREE MONEY with institutional adoption exploding!
-- News: Bitcoin USD steady at $80,208 showing consolidation strength
-- Kursziel: $90000 | Stop-Loss: $75000
-
-### BUY NET
-- Menge: 0.5x @ $256.79 = EUR 128.4
-- Begruendung: CLOUDFLARE NUCLEAR EXPLOSION +25.28% to $256.79 - this cloud security monster is UNSTOPPABLE! Beat earnings and still surging - AI infrastructure demand driving this BEAST to new highs! MAXIMUM ALPHA OPPORTUNITY!
-- News: NET -> consider_buy (high): Oversold after earnings beat creates contrarian opportunity in strong cloud security name
+### SELL NET
+- Menge: 0.5x @ $194.47 = EUR 97.24
+- Begruendung: CLOUDFLARE NUCLEAR MELTDOWN -13.25% CRASH from my $256.79 entry! This cloud darling getting OBLITERATED as tech rotation accelerates - cutting massive losses before further carnage! Market turning violent against overvalued cloud plays!
+- News: NET down 13.25% as tech rotation away from cloud stocks accelerates
 - Kursziel: $320 | Stop-Loss: $220
+
+### BUY AMD
+- Menge: 1x @ $463.66 = EUR 463.66
+- Begruendung: AMD ABSOLUTELY NUCLEAR +35.76% EXPLOSION to $463.66! This is the ULTIMATE AI chip dominance story - massive earnings beat driving historic surge with 28.7M volume! Adding to winner as semiconductor supercycle reaches MAXIMUM VELOCITY!
+- News: AMD massive +35.76% explosion with 28.7M volume on AI chip dominance
+- Kursziel: $600 | Stop-Loss: $380
+
+### BUY LITE
+- Menge: 0.7x @ $1051.93 = EUR 736.35
+- Begruendung: LUMENTUM NUCLEAR BREAKOUT +7.76% to $1051.93 - this is the PERFECT AI infrastructure play! Optical networking demand EXPLODING with 7M volume surge - this beaten-down giant finally breaking out on infrastructure spending tailwinds! MAXIMUM CONVICTION!
+- News: LITE -> consider_buy (high): AI optical networking rally resuming with infrastructure spending tailwinds
+- Kursziel: $1300 | Stop-Loss: $900
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $45.16 | EUR 90.32 | +4.83% |
-| AMD | 1 | $355.26 | $408.46 | EUR 408.46 | +14.97% |
-| INTC | 4 | $87.79 | $109.62 | EUR 438.48 | +24.87% |
-| BTC-USD | 0.005 | $80297.47 | $80208.25 | EUR 401.04 | -0.11% |
-| NET | 0.5 | $256.79 | $256.79 | EUR 128.40 | +0.00% |
+| WOLF | 2 | $43.08 | $51.61 | EUR 103.22 | +19.80% |
+| AMD | 2 | $396.86 | $463.66 | EUR 927.32 | +16.83% |
+| INTC | 4 | $87.79 | $126.54 | EUR 506.16 | +44.14% |
+| BTC-USD | 0.005 | $80297.47 | $81621.27 | EUR 408.11 | +1.65% |
+| LITE | 0.7 | $1051.93 | $1051.93 | EUR 736.35 | +0.00% |
 
 ## Top Gewinner
-- RXT +141.1% @ $3.52
-- FLNC +55.75% @ $18.97
-- XMTR +53.11% @ $78.5
-- WOLF +52.93% @ $45.16
-- DDOG +42.77% @ $188.73
+- INOD +128.3% @ $104.38
+- MRAM +117.92% @ $40.86
+- POET +96.2% @ $13.95
+- HIMX +85.64% @ $21.46
+- NBTX +63.67% @ $51
 
 ## Top Verlierer
-- XNDU -40.27% @ $17.38
-- PLNT -33.99% @ $44.01
-- SHAK -32.42% @ $69.24
-- IBP -24.82% @ $216.92
-- ZTS -24.06% @ $87.31
+- UI -24.31% @ $759.99
+- LBTYB -14.63% @ $14
+- CELH -13.38% @ $29.08
+- NET -13.25% @ $194.47
+- ELF -9.7% @ $55.85
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -89,6 +83,7 @@ TRON SEES BLOOD IN THE WATER AND OPPORTUNITY IN THE CHAOS! This market is showin
 | 16 | 16.01.2025 | EUR 1496.00 | +199.20% |
 | 17 | 17.01.2025 | EUR 1601.13 | +220.23% |
 | 18 | 20.12.2024 | EUR 1570.02 | +214.00% |
+| 19 | 19.12.2024 | EUR 2688.00 | +437.60% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
