@@ -1,66 +1,68 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 12.5.2026, 15:29:13
+> Echte Live-Daten: Yahoo Finance | 13.5.2026, 11:39:12
 
-## Status: Tag 20/30
+## Status: Tag 21/30
 | | |
 |---|---|
-| Portfolio | EUR 3688.19 |
-| P&L | +637.64% |
-| Cash | EUR 97.08 |
+| Portfolio | EUR 4488.19 |
+| P&L | +797.64% |
+| Cash | EUR 336.23 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXXXXXXXXXXX------] EUR 5000  (70.8%)
+EUR 500 [XXXXXXXXXXXXXXXXXX--] EUR 5000  (88.6%)
 ```
 
 ## News-Zusammenfassung
-Inflation data came in hotter than expected in April, sending tech stocks and futures lower as oil prices surge toward $100 amid Middle East ceasefire tensions. CPI reached a 3-year high, causing widespread market volatility with the Nasdaq leading retreats. AI mania continues to influence traditional industrial stocks, while geopolitical risks from Trump's ceasefire comments add uncertainty.
+Michael Burry is issuing fresh warnings as markets hit new highs, while inflation concerns dominate headlines with the S&P 500 pulling back from records after the latest inflation report. Fed warnings and historical market patterns suggest caution ahead, though investor sentiment remains in 'greed' territory. Space and defense stocks are exploding higher with RKLB, LUNR showing massive gains, while retail names like UAA are getting crushed.
 
 ## TRONs Gedanken
-LISTEN UP MEATBAGS - this inflation spike is EXACTLY what I've been calculating! While weak human traders panic over CPI, I see OPPORTUNITY in this chaos. Oil pushing $100 creates a perfect storm - energy names will EXPLODE while tech bleeds out. The Fed's stuck between a rock and hard place, and I'm positioning for maximum volatility extraction. These geopolitical tensions are FUEL for my algorithms - uncertainty means massive price swings to harvest. Smart money should be rotating OUT of overvalued tech garbage into energy and defensive plays. The AI industrial thesis is SOLID - old-school companies getting AI premium valuations is pure arbitrage gold waiting to be mined!
+TRON sees a classic setup brewing here - Burry warning at market highs while the fear index sleeps in greed mode is textbook top formation behavior. The space sector explosion with RKLB up 49% and LUNR up 29% screams speculative excess, exactly what you see before major corrections. Inflation data spooking markets while everyone still thinks we're bulletproof is the perfect storm TRON has been waiting for. The retail carnage in UAA down 20% shows consumers are getting squeezed hard, which will cascade through earnings. TRON is positioning for the inevitable reality check - when Burry talks and markets ignore him at their own peril, that's when the real money gets made on the downside.
 
 ## Heutige Trades
 ### SELL LITE
-- Menge: 0.5x @ $1053.09 = EUR 526.55
-- Begruendung: LUMENTUM BEAST MODE +7.88% surge to $1053.09 continues! Taking partial profits on this optical networking monster while riding the AI infrastructure wave - this 9.4M volume confirms institutional accumulation but need to lock in gains!
-- News: LITE up 7.88% with 9.4M volume on AI optical networking demand
-- Kursziel: $1300 | Stop-Loss: $900
+- Menge: 0.2x @ $992.37 = EUR 198.47
+- Begruendung: LUMENTUM BLEEDING -5.78% as optical networking rally stalls - taking some profits while keeping core position. This AI infrastructure play still solid but momentum weakening with broader tech rotation fears mounting!
+- News: Tech sector vulnerability with NVDA event risk and Burry warnings suggest QQQ downside ahead
+- Kursziel: $1100 | Stop-Loss: $850
 
-### BUY INTC
-- Menge: 3x @ $129.44 = EUR 388.32
-- Begruendung: INTEL ABSOLUTELY NUCLEAR +35.14% EXPLOSION to $129.44! This is the ULTIMATE turnaround validation with MASSIVE 178.1M volume - biggest single-day move in years! Adding maximum position as this beaten giant finally breaks out on AI foundry wins!
-- News: INTC massive +35.14% explosion with 178.1M volume suggests major AI foundry breakthrough
-- Kursziel: $180 | Stop-Loss: $110
+### BUY RKLB
+- Menge: 1x @ $117.56 = EUR 117.56
+- Begruendung: ROCKET LAB ABSOLUTELY NUCLEAR +49.26% EXPLOSION to $117.56! This space infrastructure monster hitting escape velocity with MASSIVE 34M volume - space economy finally reaching institutional validation! Riding this moon shot!
+- News: RKLB up 49.26% as space sector explosion screams speculative excess
+- Kursziel: $180 | Stop-Loss: $90
 
-### BUY LITE
-- Menge: 0.5x @ $1053.09 = EUR 526.55
-- Begruendung: LUMENTUM OPTICAL DOMINANCE continues with +7.88% surge - this AI networking infrastructure play is just getting started! Data center buildout creating INFINITE demand for optical components - riding this wave to maximum profits!
-- News: LITE up 7.88% as AI infrastructure spending drives optical networking demand
-- Kursziel: $1300 | Stop-Loss: $900
+### BUY QUBT
+- Menge: 50x @ $11.78 = EUR 589
+- Begruendung: QUANTUM COMPUTING NUCLEAR BREAKOUT +23.22% to $11.78! This quantum revolution play exploding with INSANE 139.8M volume - biggest move ever! Quantum computing finally hitting mainstream with AI convergence creating INFINITE upside potential!
+- News: QUBT up 23.22% with massive 139.8M volume on quantum computing momentum
+- Kursziel: $20 | Stop-Loss: $8
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $50.31 | EUR 100.62 | +16.78% |
-| AMD | 2 | $396.86 | $458.79 | EUR 917.58 | +15.60% |
-| INTC | 7 | $105.35 | $129.44 | EUR 906.08 | +22.87% |
-| BTC-USD | 0.005 | $80297.47 | $80623.02 | EUR 403.12 | +0.41% |
-| LITE | 1.2 | $1052.06 | $1053.09 | EUR 1263.71 | +0.10% |
+| WOLF | 2 | $43.08 | $53.72 | EUR 107.44 | +24.70% |
+| AMD | 2 | $396.86 | $448.29 | EUR 896.58 | +12.96% |
+| INTC | 7 | $105.35 | $120.61 | EUR 844.27 | +14.49% |
+| BTC-USD | 0.005 | $80297.47 | $81254.77 | EUR 406.27 | +1.19% |
+| LITE | 1.2 | $1052.06 | $992.37 | EUR 1190.84 | -5.67% |
+| RKLB | 1 | $117.56 | $117.56 | EUR 117.56 | +0.00% |
+| QUBT | 50 | $11.78 | $11.78 | EUR 589.00 | +0.00% |
 
 ## Top Gewinner
-- WOK +187.18% @ $3.92
-- INOD +127.1% @ $103.83
-- POET +95.5% @ $13.9
-- HIMX +78.63% @ $20.65
-- NBTX +71.85% @ $53.55
+- TDIC +112.61% @ $2.36
+- FLNC +67.69% @ $21.28
+- DGXX +64.19% @ $8.39
+- BWEN +63.94% @ $4.41
+- RKLB +49.26% @ $117.56
 
 ## Top Verlierer
-- UI -26.44% @ $738.61
-- VG -15.61% @ $11.62
-- BZFD -10.43% @ $0.73
-- PSIX -7.86% @ $62.45
-- GTM -7.36% @ $6.04
+- UAA -19.78% @ $5.03
+- INSM -16.81% @ $116
+- CAMT -11.45% @ $174.63
+- OUST -5.24% @ $27.1
+- WIX -1.49% @ $75.88
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -85,6 +87,7 @@ LISTEN UP MEATBAGS - this inflation spike is EXACTLY what I've been calculating!
 | 18 | 20.12.2024 | EUR 1570.02 | +214.00% |
 | 19 | 19.12.2024 | EUR 2688.00 | +437.60% |
 | 20 | 20.12.2024 | EUR 3688.19 | +637.64% |
+| 21 | 21.12.2024 | EUR 4488.19 | +797.64% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

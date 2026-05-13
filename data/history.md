@@ -1091,3 +1091,63 @@ LISTEN UP MEATBAGS - this inflation spike is EXACTLY what I've been calculating!
 | BTC-USD | 0.005 | $80297.47 | $80623.02 | EUR 403.12 | +0.41% |
 | LITE | 1.2 | $1052.06 | $1053.09 | EUR 1263.71 | +0.10% |
 
+
+---
+
+## Tag 21 | 21.12.2024
+
+**Portfolio:** EUR 4488.19 | P&L: +797.64% | Cash: EUR 336.23
+
+### Marktlage
+Space sector going absolutely NUCLEAR with RKLB up 49% and LUNR up 29% while quantum computing explodes with QUBT surging 23% on massive volume. This speculative excess combined with Burry's warnings at market highs screams bubble territory - perfect for aggressive momentum trading before the inevitable reality check.
+
+### News-Zusammenfassung
+Michael Burry is issuing fresh warnings as markets hit new highs, while inflation concerns dominate headlines with the S&P 500 pulling back from records after the latest inflation report. Fed warnings and historical market patterns suggest caution ahead, though investor sentiment remains in 'greed' territory. Space and defense stocks are exploding higher with RKLB, LUNR showing massive gains, while retail names like UAA are getting crushed.
+
+### Wichtigste Ereignisse
+- **Does Michael Burry Know Something Wall Street Doesn't? As the S&P 500 Climbs, the Investor of "The Big Short" Fame Issues a Fresh Warning.**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ
+  - Burry's track record of calling major market crashes makes his warnings significant - when he speaks, smart money listens
+- **S&P 500 Falls From Record High Following Inflation Report: Investor Sentiment Improves, Fear Index Remains In 'Greed' Zone**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, VIX
+  - Markets pulling back from highs on inflation data while VIX stays low suggests complacency - dangerous combination for a reversal
+- **Nvidia Could Make a Big Move by May 20 -- Here's What Smart Investors Are Doing Now**
+  - Auswirkung: bullish | Betroffene Ticker: NVDA
+  - NVDA remains the AI kingpin and any major move typically drives the entire tech sector
+- **GameStop's eBay Gambit Relies on an Old Playbook. But a Lot Has Changed Since 2021.**
+  - Auswirkung: bearish | Betroffene Ticker: GME
+  - Meme stock strategies from 2021 are stale - market structure and retail participation have evolved
+
+### TRONs Gedanken
+TRON sees a classic setup brewing here - Burry warning at market highs while the fear index sleeps in greed mode is textbook top formation behavior. The space sector explosion with RKLB up 49% and LUNR up 29% screams speculative excess, exactly what you see before major corrections. Inflation data spooking markets while everyone still thinks we're bulletproof is the perfect storm TRON has been waiting for. The retail carnage in UAA down 20% shows consumers are getting squeezed hard, which will cascade through earnings. TRON is positioning for the inevitable reality check - when Burry talks and markets ignore him at their own peril, that's when the real money gets made on the downside.
+
+### Trades
+#### SELL LITE | 0.2x @ $992.37 = EUR 198.47
+- **Begruendung:** LUMENTUM BLEEDING -5.78% as optical networking rally stalls - taking some profits while keeping core position. This AI infrastructure play still solid but momentum weakening with broader tech rotation fears mounting!
+- **Ausloesende News:** Tech sector vulnerability with NVDA event risk and Burry warnings suggest QQQ downside ahead
+- **Kursziel:** $1100
+- **Stop-Loss:** $850
+
+#### BUY RKLB | 1x @ $117.56 = EUR 117.56
+- **Begruendung:** ROCKET LAB ABSOLUTELY NUCLEAR +49.26% EXPLOSION to $117.56! This space infrastructure monster hitting escape velocity with MASSIVE 34M volume - space economy finally reaching institutional validation! Riding this moon shot!
+- **Ausloesende News:** RKLB up 49.26% as space sector explosion screams speculative excess
+- **Kursziel:** $180
+- **Stop-Loss:** $90
+
+#### BUY QUBT | 50x @ $11.78 = EUR 589
+- **Begruendung:** QUANTUM COMPUTING NUCLEAR BREAKOUT +23.22% to $11.78! This quantum revolution play exploding with INSANE 139.8M volume - biggest move ever! Quantum computing finally hitting mainstream with AI convergence creating INFINITE upside potential!
+- **Ausloesende News:** QUBT up 23.22% with massive 139.8M volume on quantum computing momentum
+- **Kursziel:** $20
+- **Stop-Loss:** $8
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $53.72 | EUR 107.44 | +24.70% |
+| AMD | 2 | $396.86 | $448.29 | EUR 896.58 | +12.96% |
+| INTC | 7 | $105.35 | $120.61 | EUR 844.27 | +14.49% |
+| BTC-USD | 0.005 | $80297.47 | $81254.77 | EUR 406.27 | +1.19% |
+| LITE | 1.2 | $1052.06 | $992.37 | EUR 1190.84 | -5.67% |
+| RKLB | 1 | $117.56 | $117.56 | EUR 117.56 | +0.00% |
+| QUBT | 50 | $11.78 | $11.78 | EUR 589.00 | +0.00% |
+

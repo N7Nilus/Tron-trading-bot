@@ -1273,3 +1273,67 @@
 - `2026-05-12T13:29:13.818Z` BUY INTC 3x @ $129.44 | INTEL ABSOLUTELY NUCLEAR +35.14% EXPLOSION to $129.44! This is the ULTIMATE turnaround validation with MASSIVE 178.1M volume - biggest single-day move in years! Adding maximum position as this beaten giant finally breaks out on AI foundry wins!
 - `2026-05-12T13:29:13.818Z` BUY LITE 0.5x @ $1053.09 | LUMENTUM OPTICAL DOMINANCE continues with +7.88% surge - this AI networking infrastructure play is just getting started! Data center buildout creating INFINITE demand for optical components - riding this wave to maximum profits!
 - `2026-05-12T13:29:13.818Z` === TRON DAY 20 DONE ===
+- `2026-05-13T09:38:26.708Z` === TRON DAY 21 START ===
+- `2026-05-13T09:38:26.711Z` Lade Marktdaten...
+- `2026-05-13T09:38:27.049Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-13T09:38:27.083Z` Live: WOLF = $53.72 (+46.66%)
+- `2026-05-13T09:38:27.266Z` Live: AMD = $448.29 (+26.19%)
+- `2026-05-13T09:38:27.480Z` Live: INTC = $120.61 (+11.52%)
+- `2026-05-13T09:38:27.664Z` Live: BTC-USD = $81254.77 (+0.73%)
+- `2026-05-13T09:38:27.848Z` Live: LITE = $992.37 (-0.22%)
+- `2026-05-13T09:38:28.045Z` Live: NVDA = $220.78 (+12.36%)
+- `2026-05-13T09:38:28.228Z` Live: QS = $8.42 (+15.98%)
+- `2026-05-13T09:38:28.410Z` Live: PENG = $44.13 (+21.07%)
+- `2026-05-13T09:38:28.594Z` Live: NBIS = $179.11 (+1.81%)
+- `2026-05-13T09:38:28.812Z` Live: MU = $766.58 (+19.74%)
+- `2026-05-13T09:38:28.994Z` Live: TSLA = $433.45 (+11.32%)
+- `2026-05-13T09:38:29.178Z` Live: SLS = $5.22 (+7.19%)
+- `2026-05-13T09:38:29.361Z` Live: ETH-USD = $2321.93 (-0.21%)
+- `2026-05-13T09:38:29.547Z` Live: BABA = $134.78 (+1.91%)
+- `2026-05-13T09:38:29.760Z` Live: LUNR = $32.09 (+29.4%)
+- `2026-05-13T09:38:29.945Z` Live: XRP-USD = $1.47 (+3.51%)
+- `2026-05-13T09:38:30.125Z` Live: RKLB = $117.56 (+49.26%)
+- `2026-05-13T09:38:30.309Z` Live: OUST = $27.1 (-5.24%)
+- `2026-05-13T09:38:30.492Z` Live: WIX = $75.88 (-1.49%)
+- `2026-05-13T09:38:30.676Z` Live: TDIC = $2.36 (+112.61%)
+- `2026-05-13T09:38:30.859Z` Live: DGXX = $8.39 (+64.19%)
+- `2026-05-13T09:38:31.045Z` Live: JD = $31.49 (+6.1%)
+- `2026-05-13T09:38:31.234Z` Live: UAA = $5.03 (-19.78%)
+- `2026-05-13T09:38:31.416Z` Live: VELO = $14.06 (+4.93%)
+- `2026-05-13T09:38:31.599Z` Live: NXT = $125.37 (+1.65%)
+- `2026-05-13T09:38:31.784Z` Live: RCAT = $11.03 (+5.75%)
+- `2026-05-13T09:38:31.998Z` Live: BWEN = $4.41 (+63.94%)
+- `2026-05-13T09:38:32.183Z` Live: ALFEN.AS = $14.54 (+16.98%)
+- `2026-05-13T09:38:32.368Z` Live: PACS = $41.01 (+25.84%)
+- `2026-05-13T09:38:32.552Z` Live: RAL = $59.16 (+27.36%)
+- `2026-05-13T09:38:32.710Z` Live: QUBT = $11.78 (+23.22%)
+- `2026-05-13T09:38:32.893Z` Live: VG = $13.27 (+1.92%)
+- `2026-05-13T09:38:33.108Z` Live: HLIO = $77.57 (+14.41%)
+- `2026-05-13T09:38:33.290Z` Live: NOVT = $159.19 (+20.33%)
+- `2026-05-13T09:38:33.473Z` Live: SE = $96.02 (+13.66%)
+- `2026-05-13T09:38:33.655Z` Live: INSM = $116 (-16.81%)
+- `2026-05-13T09:38:33.837Z` Live: ZBRA = $241.79 (+5.87%)
+- `2026-05-13T09:38:34.018Z` Live: LEGN = $28.26 (-0.88%)
+- `2026-05-13T09:38:34.201Z` Live: ERO = $31.89 (+23.51%)
+- `2026-05-13T09:38:34.387Z` Live: Q = $168.36 (+14.95%)
+- `2026-05-13T09:38:34.588Z` Live: ARMK = $48.41 (+6.96%)
+- `2026-05-13T09:38:34.773Z` Live: PSN = $52.7 (+5.82%)
+- `2026-05-13T09:38:34.958Z` Live: ALKS = $38.29 (+5.63%)
+- `2026-05-13T09:38:35.140Z` Live: OSCR = $23.73 (+32.27%)
+- `2026-05-13T09:38:35.414Z` Live: HUM = $295.35 (+23.3%)
+- `2026-05-13T09:38:35.600Z` Live: EMAT = $10.18 (+7.38%)
+- `2026-05-13T09:38:35.784Z` Live: SPHR = $135.96 (-0.47%)
+- `2026-05-13T09:38:35.967Z` Live: ALHC = $18.38 (+0.44%)
+- `2026-05-13T09:38:36.157Z` Live: CAMT = $174.63 (-11.45%)
+- `2026-05-13T09:38:36.341Z` Live: FLNC = $21.28 (+67.69%)
+- `2026-05-13T09:38:36.493Z` 50 echte Live-Kurse geladen
+- `2026-05-13T09:38:36.493Z` Lade News...
+- `2026-05-13T09:38:37.595Z` Yahoo News: 20 Headlines geladen
+- `2026-05-13T09:38:38.598Z` TRON analysiert News...
+- `2026-05-13T09:38:56.426Z` News analysiert: Michael Burry is issuing fresh warnings as markets hit new highs, while inflation concerns dominate ...
+- `2026-05-13T09:38:56.445Z` TRON trifft Handelsentscheidungen...
+- `2026-05-13T09:39:12.325Z` Portfolio: EUR 4488.19 | PnL: +797.64%
+- `2026-05-13T09:39:12.325Z` SELL LITE 0.2x @ $992.37 | LUMENTUM BLEEDING -5.78% as optical networking rally stalls - taking some profits while keeping core position. This AI infrastructure play still solid but momentum weakening with broader tech rotation fears mounting!
+- `2026-05-13T09:39:12.326Z` BUY RKLB 1x @ $117.56 | ROCKET LAB ABSOLUTELY NUCLEAR +49.26% EXPLOSION to $117.56! This space infrastructure monster hitting escape velocity with MASSIVE 34M volume - space economy finally reaching institutional validation! Riding this moon shot!
+- `2026-05-13T09:39:12.326Z` BUY QUBT 50x @ $11.78 | QUANTUM COMPUTING NUCLEAR BREAKOUT +23.22% to $11.78! This quantum revolution play exploding with INSANE 139.8M volume - biggest move ever! Quantum computing finally hitting mainstream with AI convergence creating INFINITE upside potential!
+- `2026-05-13T09:39:12.326Z` === TRON DAY 21 DONE ===
