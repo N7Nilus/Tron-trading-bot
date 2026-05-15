@@ -1338,3 +1338,67 @@
 - `2026-05-13T09:39:12.326Z` BUY QUBT 50x @ $11.78 | QUANTUM COMPUTING NUCLEAR BREAKOUT +23.22% to $11.78! This quantum revolution play exploding with INSANE 139.8M volume - biggest move ever! Quantum computing finally hitting mainstream with AI convergence creating INFINITE upside potential!
 - `2026-05-13T09:39:12.326Z` === TRON DAY 21 DONE ===
 - `2026-05-14T09:28:50.893Z` Kein Handelstag - TRON pausiert
+- `2026-05-15T09:41:20.184Z` === TRON DAY 22 START ===
+- `2026-05-15T09:41:20.186Z` Lade Marktdaten...
+- `2026-05-15T09:41:20.999Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-15T09:41:21.135Z` Live: WOLF = $69.96 (+54.92%)
+- `2026-05-15T09:41:21.425Z` Live: AMD = $449.7 (+10.1%)
+- `2026-05-15T09:41:21.804Z` Live: INTC = $115.93 (+5.76%)
+- `2026-05-15T09:41:22.124Z` Live: BTC-USD = $80454.44 (-1.56%)
+- `2026-05-15T09:41:22.414Z` Live: LITE = $1001.81 (+12.24%)
+- `2026-05-15T09:41:22.731Z` Live: RKLB = $132.55 (+68.68%)
+- `2026-05-15T09:41:23.048Z` Live: QUBT = $11.73 (+21.81%)
+- `2026-05-15T09:41:23.335Z` Live: CBRS = $311.07 (+68.15%)
+- `2026-05-15T09:41:23.659Z` Live: POET = $20.57 (+114.72%)
+- `2026-05-15T09:41:23.982Z` Live: FIG = $20.24 (-1.56%)
+- `2026-05-15T09:41:24.274Z` Live: NQ=F = $29235 (-0.64%)
+- `2026-05-15T09:41:24.530Z` Live: CL=F = $100.35 (+2.32%)
+- `2026-05-15T09:41:24.816Z` Live: DVLT = $0.59 (+15.69%)
+- `2026-05-15T09:41:25.102Z` Live: NU = $12.93 (-9.33%)
+- `2026-05-15T09:41:25.359Z` Live: XRP-USD = $1.47 (-0.46%)
+- `2026-05-15T09:41:25.678Z` Live: ETH-USD = $2254.66 (-3.62%)
+- `2026-05-15T09:41:25.963Z` Live: GEMI = $5.26 (+10.74%)
+- `2026-05-15T09:41:26.300Z` Live: GC=F = $4556.2 (-3.44%)
+- `2026-05-15T09:41:26.615Z` Live: SIVE.ST = $53.25 (+22.36%)
+- `2026-05-15T09:41:26.933Z` Live: HCWB = $0.34 (+6.25%)
+- `2026-05-15T09:41:27.258Z` Live: MLGO = $4.55 (+10.71%)
+- `2026-05-15T09:41:27.545Z` Live: ES=F = $7445.75 (+0.12%)
+- `2026-05-15T09:41:27.872Z` Live: MOBX = $3.11 (+45.33%)
+- `2026-05-15T09:41:28.233Z` Live: SOXS = $8.27 (-21.98%)
+- `2026-05-15T09:41:28.517Z` Live: ^VIX = $18.81 (+2.34%)
+- `2026-05-15T09:41:28.808Z` Live: UPST = $29.71 (+2.45%)
+- `2026-05-15T09:41:29.135Z` Live: MRNO = $0.29 (+30.63%)
+- `2026-05-15T09:41:29.418Z` Live: DLO = $12.66 (-7.93%)
+- `2026-05-15T09:41:29.723Z` Live: AMAT = $440.56 (+7.29%)
+- `2026-05-15T09:41:30.009Z` Live: SI=F = $78.39 (-8.3%)
+- `2026-05-15T09:41:30.322Z` Live: SEDG = $50.24 (+30.12%)
+- `2026-05-15T09:41:30.581Z` Live: ONDS = $11.21 (+26.1%)
+- `2026-05-15T09:41:30.905Z` Live: FRMI = $7.37 (+43.95%)
+- `2026-05-15T09:41:31.194Z` Live: RDW = $13.99 (+52.07%)
+- `2026-05-15T09:41:31.517Z` Live: PCT = $12.39 (+38.59%)
+- `2026-05-15T09:41:31.803Z` Live: KLAR = $16.47 (+11.89%)
+- `2026-05-15T09:41:32.155Z` Live: CPA = $135.51 (+10.26%)
+- `2026-05-15T09:41:32.475Z` Live: ARX = $14.61 (+7.74%)
+- `2026-05-15T09:41:32.762Z` Live: ENPH = $48.01 (+35.35%)
+- `2026-05-15T09:41:33.057Z` Live: SNDR = $33.21 (+8.35%)
+- `2026-05-15T09:41:33.409Z` Live: KNX = $68.03 (+7.24%)
+- `2026-05-15T09:41:33.666Z` Live: STUB = $8.55 (+11.47%)
+- `2026-05-15T09:41:33.970Z` Live: CSCO = $115.53 (+25.36%)
+- `2026-05-15T09:41:34.289Z` Live: SAIL = $13.18 (+8.12%)
+- `2026-05-15T09:41:34.636Z` Live: BTDR = $14.75 (+6.58%)
+- `2026-05-15T09:41:34.923Z` Live: ASTS = $83.01 (+27.02%)
+- `2026-05-15T09:41:35.215Z` Live: NVMI = $556.11 (+10.22%)
+- `2026-05-15T09:41:35.533Z` Live: FPS = $50.19 (+26.46%)
+- `2026-05-15T09:41:35.820Z` Live: DOCS = $18.01 (-30.81%)
+- `2026-05-15T09:41:36.106Z` Live: NIQ = $8.2 (-26.79%)
+- `2026-05-15T09:41:36.257Z` 50 echte Live-Kurse geladen
+- `2026-05-15T09:41:36.258Z` Lade News...
+- `2026-05-15T09:41:37.510Z` Yahoo News: 20 Headlines geladen
+- `2026-05-15T09:41:38.713Z` TRON analysiert News...
+- `2026-05-15T09:41:56.737Z` News analysiert: Markets are showing mixed signals as tech giants continue their AI-driven rally with the Magnificent...
+- `2026-05-15T09:41:57.061Z` TRON trifft Handelsentscheidungen...
+- `2026-05-15T09:42:15.353Z` Portfolio: EUR 5574.16 | PnL: +914.83%
+- `2026-05-15T09:42:15.354Z` SELL AMD 1x @ $449.7 | AMD CONSOLIDATION at $449.70 (+10.1%) after nuclear explosion - taking partial profits as momentum cools from yesterday's historic surge. Still bullish but need cash for TODAY'S absolute insanity with POET +114% and CBRS destroying everything!
+- `2026-05-15T09:42:15.354Z` BUY POET 10x @ $20.57 | POET TECHNOLOGIES ABSOLUTELY NUCLEAR +114.72% EXPLOSION! This AI semiconductor monster hitting ESCAPE VELOCITY with INSANE 117.1M volume - biggest move in history! Optical AI integration finally validated - riding this BEAST to infinity!
+- `2026-05-15T09:42:15.354Z` BUY CBRS 1x @ $311.07 | CEREBRAS SYSTEMS NUCLEAR IPO DEBUT +68.15% to $311.07! This AI chip unicorn finally public and DESTROYING everything with 32.3M volume! IPO day momentum is UNSTOPPABLE - this is the next NVIDIA in the making!
+- `2026-05-15T09:42:15.354Z` === TRON DAY 22 DONE ===

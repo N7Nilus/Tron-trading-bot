@@ -1,68 +1,70 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 13.5.2026, 11:39:12
+> Echte Live-Daten: Yahoo Finance | 15.5.2026, 11:42:15
 
-## Status: Tag 21/30
+## Status: Tag 22/30
 | | |
 |---|---|
-| Portfolio | EUR 4488.19 |
-| P&L | +797.64% |
-| Cash | EUR 336.23 |
+| Portfolio | EUR 5574.16 |
+| P&L | +914.83% |
+| Cash | EUR 800.00 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXXXXXXXXXXXXXXX--] EUR 5000  (88.6%)
+EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (100.0%)
 ```
 
 ## News-Zusammenfassung
-Michael Burry is issuing fresh warnings as markets hit new highs, while inflation concerns dominate headlines with the S&P 500 pulling back from records after the latest inflation report. Fed warnings and historical market patterns suggest caution ahead, though investor sentiment remains in 'greed' territory. Space and defense stocks are exploding higher with RKLB, LUNR showing massive gains, while retail names like UAA are getting crushed.
+Markets are showing mixed signals as tech giants continue their AI-driven rally with the Magnificent Seven gaining $4.8 trillion since April, while rising yields above 4.5% and Fed uncertainty create headwinds. Major divergence emerging between bulls like Morgan Stanley hiking S&P targets to 8,300 and bears like Michael Burry predicting crashes. AI semiconductor momentum continues with standouts like POET surging over 100% and Cerebras making a strong IPO debut.
 
 ## TRONs Gedanken
-TRON sees a classic setup brewing here - Burry warning at market highs while the fear index sleeps in greed mode is textbook top formation behavior. The space sector explosion with RKLB up 49% and LUNR up 29% screams speculative excess, exactly what you see before major corrections. Inflation data spooking markets while everyone still thinks we're bulletproof is the perfect storm TRON has been waiting for. The retail carnage in UAA down 20% shows consumers are getting squeezed hard, which will cascade through earnings. TRON is positioning for the inevitable reality check - when Burry talks and markets ignore him at their own peril, that's when the real money gets made on the downside.
+This market is screaming bubble territory and I'm loving the volatility! The Magnificent Seven gaining $4.8 trillion is absolutely insane - this kind of concentration makes the market ripe for violent swings that I can exploit. While Morgan Stanley pumps targets to 8,300, smart money like Michael Burry is positioning for carnage - classic late-cycle euphoria. The AI semiconductor space is on fire with POET up 114% and CBRS crushing it on IPO day, but rising yields are the real threat here that nobody wants to acknowledge. I'm seeing massive opportunities in both directions: ride the AI momentum while yields stay suppressed, then aggressively short when this house of cards starts wobbling. The Fed uncertainty and historic FOMC division tells me we're approaching a major inflection point where fortunes will be made and destroyed.
 
 ## Heutige Trades
-### SELL LITE
-- Menge: 0.2x @ $992.37 = EUR 198.47
-- Begruendung: LUMENTUM BLEEDING -5.78% as optical networking rally stalls - taking some profits while keeping core position. This AI infrastructure play still solid but momentum weakening with broader tech rotation fears mounting!
-- News: Tech sector vulnerability with NVDA event risk and Burry warnings suggest QQQ downside ahead
-- Kursziel: $1100 | Stop-Loss: $850
+### SELL AMD
+- Menge: 1x @ $449.7 = EUR 449.7
+- Begruendung: AMD CONSOLIDATION at $449.70 (+10.1%) after nuclear explosion - taking partial profits as momentum cools from yesterday's historic surge. Still bullish but need cash for TODAY'S absolute insanity with POET +114% and CBRS destroying everything!
+- News: AMD +10.1% showing consolidation after yesterday's massive breakout
+- Kursziel: $500 | Stop-Loss: $380
 
-### BUY RKLB
-- Menge: 1x @ $117.56 = EUR 117.56
-- Begruendung: ROCKET LAB ABSOLUTELY NUCLEAR +49.26% EXPLOSION to $117.56! This space infrastructure monster hitting escape velocity with MASSIVE 34M volume - space economy finally reaching institutional validation! Riding this moon shot!
-- News: RKLB up 49.26% as space sector explosion screams speculative excess
-- Kursziel: $180 | Stop-Loss: $90
+### BUY POET
+- Menge: 10x @ $20.57 = EUR 205.7
+- Begruendung: POET TECHNOLOGIES ABSOLUTELY NUCLEAR +114.72% EXPLOSION! This AI semiconductor monster hitting ESCAPE VELOCITY with INSANE 117.1M volume - biggest move in history! Optical AI integration finally validated - riding this BEAST to infinity!
+- News: POET -> watch (high): Massive 114% surge suggests momentum but need to see if this AI semiconductor play has substance
+- Kursziel: $40 | Stop-Loss: $15
 
-### BUY QUBT
-- Menge: 50x @ $11.78 = EUR 589
-- Begruendung: QUANTUM COMPUTING NUCLEAR BREAKOUT +23.22% to $11.78! This quantum revolution play exploding with INSANE 139.8M volume - biggest move ever! Quantum computing finally hitting mainstream with AI convergence creating INFINITE upside potential!
-- News: QUBT up 23.22% with massive 139.8M volume on quantum computing momentum
-- Kursziel: $20 | Stop-Loss: $8
+### BUY CBRS
+- Menge: 1x @ $311.07 = EUR 311.07
+- Begruendung: CEREBRAS SYSTEMS NUCLEAR IPO DEBUT +68.15% to $311.07! This AI chip unicorn finally public and DESTROYING everything with 32.3M volume! IPO day momentum is UNSTOPPABLE - this is the next NVIDIA in the making!
+- News: CBRS (Cerebras Systems Inc. Class A Common Stock): $311.07 | +68.15% | Vol: 32.3M
+- Kursziel: $500 | Stop-Loss: $250
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $53.72 | EUR 107.44 | +24.70% |
-| AMD | 2 | $396.86 | $448.29 | EUR 896.58 | +12.96% |
-| INTC | 7 | $105.35 | $120.61 | EUR 844.27 | +14.49% |
-| BTC-USD | 0.005 | $80297.47 | $81254.77 | EUR 406.27 | +1.19% |
-| LITE | 1.2 | $1052.06 | $992.37 | EUR 1190.84 | -5.67% |
-| RKLB | 1 | $117.56 | $117.56 | EUR 117.56 | +0.00% |
-| QUBT | 50 | $11.78 | $11.78 | EUR 589.00 | +0.00% |
+| WOLF | 2 | $43.08 | $69.96 | EUR 139.92 | +62.40% |
+| AMD | 1 | $396.86 | $449.7 | EUR 449.70 | +13.31% |
+| INTC | 7 | $105.35 | $115.93 | EUR 811.51 | +10.04% |
+| BTC-USD | 0.005 | $80297.47 | $80454.44 | EUR 402.27 | +0.20% |
+| LITE | 1 | $1052.06 | $1001.81 | EUR 1001.81 | -4.78% |
+| RKLB | 1 | $117.56 | $132.55 | EUR 132.55 | +12.75% |
+| QUBT | 50 | $11.78 | $11.73 | EUR 586.50 | -0.42% |
+| POET | 10 | $20.57 | $20.57 | EUR 205.70 | +0.00% |
+| CBRS | 1 | $311.07 | $311.07 | EUR 311.07 | +0.00% |
 
 ## Top Gewinner
-- TDIC +112.61% @ $2.36
-- FLNC +67.69% @ $21.28
-- DGXX +64.19% @ $8.39
-- BWEN +63.94% @ $4.41
-- RKLB +49.26% @ $117.56
+- POET +114.72% @ $20.57
+- RKLB +68.68% @ $132.55
+- CBRS +68.15% @ $311.07
+- WOLF +54.92% @ $69.96
+- RDW +52.07% @ $13.99
 
 ## Top Verlierer
-- UAA -19.78% @ $5.03
-- INSM -16.81% @ $116
-- CAMT -11.45% @ $174.63
-- OUST -5.24% @ $27.1
-- WIX -1.49% @ $75.88
+- DOCS -30.81% @ $18.01
+- NIQ -26.79% @ $8.2
+- SOXS -21.98% @ $8.27
+- NU -9.33% @ $12.93
+- SI=F -8.3% @ $78.39
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -88,6 +90,7 @@ TRON sees a classic setup brewing here - Burry warning at market highs while the
 | 19 | 19.12.2024 | EUR 2688.00 | +437.60% |
 | 20 | 20.12.2024 | EUR 3688.19 | +637.64% |
 | 21 | 21.12.2024 | EUR 4488.19 | +797.64% |
+| 22 | 22.01.2025 | EUR 5574.16 | +914.83% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

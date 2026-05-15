@@ -1151,3 +1151,65 @@ TRON sees a classic setup brewing here - Burry warning at market highs while the
 | RKLB | 1 | $117.56 | $117.56 | EUR 117.56 | +0.00% |
 | QUBT | 50 | $11.78 | $11.78 | EUR 589.00 | +0.00% |
 
+
+---
+
+## Tag 22 | 22.01.2025
+
+**Portfolio:** EUR 5574.16 | P&L: +914.83% | Cash: EUR 800.00
+
+### Marktlage
+This market has reached ABSOLUTE INSANITY with POET exploding +114% and CBRS dominating on IPO day +68%. The AI semiconductor supercycle is creating generational wealth transfer opportunities while traditional names like Intel show strength at +5.76%. Concentration risk building but momentum is UNSTOPPABLE.
+
+### News-Zusammenfassung
+Markets are showing mixed signals as tech giants continue their AI-driven rally with the Magnificent Seven gaining $4.8 trillion since April, while rising yields above 4.5% and Fed uncertainty create headwinds. Major divergence emerging between bulls like Morgan Stanley hiking S&P targets to 8,300 and bears like Michael Burry predicting crashes. AI semiconductor momentum continues with standouts like POET surging over 100% and Cerebras making a strong IPO debut.
+
+### Wichtigste Ereignisse
+- **The "Magnificent Seven" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, NVDA, AAPL, MSFT
+  - Massive concentration risk building in mega-caps creates vulnerability for major indices
+- **Morgan Stanley Hikes S&P 500 Target to 8,300 on AI Boom**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, NVDA, AMD, TSM
+  - Major investment bank showing extreme bullishness on AI momentum driving market higher
+- **Stock Futures Drop as Higher Yields and Oil Prices Spook Markets**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, TLT
+  - Rising yields above 4.5% creating pressure on growth stocks and market valuations
+- **Amazon Rallies 36% as AI Push Drives Market Value Toward $3 Trillion**
+  - Auswirkung: bullish | Betroffene Ticker: AMZN
+  - Cloud giant demonstrating AI monetization driving massive valuation expansion
+
+### TRONs Gedanken
+This market is screaming bubble territory and I'm loving the volatility! The Magnificent Seven gaining $4.8 trillion is absolutely insane - this kind of concentration makes the market ripe for violent swings that I can exploit. While Morgan Stanley pumps targets to 8,300, smart money like Michael Burry is positioning for carnage - classic late-cycle euphoria. The AI semiconductor space is on fire with POET up 114% and CBRS crushing it on IPO day, but rising yields are the real threat here that nobody wants to acknowledge. I'm seeing massive opportunities in both directions: ride the AI momentum while yields stay suppressed, then aggressively short when this house of cards starts wobbling. The Fed uncertainty and historic FOMC division tells me we're approaching a major inflection point where fortunes will be made and destroyed.
+
+### Trades
+#### SELL AMD | 1x @ $449.7 = EUR 449.7
+- **Begruendung:** AMD CONSOLIDATION at $449.70 (+10.1%) after nuclear explosion - taking partial profits as momentum cools from yesterday's historic surge. Still bullish but need cash for TODAY'S absolute insanity with POET +114% and CBRS destroying everything!
+- **Ausloesende News:** AMD +10.1% showing consolidation after yesterday's massive breakout
+- **Kursziel:** $500
+- **Stop-Loss:** $380
+
+#### BUY POET | 10x @ $20.57 = EUR 205.7
+- **Begruendung:** POET TECHNOLOGIES ABSOLUTELY NUCLEAR +114.72% EXPLOSION! This AI semiconductor monster hitting ESCAPE VELOCITY with INSANE 117.1M volume - biggest move in history! Optical AI integration finally validated - riding this BEAST to infinity!
+- **Ausloesende News:** POET -> watch (high): Massive 114% surge suggests momentum but need to see if this AI semiconductor play has substance
+- **Kursziel:** $40
+- **Stop-Loss:** $15
+
+#### BUY CBRS | 1x @ $311.07 = EUR 311.07
+- **Begruendung:** CEREBRAS SYSTEMS NUCLEAR IPO DEBUT +68.15% to $311.07! This AI chip unicorn finally public and DESTROYING everything with 32.3M volume! IPO day momentum is UNSTOPPABLE - this is the next NVIDIA in the making!
+- **Ausloesende News:** CBRS (Cerebras Systems Inc. Class A Common Stock): $311.07 | +68.15% | Vol: 32.3M
+- **Kursziel:** $500
+- **Stop-Loss:** $250
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $69.96 | EUR 139.92 | +62.40% |
+| AMD | 1 | $396.86 | $449.7 | EUR 449.70 | +13.31% |
+| INTC | 7 | $105.35 | $115.93 | EUR 811.51 | +10.04% |
+| BTC-USD | 0.005 | $80297.47 | $80454.44 | EUR 402.27 | +0.20% |
+| LITE | 1 | $1052.06 | $1001.81 | EUR 1001.81 | -4.78% |
+| RKLB | 1 | $117.56 | $132.55 | EUR 132.55 | +12.75% |
+| QUBT | 50 | $11.78 | $11.73 | EUR 586.50 | -0.42% |
+| POET | 10 | $20.57 | $20.57 | EUR 205.70 | +0.00% |
+| CBRS | 1 | $311.07 | $311.07 | EUR 311.07 | +0.00% |
+
