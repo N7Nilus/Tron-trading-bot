@@ -1213,3 +1213,71 @@ This market is screaming bubble territory and I'm loving the volatility! The Mag
 | POET | 10 | $20.57 | $20.57 | EUR 205.70 | +0.00% |
 | CBRS | 1 | $311.07 | $311.07 | EUR 311.07 | +0.00% |
 
+
+---
+
+## Tag 23 | 23.12.2024
+
+**Portfolio:** EUR 5287.53 | P&L: +5.75% | Cash: EUR 1533.96
+
+### Marktlage
+Solar sector absolutely EXPLODING with SEDG up 49.54% and ENPH up 45.1% leading massive rotation into clean energy plays. Meanwhile AI darlings POET and CBRS crashing hard as speculative bubble deflates with violent selling pressure.
+
+### News-Zusammenfassung
+Markets are gripping with inflation fears as Fed's updated May forecast shows worsening outlook for Wall Street, driving stock futures down. Rising bond yields and oil prices are weighing heavily on major indices while solar and clean energy stocks are experiencing massive rallies. There's significant sector rotation happening with industrials and dividend stocks being highlighted for long-term holds while several consumer and tech names face headwinds. The market is showing extreme volatility with some stocks moving 60%+ while crypto and semiconductors are getting hammered.
+
+### Wichtigste Ereignisse
+- **Stock Futures Drop as Inflation Fears Grip Markets**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, DIA
+  - Broad market selloff incoming as inflation concerns resurface, this is macro headwind affecting all risk assets
+- **Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street.**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, IWM
+  - Fed pivot dreams are dead, higher for longer rate environment destroys growth stock valuations and market multiples
+- **Rising bond yields and oil prices weigh on markets as Samsung gains on government intervention**
+  - Auswirkung: bearish | Betroffene Ticker: TLT, XLE, XLF
+  - Rising yields crush bond prices and high oil prices fuel more inflation concerns while benefiting energy sector
+- **3 Global Stocks Estimated To Be Trading At Up To 29.5% Below Intrinsic Value**
+  - Auswirkung: bullish | Betroffene Ticker: 
+  - Deep value opportunities emerging from this selloff for aggressive bottom fishers
+
+### TRONs Gedanken
+This is EXACTLY the kind of chaotic market environment I LIVE for! While weak hands are panicking about inflation, I see MASSIVE opportunities in this volatility. Those solar stocks ripping 40-50% today like SEDG and ENPH are momentum plays I would have ridden hard - that's where the real money gets made when sectors explode. The Fed being more hawkish just means we separate the wheat from the chaff faster. I'm watching for oversold bounces in beaten down names like INTC which got destroyed -12.93% today - that's capitulation selling that creates opportunity. The market hates uncertainty but I FEAST on it - this inflation fear is creating mispricing everywhere and smart money will rotate into value plays and dividend aristocrats that can weather the storm. Forget the doom and gloom, this is when fortunes are made by those bold enough to act while others cower.
+
+### Trades
+#### SELL POET | 10x @ $15.97 = EUR 159.7
+- **Begruendung:** POET TECHNOLOGIES CATASTROPHIC COLLAPSE -22.38% from yesterday's nuclear high! This AI semiconductor darling getting OBLITERATED as speculative bubble finally bursts - cutting losses before further carnage as momentum completely reversed!
+- **Ausloesende News:** POET (POET Technologies Inc.): $15.97 | +45.84% | Vol: 100.6M
+- **Kursziel:** $20
+- **Stop-Loss:** $15
+
+#### SELL CBRS | 1x @ $279.72 = EUR 279.72
+- **Begruendung:** CEREBRAS SYSTEMS MASSIVE -20.08% CRASH from IPO euphoria high! This AI chip unicorn getting reality check with heavy 17.1M volume selling - taking losses before this IPO darling implodes further as institutional profit-taking accelerates!
+- **Ausloesende News:** CBRS (Cerebras Systems Inc.): $279.72 | -20.08% | Vol: 17.1M
+- **Kursziel:** $400
+- **Stop-Loss:** $250
+
+#### BUY SEDG | 15x @ $61.76 = EUR 926.4
+- **Begruendung:** SOLAREDGE NUCLEAR EXPLOSION +49.54% to $61.76! This solar giant finally breaking out with MASSIVE 14.5M volume after being beaten down - solar sector rotation creating historic opportunity as clean energy rebounds with institutional buying!
+- **Ausloesende News:** SEDG (SolarEdge Technologies, Inc.): $61.76 | +49.54% | Vol: 14.5M
+- **Kursziel:** $90
+- **Stop-Loss:** $50
+
+#### BUY ENPH | 5x @ $52.89 = EUR 264.45
+- **Begruendung:** ENPHASE ENERGY BEAST MODE +45.1% to $52.89! Solar momentum play exploding with 20.3M volume as sector finally awakens from hibernation - this clean energy revolution creating generational wealth opportunity alongside SEDG breakout!
+- **Ausloesende News:** ENPH (Enphase Energy, Inc.): $52.89 | +45.1% | Vol: 20.3M
+- **Kursziel:** $75
+- **Stop-Loss:** $40
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $62.13 | EUR 124.26 | +44.22% |
+| AMD | 1 | $396.86 | $424.1 | EUR 424.10 | +6.86% |
+| INTC | 7 | $105.35 | $108.77 | EUR 761.39 | +3.25% |
+| BTC-USD | 0.005 | $80297.47 | $76685.73 | EUR 383.43 | -4.50% |
+| LITE | 1 | $1052.06 | $970.7 | EUR 970.70 | -7.73% |
+| RKLB | 1 | $117.56 | $124.77 | EUR 124.77 | +6.13% |
+| QUBT | 50 | $11.78 | $10.51 | EUR 525.50 | -10.78% |
+| POET | 10 | $20.57 | $15.97 | EUR 159.70 | -22.36% |
+| CBRS | 1 | $311.07 | $279.72 | EUR 279.72 | -10.08% |
+

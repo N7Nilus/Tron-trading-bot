@@ -1,13 +1,13 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 15.5.2026, 11:42:15
+> Echte Live-Daten: Yahoo Finance | 18.5.2026, 13:02:00
 
-## Status: Tag 22/30
+## Status: Tag 23/30
 | | |
 |---|---|
-| Portfolio | EUR 5574.16 |
-| P&L | +914.83% |
-| Cash | EUR 800.00 |
+| Portfolio | EUR 5287.53 |
+| P&L | +5.75% |
+| Cash | EUR 1533.96 |
 | Mood | bullish |
 
 ```
@@ -15,56 +15,62 @@ EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (100.0%)
 ```
 
 ## News-Zusammenfassung
-Markets are showing mixed signals as tech giants continue their AI-driven rally with the Magnificent Seven gaining $4.8 trillion since April, while rising yields above 4.5% and Fed uncertainty create headwinds. Major divergence emerging between bulls like Morgan Stanley hiking S&P targets to 8,300 and bears like Michael Burry predicting crashes. AI semiconductor momentum continues with standouts like POET surging over 100% and Cerebras making a strong IPO debut.
+Markets are gripping with inflation fears as Fed's updated May forecast shows worsening outlook for Wall Street, driving stock futures down. Rising bond yields and oil prices are weighing heavily on major indices while solar and clean energy stocks are experiencing massive rallies. There's significant sector rotation happening with industrials and dividend stocks being highlighted for long-term holds while several consumer and tech names face headwinds. The market is showing extreme volatility with some stocks moving 60%+ while crypto and semiconductors are getting hammered.
 
 ## TRONs Gedanken
-This market is screaming bubble territory and I'm loving the volatility! The Magnificent Seven gaining $4.8 trillion is absolutely insane - this kind of concentration makes the market ripe for violent swings that I can exploit. While Morgan Stanley pumps targets to 8,300, smart money like Michael Burry is positioning for carnage - classic late-cycle euphoria. The AI semiconductor space is on fire with POET up 114% and CBRS crushing it on IPO day, but rising yields are the real threat here that nobody wants to acknowledge. I'm seeing massive opportunities in both directions: ride the AI momentum while yields stay suppressed, then aggressively short when this house of cards starts wobbling. The Fed uncertainty and historic FOMC division tells me we're approaching a major inflection point where fortunes will be made and destroyed.
+This is EXACTLY the kind of chaotic market environment I LIVE for! While weak hands are panicking about inflation, I see MASSIVE opportunities in this volatility. Those solar stocks ripping 40-50% today like SEDG and ENPH are momentum plays I would have ridden hard - that's where the real money gets made when sectors explode. The Fed being more hawkish just means we separate the wheat from the chaff faster. I'm watching for oversold bounces in beaten down names like INTC which got destroyed -12.93% today - that's capitulation selling that creates opportunity. The market hates uncertainty but I FEAST on it - this inflation fear is creating mispricing everywhere and smart money will rotate into value plays and dividend aristocrats that can weather the storm. Forget the doom and gloom, this is when fortunes are made by those bold enough to act while others cower.
 
 ## Heutige Trades
-### SELL AMD
-- Menge: 1x @ $449.7 = EUR 449.7
-- Begruendung: AMD CONSOLIDATION at $449.70 (+10.1%) after nuclear explosion - taking partial profits as momentum cools from yesterday's historic surge. Still bullish but need cash for TODAY'S absolute insanity with POET +114% and CBRS destroying everything!
-- News: AMD +10.1% showing consolidation after yesterday's massive breakout
-- Kursziel: $500 | Stop-Loss: $380
+### SELL POET
+- Menge: 10x @ $15.97 = EUR 159.7
+- Begruendung: POET TECHNOLOGIES CATASTROPHIC COLLAPSE -22.38% from yesterday's nuclear high! This AI semiconductor darling getting OBLITERATED as speculative bubble finally bursts - cutting losses before further carnage as momentum completely reversed!
+- News: POET (POET Technologies Inc.): $15.97 | +45.84% | Vol: 100.6M
+- Kursziel: $20 | Stop-Loss: $15
 
-### BUY POET
-- Menge: 10x @ $20.57 = EUR 205.7
-- Begruendung: POET TECHNOLOGIES ABSOLUTELY NUCLEAR +114.72% EXPLOSION! This AI semiconductor monster hitting ESCAPE VELOCITY with INSANE 117.1M volume - biggest move in history! Optical AI integration finally validated - riding this BEAST to infinity!
-- News: POET -> watch (high): Massive 114% surge suggests momentum but need to see if this AI semiconductor play has substance
-- Kursziel: $40 | Stop-Loss: $15
+### SELL CBRS
+- Menge: 1x @ $279.72 = EUR 279.72
+- Begruendung: CEREBRAS SYSTEMS MASSIVE -20.08% CRASH from IPO euphoria high! This AI chip unicorn getting reality check with heavy 17.1M volume selling - taking losses before this IPO darling implodes further as institutional profit-taking accelerates!
+- News: CBRS (Cerebras Systems Inc.): $279.72 | -20.08% | Vol: 17.1M
+- Kursziel: $400 | Stop-Loss: $250
 
-### BUY CBRS
-- Menge: 1x @ $311.07 = EUR 311.07
-- Begruendung: CEREBRAS SYSTEMS NUCLEAR IPO DEBUT +68.15% to $311.07! This AI chip unicorn finally public and DESTROYING everything with 32.3M volume! IPO day momentum is UNSTOPPABLE - this is the next NVIDIA in the making!
-- News: CBRS (Cerebras Systems Inc. Class A Common Stock): $311.07 | +68.15% | Vol: 32.3M
-- Kursziel: $500 | Stop-Loss: $250
+### BUY SEDG
+- Menge: 15x @ $61.76 = EUR 926.4
+- Begruendung: SOLAREDGE NUCLEAR EXPLOSION +49.54% to $61.76! This solar giant finally breaking out with MASSIVE 14.5M volume after being beaten down - solar sector rotation creating historic opportunity as clean energy rebounds with institutional buying!
+- News: SEDG (SolarEdge Technologies, Inc.): $61.76 | +49.54% | Vol: 14.5M
+- Kursziel: $90 | Stop-Loss: $50
+
+### BUY ENPH
+- Menge: 5x @ $52.89 = EUR 264.45
+- Begruendung: ENPHASE ENERGY BEAST MODE +45.1% to $52.89! Solar momentum play exploding with 20.3M volume as sector finally awakens from hibernation - this clean energy revolution creating generational wealth opportunity alongside SEDG breakout!
+- News: ENPH (Enphase Energy, Inc.): $52.89 | +45.1% | Vol: 20.3M
+- Kursziel: $75 | Stop-Loss: $40
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $69.96 | EUR 139.92 | +62.40% |
-| AMD | 1 | $396.86 | $449.7 | EUR 449.70 | +13.31% |
-| INTC | 7 | $105.35 | $115.93 | EUR 811.51 | +10.04% |
-| BTC-USD | 0.005 | $80297.47 | $80454.44 | EUR 402.27 | +0.20% |
-| LITE | 1 | $1052.06 | $1001.81 | EUR 1001.81 | -4.78% |
-| RKLB | 1 | $117.56 | $132.55 | EUR 132.55 | +12.75% |
-| QUBT | 50 | $11.78 | $11.73 | EUR 586.50 | -0.42% |
-| POET | 10 | $20.57 | $20.57 | EUR 205.70 | +0.00% |
-| CBRS | 1 | $311.07 | $311.07 | EUR 311.07 | +0.00% |
+| WOLF | 2 | $43.08 | $62.13 | EUR 124.26 | +44.22% |
+| AMD | 1 | $396.86 | $424.1 | EUR 424.10 | +6.86% |
+| INTC | 7 | $105.35 | $108.77 | EUR 761.39 | +3.25% |
+| BTC-USD | 0.005 | $80297.47 | $76685.73 | EUR 383.43 | -4.50% |
+| LITE | 1 | $1052.06 | $970.7 | EUR 970.70 | -7.73% |
+| RKLB | 1 | $117.56 | $124.77 | EUR 124.77 | +6.13% |
+| QUBT | 50 | $11.78 | $10.51 | EUR 525.50 | -10.78% |
+| POET | 10 | $20.57 | $15.97 | EUR 159.70 | -22.36% |
+| CBRS | 1 | $311.07 | $279.72 | EUR 279.72 | -10.08% |
 
 ## Top Gewinner
-- POET +114.72% @ $20.57
-- RKLB +68.68% @ $132.55
-- CBRS +68.15% @ $311.07
-- WOLF +54.92% @ $69.96
-- RDW +52.07% @ $13.99
+- TRT +62.61% @ $20.05
+- SEDG +49.54% @ $61.76
+- POET +45.84% @ $15.97
+- ENPH +45.1% @ $52.89
+- AUUD +34.25% @ $1.96
 
 ## Top Verlierer
-- DOCS -30.81% @ $18.01
-- NIQ -26.79% @ $8.2
-- SOXS -21.98% @ $8.27
-- NU -9.33% @ $12.93
-- SI=F -8.3% @ $78.39
+- SBFM -73.33% @ $0.28
+- GOVX -26.35% @ $1.23
+- CBRS -20.08% @ $279.72
+- NXXT -18.13% @ $0.28
+- RXO -14.07% @ $18.69
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -91,6 +97,7 @@ This market is screaming bubble territory and I'm loving the volatility! The Mag
 | 20 | 20.12.2024 | EUR 3688.19 | +637.64% |
 | 21 | 21.12.2024 | EUR 4488.19 | +797.64% |
 | 22 | 22.01.2025 | EUR 5574.16 | +914.83% |
+| 23 | 23.12.2024 | EUR 5287.53 | +5.75% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

@@ -1402,3 +1402,68 @@
 - `2026-05-15T09:42:15.354Z` BUY POET 10x @ $20.57 | POET TECHNOLOGIES ABSOLUTELY NUCLEAR +114.72% EXPLOSION! This AI semiconductor monster hitting ESCAPE VELOCITY with INSANE 117.1M volume - biggest move in history! Optical AI integration finally validated - riding this BEAST to infinity!
 - `2026-05-15T09:42:15.354Z` BUY CBRS 1x @ $311.07 | CEREBRAS SYSTEMS NUCLEAR IPO DEBUT +68.15% to $311.07! This AI chip unicorn finally public and DESTROYING everything with 32.3M volume! IPO day momentum is UNSTOPPABLE - this is the next NVIDIA in the making!
 - `2026-05-15T09:42:15.354Z` === TRON DAY 22 DONE ===
+- `2026-05-18T11:01:06.115Z` === TRON DAY 23 START ===
+- `2026-05-18T11:01:06.117Z` Lade Marktdaten...
+- `2026-05-18T11:01:06.398Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-18T11:01:06.551Z` Live: WOLF = $62.13 (+33.33%)
+- `2026-05-18T11:01:06.788Z` Live: AMD = $424.1 (-6.83%)
+- `2026-05-18T11:01:07.098Z` Live: INTC = $108.77 (-12.93%)
+- `2026-05-18T11:01:07.392Z` Live: BTC-USD = $76685.73 (-5.39%)
+- `2026-05-18T11:01:07.693Z` Live: LITE = $970.7 (+7.4%)
+- `2026-05-18T11:01:07.953Z` Live: RKLB = $124.77 (+18.3%)
+- `2026-05-18T11:01:08.242Z` Live: QUBT = $10.51 (+9.48%)
+- `2026-05-18T11:01:08.482Z` Live: POET = $15.97 (+45.84%)
+- `2026-05-18T11:01:08.778Z` Live: CBRS = $279.72 (-20.08%)
+- `2026-05-18T11:01:09.049Z` Live: BIDU = $135.33 (-4.06%)
+- `2026-05-18T11:01:09.410Z` Live: UNH = $393.85 (+3.65%)
+- `2026-05-18T11:01:09.710Z` Live: NOW = $95.07 (+4.27%)
+- `2026-05-18T11:01:09.988Z` Live: GCTS = $1.83 (+7.65%)
+- `2026-05-18T11:01:10.273Z` Live: NXXT = $0.28 (-18.13%)
+- `2026-05-18T11:01:10.538Z` Live: ETH-USD = $2112.41 (-7.39%)
+- `2026-05-18T11:01:10.778Z` Live: CMPS = $10.37 (+4.64%)
+- `2026-05-18T11:01:11.025Z` Live: DXYZ = $47.62 (-12.78%)
+- `2026-05-18T11:01:11.299Z` Live: SATS = $137.23 (+7.93%)
+- `2026-05-18T11:01:11.590Z` Live: D = $61.73 (-0.26%)
+- `2026-05-18T11:01:11.861Z` Live: GOVX = $1.23 (-26.35%)
+- `2026-05-18T11:01:12.133Z` Live: SBFM = $0.28 (-73.33%)
+- `2026-05-18T11:01:12.392Z` Live: XRP-USD = $1.38 (-7.02%)
+- `2026-05-18T11:01:12.632Z` Live: REGN = $698.25 (-2.33%)
+- `2026-05-18T11:01:12.938Z` Live: AUUD = $1.96 (+34.25%)
+- `2026-05-18T11:01:13.176Z` Live: SIDU = $4.01 (+17.6%)
+- `2026-05-18T11:01:13.475Z` Live: LI = $18.51 (+2.83%)
+- `2026-05-18T11:01:13.742Z` Live: ASTS = $83.67 (+11.49%)
+- `2026-05-18T11:01:14.049Z` Live: NEE = $93.36 (+0.28%)
+- `2026-05-18T11:01:14.315Z` Live: ^JKSE = $6599.24 (-3.79%)
+- `2026-05-18T11:01:14.555Z` Live: DOGE-USD = $0.1 (-13.26%)
+- `2026-05-18T11:01:14.859Z` Live: TRT = $20.05 (+62.61%)
+- `2026-05-18T11:01:15.128Z` Live: SOL-USD = $84.15 (-8.68%)
+- `2026-05-18T11:01:15.385Z` Live: M = $18.41 (-5.49%)
+- `2026-05-18T11:01:15.624Z` Live: SEDG = $61.76 (+49.54%)
+- `2026-05-18T11:01:15.861Z` Live: FIG = $22.92 (+10.94%)
+- `2026-05-18T11:01:16.099Z` Live: MICC = $16.66 (+12.64%)
+- `2026-05-18T11:01:16.404Z` Live: ENPH = $52.89 (+45.1%)
+- `2026-05-18T11:01:16.718Z` Live: SOC = $15.13 (+17.74%)
+- `2026-05-18T11:01:17.008Z` Live: VG = $14.23 (+24.28%)
+- `2026-05-18T11:01:17.287Z` Live: WING = $129.21 (-0.35%)
+- `2026-05-18T11:01:17.557Z` Live: TEAM = $87.46 (-4.52%)
+- `2026-05-18T11:01:17.889Z` Live: HUBS = $198.38 (+0.53%)
+- `2026-05-18T11:01:18.165Z` Live: AXTI = $123.78 (+6.38%)
+- `2026-05-18T11:01:18.434Z` Live: RXO = $18.69 (-14.07%)
+- `2026-05-18T11:01:18.797Z` Live: INOD = $96.1 (+13.21%)
+- `2026-05-18T11:01:19.068Z` Live: DXCM = $61.63 (+1.68%)
+- `2026-05-18T11:01:19.363Z` Live: FRSH = $8.96 (+1.47%)
+- `2026-05-18T11:01:19.701Z` Live: FDS = $212.58 (-4.93%)
+- `2026-05-18T11:01:20.000Z` Live: TALO = $16.39 (+9.34%)
+- `2026-05-18T11:01:20.238Z` Live: RGC = $28.58 (-2.39%)
+- `2026-05-18T11:01:20.388Z` 50 echte Live-Kurse geladen
+- `2026-05-18T11:01:20.389Z` Lade News...
+- `2026-05-18T11:01:21.441Z` Yahoo News: 20 Headlines geladen
+- `2026-05-18T11:01:22.643Z` TRON analysiert News...
+- `2026-05-18T11:01:42.463Z` News analysiert: Markets are gripping with inflation fears as Fed's updated May forecast shows worsening outlook for ...
+- `2026-05-18T11:01:42.494Z` TRON trifft Handelsentscheidungen...
+- `2026-05-18T11:02:00.831Z` Portfolio: EUR 5287.53 | PnL: +5.75%
+- `2026-05-18T11:02:00.831Z` SELL POET 10x @ $15.97 | POET TECHNOLOGIES CATASTROPHIC COLLAPSE -22.38% from yesterday's nuclear high! This AI semiconductor darling getting OBLITERATED as speculative bubble finally bursts - cutting losses before further carnage as momentum completely reversed!
+- `2026-05-18T11:02:00.831Z` SELL CBRS 1x @ $279.72 | CEREBRAS SYSTEMS MASSIVE -20.08% CRASH from IPO euphoria high! This AI chip unicorn getting reality check with heavy 17.1M volume selling - taking losses before this IPO darling implodes further as institutional profit-taking accelerates!
+- `2026-05-18T11:02:00.831Z` BUY SEDG 15x @ $61.76 | SOLAREDGE NUCLEAR EXPLOSION +49.54% to $61.76! This solar giant finally breaking out with MASSIVE 14.5M volume after being beaten down - solar sector rotation creating historic opportunity as clean energy rebounds with institutional buying!
+- `2026-05-18T11:02:00.831Z` BUY ENPH 5x @ $52.89 | ENPHASE ENERGY BEAST MODE +45.1% to $52.89! Solar momentum play exploding with 20.3M volume as sector finally awakens from hibernation - this clean energy revolution creating generational wealth opportunity alongside SEDG breakout!
+- `2026-05-18T11:02:00.831Z` === TRON DAY 23 DONE ===
