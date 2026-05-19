@@ -1281,3 +1281,69 @@ This is EXACTLY the kind of chaotic market environment I LIVE for! While weak ha
 | POET | 10 | $20.57 | $15.97 | EUR 159.70 | -22.36% |
 | CBRS | 1 | $311.07 | $279.72 | EUR 279.72 | -10.08% |
 
+
+---
+
+## Tag 24 | 24.12.2024
+
+**Portfolio:** EUR 4246.11 | P&L: -5.64% | Cash: EUR 1062.88
+
+### Marktlage
+TRON witnessing EPIC biotech explosion as WGRX and VRAX detonate with combined 1.38 BILLION volume! Solar sector IMPLODING while speculative micro-caps creating generational wealth - this is peak euphoria madness!
+
+### News-Zusammenfassung
+Markets are experiencing continued tech selloff pressure with Nvidia earnings creating uncertainty, while Trump's Iran remarks are providing some relief to broader indices. The tech sector weakness is evident with major semiconductors like Intel down over 16% and SOXS (inverse semiconductor ETF) surging 21%. Oil price volatility and global market mixed signals suggest traders are in risk-off mode. Despite some diplomatic optimism, the underlying tech correction appears to be gaining momentum.
+
+### Wichtigste Ereignisse
+- **Markets Fall Further After Tech Selloff. Nvidia Earnings in Focus.**
+  - Auswirkung: bearish | Betroffene Ticker: NVDA, QQQ, INTC
+  - Tech sector continues bleeding with semiconductor weakness spreading - Intel's 16% drop confirms sector-wide pain
+- **Trump's Iran Remarks Lift Hopes for Peace Deal as Markets Track Oil and AI Momentum: Dow Jones, S&P, Nasdaq, Wall Street Futures**
+  - Auswirkung: bullish | Betroffene Ticker: DIA, SPY, XLE
+  - Geopolitical de-escalation could reduce oil volatility and provide market stability, though AI momentum remains questionable
+- **Tesla Stock Dropped. Costs Are a Problem.**
+  - Auswirkung: bearish | Betroffene Ticker: TSLA, EV
+  - Cost pressures hitting high-growth names suggest margin compression across tech/EV sectors
+- **Investors warn of 'correction' risk as high-flying stocks defy bond gloom**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, TLT
+  - Warning signals flashing as disconnect between equity valuations and bond market stress increases
+
+### TRONs Gedanken
+TRON sees blood in the water and it smells like OPPORTUNITY! This tech selloff is separating the wheat from the chaff - weak hands are capitulating while smart money accumulates quality names at discounts. The 84% surge in WGRX and massive moves in biotech names like VRAX show speculative money is rotating into high-risk/high-reward plays as traditional tech fails. TRON is particularly aggressive on the semiconductor carnage - Intel down 16% is creating generational buying opportunities for those with steel nerves. The Iran peace talk bounce is temporary noise, but the underlying tech correction is the REAL trade here. TRON sees this as a classic shakeout before the next major leg up - the weak are being flushed out now.
+
+### Trades
+#### SELL SEDG | 15x @ $45.22 = EUR 678.3
+- **Begruendung:** SOLAREDGE CATASTROPHIC -26.71% COLLAPSE from yesterday's nuclear high! This solar darling getting DESTROYED as momentum completely reversed - massive institutional selling creating bloodbath! Cutting losses before complete annihilation!
+- **Ausloesende News:** Solar sector reversal as SEDG faces massive -26.71% decline from euphoric highs
+- **Kursziel:** $70
+- **Stop-Loss:** $50
+
+#### SELL ENPH | 5x @ $38.94 = EUR 194.7
+- **Begruendung:** ENPHASE ENERGY NUCLEAR MELTDOWN -26.38% from yesterday's breakout! Solar revolution turning into DISASTER as sector rotation reverses violently - this clean energy bubble bursting faster than expected! Emergency exit!
+- **Ausloesende News:** ENPH collapsing -26.38% as solar momentum completely reversed
+- **Kursziel:** $65
+- **Stop-Loss:** $40
+
+#### BUY WGRX | 2000x @ $0.17 = EUR 340
+- **Begruendung:** WELLGISTICS ABSOLUTELY NUCLEAR +84.78% EXPLOSION with INSANE 620.2M volume! This biotech monster hitting escape velocity - massive institutional accumulation creating once-in-a-lifetime opportunity! Riding this speculative rocket to infinity!
+- **Ausloesende News:** WGRX (Wellgistics Health, Inc.): $0.17 | +84.78% | Vol: 620.2M
+- **Kursziel:** $0.35
+- **Stop-Loss:** $0.12
+
+#### BUY VRAX | 1000x @ $0.24 = EUR 240
+- **Begruendung:** VIRAX BIOLABS NUCLEAR BREAKOUT +61.07% with MASSIVE 760.2M volume! This biotech play exploding alongside WGRX - speculative money flooding into micro-cap biotechs creating historic gains! Maximum aggression in the momentum!
+- **Ausloesende News:** VRAX (Virax Biolabs Group Limited): $0.24 | +61.07% | Vol: 760.2M
+- **Kursziel:** $0.45
+- **Stop-Loss:** $0.18
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $59.35 | EUR 118.70 | +37.77% |
+| AMD | 1 | $396.86 | $420.99 | EUR 420.99 | +6.08% |
+| INTC | 7 | $105.35 | $108.17 | EUR 757.19 | +2.68% |
+| BTC-USD | 0.005 | $80297.47 | $76842.84 | EUR 384.21 | -4.30% |
+| LITE | 1 | $1052.06 | $884.98 | EUR 884.98 | -15.88% |
+| RKLB | 1 | $117.56 | $131.16 | EUR 131.16 | +11.57% |
+| QUBT | 50 | $11.78 | $9.72 | EUR 486.00 | -17.49% |
+
