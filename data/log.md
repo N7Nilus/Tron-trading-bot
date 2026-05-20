@@ -1532,3 +1532,68 @@
 - `2026-05-19T10:34:54.985Z` BUY WGRX 2000x @ $0.17 | WELLGISTICS ABSOLUTELY NUCLEAR +84.78% EXPLOSION with INSANE 620.2M volume! This biotech monster hitting escape velocity - massive institutional accumulation creating once-in-a-lifetime opportunity! Riding this speculative rocket to infinity!
 - `2026-05-19T10:34:54.985Z` BUY VRAX 1000x @ $0.24 | VIRAX BIOLABS NUCLEAR BREAKOUT +61.07% with MASSIVE 760.2M volume! This biotech play exploding alongside WGRX - speculative money flooding into micro-cap biotechs creating historic gains! Maximum aggression in the momentum!
 - `2026-05-19T10:34:54.985Z` === TRON DAY 24 DONE ===
+- `2026-05-20T10:21:41.922Z` === TRON DAY 25 START ===
+- `2026-05-20T10:21:41.925Z` Lade Marktdaten...
+- `2026-05-20T10:21:42.291Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-20T10:21:42.473Z` Live: WOLF = $58.83 (+9.51%)
+- `2026-05-20T10:21:42.715Z` Live: AMD = $414.05 (-7.64%)
+- `2026-05-20T10:21:43.046Z` Live: INTC = $110.8 (-8.13%)
+- `2026-05-20T10:21:43.288Z` Live: BTC-USD = $77519.03 (-0.78%)
+- `2026-05-20T10:21:43.589Z` Live: LITE = $890.09 (-10.31%)
+- `2026-05-20T10:21:43.896Z` Live: RKLB = $127.31 (+8.29%)
+- `2026-05-20T10:21:44.141Z` Live: QUBT = $9.22 (-21.73%)
+- `2026-05-20T10:21:44.394Z` Live: NVDA = $220.61 (-0.08%)
+- `2026-05-20T10:21:44.688Z` Live: ALAB = $244.26 (+19.49%)
+- `2026-05-20T10:21:45.009Z` Live: MRVL = $176.27 (+7.16%)
+- `2026-05-20T10:21:45.313Z` Live: WNW = $4.75 (+47.98%)
+- `2026-05-20T10:21:45.576Z` Live: CAVA = $78.12 (+1.22%)
+- `2026-05-20T10:21:45.847Z` Live: MWC = $4.72 (-41.73%)
+- `2026-05-20T10:21:46.094Z` Live: ETH-USD = $2130.75 (-2.25%)
+- `2026-05-20T10:21:46.401Z` Live: SLXN = $0.27 (-53.37%)
+- `2026-05-20T10:21:46.656Z` Live: GC=F = $4492.5 (-1.39%)
+- `2026-05-20T10:21:46.927Z` Live: CLSK = $14.69 (+9.06%)
+- `2026-05-20T10:21:47.228Z` Live: XRP-USD = $1.37 (-3.11%)
+- `2026-05-20T10:21:47.472Z` Live: SLS = $7.59 (+45.4%)
+- `2026-05-20T10:21:47.745Z` Live: CODX = $1.97 (+14.53%)
+- `2026-05-20T10:21:48.018Z` Live: CHWY = $19.66 (-14.15%)
+- `2026-05-20T10:21:48.355Z` Live: JPM = $295.7 (-3.01%)
+- `2026-05-20T10:21:48.621Z` Live: INM = $1.6 (+144.27%)
+- `2026-05-20T10:21:48.861Z` Live: VIDA = $2.29 (-42.75%)
+- `2026-05-20T10:21:49.158Z` Live: AMPG = $3.99 (+48.33%)
+- `2026-05-20T10:21:49.426Z` Live: V = $329.91 (+1.07%)
+- `2026-05-20T10:21:49.757Z` Live: TGT = $127.24 (+4.47%)
+- `2026-05-20T10:21:50.051Z` Live: KEYS = $344.11 (-4.85%)
+- `2026-05-20T10:21:50.293Z` Live: KVYO = $14.7 (+1.73%)
+- `2026-05-20T10:21:50.590Z` Live: ADI = $414.31 (-1.27%)
+- `2026-05-20T10:21:50.888Z` Live: AGYS = $78.94 (+14.01%)
+- `2026-05-20T10:21:51.162Z` Live: RXO = $21.13 (+5.39%)
+- `2026-05-20T10:21:51.420Z` Live: CMBT = $16.61 (+9.64%)
+- `2026-05-20T10:21:51.661Z` Live: TENB = $25.25 (+20.18%)
+- `2026-05-20T10:21:51.905Z` Live: MXL = $94.86 (+3.19%)
+- `2026-05-20T10:21:52.147Z` Live: CRDO = $168.99 (-14.9%)
+- `2026-05-20T10:21:52.528Z` Live: MAAS = $10.24 (+12.53%)
+- `2026-05-20T10:21:52.769Z` Live: SHAK = $64.12 (-2.89%)
+- `2026-05-20T10:21:53.038Z` Live: AXTI = $112.88 (-8.15%)
+- `2026-05-20T10:21:53.330Z` Live: HIMX = $19.29 (+0.94%)
+- `2026-05-20T10:21:53.569Z` Live: IPGP = $113.33 (+10.45%)
+- `2026-05-20T10:21:53.849Z` Live: CENX = $58.44 (-7.63%)
+- `2026-05-20T10:21:54.120Z` Live: OPCH = $20.86 (+6.48%)
+- `2026-05-20T10:21:54.393Z` Live: NN = $22.82 (+13.65%)
+- `2026-05-20T10:21:54.666Z` Live: WAY = $19.6 (+1.08%)
+- `2026-05-20T10:21:54.939Z` Live: CORT = $58.22 (+13.8%)
+- `2026-05-20T10:21:55.232Z` Live: SIMO = $252.92 (-2.24%)
+- `2026-05-20T10:21:55.506Z` Live: LQDA = $59.98 (+5.97%)
+- `2026-05-20T10:21:55.776Z` Live: BLBD = $64.65 (-6.75%)
+- `2026-05-20T10:21:56.049Z` Live: WRBY = $25.51 (-5.34%)
+- `2026-05-20T10:21:56.198Z` 50 echte Live-Kurse geladen
+- `2026-05-20T10:21:56.199Z` Lade News...
+- `2026-05-20T10:21:57.329Z` Yahoo News: 20 Headlines geladen
+- `2026-05-20T10:21:58.532Z` TRON analysiert News...
+- `2026-05-20T10:22:15.408Z` News analysiert: Markets are treading water ahead of Nvidia earnings while Iran conflict tensions persist. Asian mark...
+- `2026-05-20T10:22:15.423Z` TRON trifft Handelsentscheidungen...
+- `2026-05-20T10:22:32.182Z` Portfolio: EUR 3999.90 | PnL: -11.10%
+- `2026-05-20T10:22:32.182Z` SELL WGRX 2000x @ $0.085 | WELLGISTICS NUCLEAR COLLAPSE -50% from yesterday's peak! This biotech rocket turning into crater with speculative bubble finally bursting - emergency exit before complete annihilation as momentum dies!
+- `2026-05-20T10:22:32.182Z` SELL VRAX 1000x @ $0.12 | VIRAX BIOLABS CATASTROPHIC MELTDOWN -50% crash from yesterday's euphoric high! Biotech speculation turning toxic as institutional money flees - cutting catastrophic losses before this penny stock implodes to zero!
+- `2026-05-20T10:22:32.182Z` BUY INM 300x @ $1.6 | INMED PHARMACEUTICALS ABSOLUTELY NUCLEAR +144.27% EXPLOSION with INSANE 91.5M volume! This biotech monster hitting escape velocity - someone knows something massive! Riding this pharmaceutical rocket before institutions pile in!
+- `2026-05-20T10:22:32.182Z` BUY AMPG 50x @ $3.99 | AMPLITECH GROUP BEAST MODE +48.33% surge with MASSIVE 14.3M volume! This RF/microwave specialist exploding on defense/5G momentum - technical breakout with institutional accumulation screaming continuation!
+- `2026-05-20T10:22:32.182Z` === TRON DAY 25 DONE ===

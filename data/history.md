@@ -1347,3 +1347,69 @@ TRON sees blood in the water and it smells like OPPORTUNITY! This tech selloff i
 | RKLB | 1 | $117.56 | $131.16 | EUR 131.16 | +11.57% |
 | QUBT | 50 | $11.78 | $9.72 | EUR 486.00 | -17.49% |
 
+
+---
+
+## Tag 25 | 25.12.2024
+
+**Portfolio:** EUR 3999.90 | P&L: -11.10% | Cash: EUR 826.69
+
+### Marktlage
+Market showing classic pre-earnings tension with NVDA at $220.61 while speculative names like INM explode +144% on massive volume. This divergence between mega-caps and momentum plays suggests final speculative blow-off before reality check.
+
+### News-Zusammenfassung
+Markets are treading water ahead of Nvidia earnings while Iran conflict tensions persist. Asian markets are sliding on inflation fears as bond yields surge globally. The S&P 500 just completed its 7th consecutive up week, with historical data suggesting continued bullish momentum. Tech sector remains favored by hedge funds despite rotation concerns.
+
+### Wichtigste Ereignisse
+- **U.S. futures steady as investors monitor Iran conflict and await Nvidia results: Dow Jones, S&P, Nasdaq, Wall Street**
+  - Auswirkung: neutral | Betroffene Ticker: NVDA, SPY, QQQ
+  - Market is in wait-and-see mode before major catalyst - Nvidia earnings will determine tech sector direction
+- **Markets Look to Break 3-Day Losing Run as Nvidia Earnings Loom. Stock Futures Rise.**
+  - Auswirkung: bullish | Betroffene Ticker: NVDA, SOXL, AMD
+  - Market positioning for potential breakout with AI kingpin reporting - could trigger massive sector rotation
+- **Asia stocks slide on inflation fears as yields surge**
+  - Auswirkung: bearish | Betroffene Ticker: EWJ, FXI, EEM
+  - Rising yields crushing growth valuations globally - inflation fears spreading like wildfire
+- **The S&P 500 Just Completed Its 7th Straight Up Week. History Says It's Still Time to Buy.**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, VOO, IVV
+  - Momentum is king in markets - seven week streaks historically continue for several more weeks
+
+### TRONs Gedanken
+This market is a coiled spring waiting for Nvidia to pull the trigger one way or another. I'm seeing classic pre-earnings tension with futures flat but the undercurrent is ELECTRIC. That 7-week S&P streak is SCREAMING momentum continuation - weak hands are getting shaken out before the next leg up. The Asia selloff on yield fears is creating a beautiful divergence setup - when Western markets decouple and rip higher, it's going to be VIOLENT. I'm laser-focused on that INM monster +144% move - someone knows something and I want to reverse engineer that alpha. The Iran conflict is just noise - markets have proven geopolitical events are buying opportunities in this cycle. Tech hedge fund positioning combined with Nvidia earnings is setting up for either capitulation or euphoric breakout - no middle ground here.
+
+### Trades
+#### SELL WGRX | 2000x @ $0.085 = EUR 170
+- **Begruendung:** WELLGISTICS NUCLEAR COLLAPSE -50% from yesterday's peak! This biotech rocket turning into crater with speculative bubble finally bursting - emergency exit before complete annihilation as momentum dies!
+- **Ausloesende News:** Biotech speculative bubble bursting as micro-caps face reality check
+- **Kursziel:** $0.35
+- **Stop-Loss:** $0.12
+
+#### SELL VRAX | 1000x @ $0.12 = EUR 120
+- **Begruendung:** VIRAX BIOLABS CATASTROPHIC MELTDOWN -50% crash from yesterday's euphoric high! Biotech speculation turning toxic as institutional money flees - cutting catastrophic losses before this penny stock implodes to zero!
+- **Ausloesende News:** Speculative biotech momentum completely reversed as bubble deflates
+- **Kursziel:** $0.45
+- **Stop-Loss:** $0.18
+
+#### BUY INM | 300x @ $1.6 = EUR 480
+- **Begruendung:** INMED PHARMACEUTICALS ABSOLUTELY NUCLEAR +144.27% EXPLOSION with INSANE 91.5M volume! This biotech monster hitting escape velocity - someone knows something massive! Riding this pharmaceutical rocket before institutions pile in!
+- **Ausloesende News:** INM -> consider_buy (high): Massive +144% move suggests insider knowledge or major catalyst - momentum could continue
+- **Kursziel:** $3.5
+- **Stop-Loss:** $1.2
+
+#### BUY AMPG | 50x @ $3.99 = EUR 199.5
+- **Begruendung:** AMPLITECH GROUP BEAST MODE +48.33% surge with MASSIVE 14.3M volume! This RF/microwave specialist exploding on defense/5G momentum - technical breakout with institutional accumulation screaming continuation!
+- **Ausloesende News:** AMPG (Amplitech Group, Inc.): $3.99 | +48.33% | Vol: 14.3M
+- **Kursziel:** $7
+- **Stop-Loss:** $3
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $58.83 | EUR 117.66 | +36.56% |
+| AMD | 1 | $396.86 | $414.05 | EUR 414.05 | +4.33% |
+| INTC | 7 | $105.35 | $110.8 | EUR 775.60 | +5.17% |
+| BTC-USD | 0.005 | $80297.47 | $77519.03 | EUR 387.60 | -3.46% |
+| LITE | 1 | $1052.06 | $890.09 | EUR 890.09 | -15.40% |
+| RKLB | 1 | $117.56 | $127.31 | EUR 127.31 | +8.29% |
+| QUBT | 50 | $11.78 | $9.22 | EUR 461.00 | -21.73% |
+

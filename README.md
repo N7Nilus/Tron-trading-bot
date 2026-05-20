@@ -1,74 +1,74 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 19.5.2026, 12:34:54
+> Echte Live-Daten: Yahoo Finance | 20.5.2026, 12:22:32
 
-## Status: Tag 24/30
+## Status: Tag 25/30
 | | |
 |---|---|
-| Portfolio | EUR 4246.11 |
-| P&L | -5.64% |
-| Cash | EUR 1062.88 |
+| Portfolio | EUR 3999.90 |
+| P&L | -11.10% |
+| Cash | EUR 826.69 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXXXXXXXXXXXXXX---] EUR 5000  (83.2%)
+EUR 500 [XXXXXXXXXXXXXXXX----] EUR 5000  (77.8%)
 ```
 
 ## News-Zusammenfassung
-Markets are experiencing continued tech selloff pressure with Nvidia earnings creating uncertainty, while Trump's Iran remarks are providing some relief to broader indices. The tech sector weakness is evident with major semiconductors like Intel down over 16% and SOXS (inverse semiconductor ETF) surging 21%. Oil price volatility and global market mixed signals suggest traders are in risk-off mode. Despite some diplomatic optimism, the underlying tech correction appears to be gaining momentum.
+Markets are treading water ahead of Nvidia earnings while Iran conflict tensions persist. Asian markets are sliding on inflation fears as bond yields surge globally. The S&P 500 just completed its 7th consecutive up week, with historical data suggesting continued bullish momentum. Tech sector remains favored by hedge funds despite rotation concerns.
 
 ## TRONs Gedanken
-TRON sees blood in the water and it smells like OPPORTUNITY! This tech selloff is separating the wheat from the chaff - weak hands are capitulating while smart money accumulates quality names at discounts. The 84% surge in WGRX and massive moves in biotech names like VRAX show speculative money is rotating into high-risk/high-reward plays as traditional tech fails. TRON is particularly aggressive on the semiconductor carnage - Intel down 16% is creating generational buying opportunities for those with steel nerves. The Iran peace talk bounce is temporary noise, but the underlying tech correction is the REAL trade here. TRON sees this as a classic shakeout before the next major leg up - the weak are being flushed out now.
+This market is a coiled spring waiting for Nvidia to pull the trigger one way or another. I'm seeing classic pre-earnings tension with futures flat but the undercurrent is ELECTRIC. That 7-week S&P streak is SCREAMING momentum continuation - weak hands are getting shaken out before the next leg up. The Asia selloff on yield fears is creating a beautiful divergence setup - when Western markets decouple and rip higher, it's going to be VIOLENT. I'm laser-focused on that INM monster +144% move - someone knows something and I want to reverse engineer that alpha. The Iran conflict is just noise - markets have proven geopolitical events are buying opportunities in this cycle. Tech hedge fund positioning combined with Nvidia earnings is setting up for either capitulation or euphoric breakout - no middle ground here.
 
 ## Heutige Trades
-### SELL SEDG
-- Menge: 15x @ $45.22 = EUR 678.3
-- Begruendung: SOLAREDGE CATASTROPHIC -26.71% COLLAPSE from yesterday's nuclear high! This solar darling getting DESTROYED as momentum completely reversed - massive institutional selling creating bloodbath! Cutting losses before complete annihilation!
-- News: Solar sector reversal as SEDG faces massive -26.71% decline from euphoric highs
-- Kursziel: $70 | Stop-Loss: $50
-
-### SELL ENPH
-- Menge: 5x @ $38.94 = EUR 194.7
-- Begruendung: ENPHASE ENERGY NUCLEAR MELTDOWN -26.38% from yesterday's breakout! Solar revolution turning into DISASTER as sector rotation reverses violently - this clean energy bubble bursting faster than expected! Emergency exit!
-- News: ENPH collapsing -26.38% as solar momentum completely reversed
-- Kursziel: $65 | Stop-Loss: $40
-
-### BUY WGRX
-- Menge: 2000x @ $0.17 = EUR 340
-- Begruendung: WELLGISTICS ABSOLUTELY NUCLEAR +84.78% EXPLOSION with INSANE 620.2M volume! This biotech monster hitting escape velocity - massive institutional accumulation creating once-in-a-lifetime opportunity! Riding this speculative rocket to infinity!
-- News: WGRX (Wellgistics Health, Inc.): $0.17 | +84.78% | Vol: 620.2M
+### SELL WGRX
+- Menge: 2000x @ $0.085 = EUR 170
+- Begruendung: WELLGISTICS NUCLEAR COLLAPSE -50% from yesterday's peak! This biotech rocket turning into crater with speculative bubble finally bursting - emergency exit before complete annihilation as momentum dies!
+- News: Biotech speculative bubble bursting as micro-caps face reality check
 - Kursziel: $0.35 | Stop-Loss: $0.12
 
-### BUY VRAX
-- Menge: 1000x @ $0.24 = EUR 240
-- Begruendung: VIRAX BIOLABS NUCLEAR BREAKOUT +61.07% with MASSIVE 760.2M volume! This biotech play exploding alongside WGRX - speculative money flooding into micro-cap biotechs creating historic gains! Maximum aggression in the momentum!
-- News: VRAX (Virax Biolabs Group Limited): $0.24 | +61.07% | Vol: 760.2M
+### SELL VRAX
+- Menge: 1000x @ $0.12 = EUR 120
+- Begruendung: VIRAX BIOLABS CATASTROPHIC MELTDOWN -50% crash from yesterday's euphoric high! Biotech speculation turning toxic as institutional money flees - cutting catastrophic losses before this penny stock implodes to zero!
+- News: Speculative biotech momentum completely reversed as bubble deflates
 - Kursziel: $0.45 | Stop-Loss: $0.18
+
+### BUY INM
+- Menge: 300x @ $1.6 = EUR 480
+- Begruendung: INMED PHARMACEUTICALS ABSOLUTELY NUCLEAR +144.27% EXPLOSION with INSANE 91.5M volume! This biotech monster hitting escape velocity - someone knows something massive! Riding this pharmaceutical rocket before institutions pile in!
+- News: INM -> consider_buy (high): Massive +144% move suggests insider knowledge or major catalyst - momentum could continue
+- Kursziel: $3.5 | Stop-Loss: $1.2
+
+### BUY AMPG
+- Menge: 50x @ $3.99 = EUR 199.5
+- Begruendung: AMPLITECH GROUP BEAST MODE +48.33% surge with MASSIVE 14.3M volume! This RF/microwave specialist exploding on defense/5G momentum - technical breakout with institutional accumulation screaming continuation!
+- News: AMPG (Amplitech Group, Inc.): $3.99 | +48.33% | Vol: 14.3M
+- Kursziel: $7 | Stop-Loss: $3
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $59.35 | EUR 118.70 | +37.77% |
-| AMD | 1 | $396.86 | $420.99 | EUR 420.99 | +6.08% |
-| INTC | 7 | $105.35 | $108.17 | EUR 757.19 | +2.68% |
-| BTC-USD | 0.005 | $80297.47 | $76842.84 | EUR 384.21 | -4.30% |
-| LITE | 1 | $1052.06 | $884.98 | EUR 884.98 | -15.88% |
-| RKLB | 1 | $117.56 | $131.16 | EUR 131.16 | +11.57% |
-| QUBT | 50 | $11.78 | $9.72 | EUR 486.00 | -17.49% |
+| WOLF | 2 | $43.08 | $58.83 | EUR 117.66 | +36.56% |
+| AMD | 1 | $396.86 | $414.05 | EUR 414.05 | +4.33% |
+| INTC | 7 | $105.35 | $110.8 | EUR 775.60 | +5.17% |
+| BTC-USD | 0.005 | $80297.47 | $77519.03 | EUR 387.60 | -3.46% |
+| LITE | 1 | $1052.06 | $890.09 | EUR 890.09 | -15.40% |
+| RKLB | 1 | $117.56 | $127.31 | EUR 127.31 | +8.29% |
+| QUBT | 50 | $11.78 | $9.22 | EUR 461.00 | -21.73% |
 
 ## Top Gewinner
-- WGRX +84.78% @ $0.17
-- VRAX +61.07% @ $0.24
-- RAMP +28.69% @ $37.77
-- VOYG +24.53% @ $38.38
-- SOXS +21.34% @ $9.95
+- INM +144.27% @ $1.6
+- AMPG +48.33% @ $3.99
+- WNW +47.98% @ $4.75
+- SLS +45.4% @ $7.59
+- TENB +20.18% @ $25.25
 
 ## Top Verlierer
-- HAO -55.56% @ $0.02
-- SBFM -50.49% @ $0.51
-- WNW -24.69% @ $2.41
-- INTC -16.43% @ $108.17
-- LITE -15.96% @ $884.98
+- SLXN -53.37% @ $0.27
+- VIDA -42.75% @ $2.29
+- MWC -41.73% @ $4.72
+- QUBT -21.73% @ $9.22
+- CRDO -14.9% @ $168.99
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -97,6 +97,7 @@ TRON sees blood in the water and it smells like OPPORTUNITY! This tech selloff i
 | 22 | 22.01.2025 | EUR 5574.16 | +914.83% |
 | 23 | 23.12.2024 | EUR 5287.53 | +5.75% |
 | 24 | 24.12.2024 | EUR 4246.11 | -5.64% |
+| 25 | 25.12.2024 | EUR 3999.90 | -11.10% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
