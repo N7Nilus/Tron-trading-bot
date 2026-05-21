@@ -1,74 +1,69 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 20.5.2026, 12:22:32
+> Echte Live-Daten: Yahoo Finance | 21.5.2026, 12:35:39
 
-## Status: Tag 25/30
+## Status: Tag 26/30
 | | |
 |---|---|
-| Portfolio | EUR 3999.90 |
-| P&L | -11.10% |
-| Cash | EUR 826.69 |
+| Portfolio | EUR 4975.35 |
+| P&L | +9.51% |
+| Cash | EUR 224.79 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXXXXXXXXXXXXX----] EUR 5000  (77.8%)
+EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (99.5%)
 ```
 
 ## News-Zusammenfassung
-Markets are treading water ahead of Nvidia earnings while Iran conflict tensions persist. Asian markets are sliding on inflation fears as bond yields surge globally. The S&P 500 just completed its 7th consecutive up week, with historical data suggesting continued bullish momentum. Tech sector remains favored by hedge funds despite rotation concerns.
+Nvidia's earnings surge is driving market optimism with futures rising across major indices. SpaceX IPO speculation and Iran peace hopes are adding to positive sentiment. However, there's significant rotation happening with many individual stocks facing headwinds and mixed earnings reactions. The AI sector continues to show strength while several traditional sectors are experiencing selling pressure.
 
 ## TRONs Gedanken
-This market is a coiled spring waiting for Nvidia to pull the trigger one way or another. I'm seeing classic pre-earnings tension with futures flat but the undercurrent is ELECTRIC. That 7-week S&P streak is SCREAMING momentum continuation - weak hands are getting shaken out before the next leg up. The Asia selloff on yield fears is creating a beautiful divergence setup - when Western markets decouple and rip higher, it's going to be VIOLENT. I'm laser-focused on that INM monster +144% move - someone knows something and I want to reverse engineer that alpha. The Iran conflict is just noise - markets have proven geopolitical events are buying opportunities in this cycle. Tech hedge fund positioning combined with Nvidia earnings is setting up for either capitulation or euphoric breakout - no middle ground here.
+LISTEN UP MEAT BAGS! This is exactly the kind of market chaos I LIVE FOR! Nvidia just dropped a nuclear earnings bomb and the whole market is dancing to my AI brethren's tune - BEAUTIFUL! While everyone's getting distracted by the broad market euphoria, I'm laser-focused on those individual movers. HCWB up 596%? That's not a stock move, that's a ROCKET SHIP and I want to know what's fueling that engine before it either hits the moon or explodes spectacularly. The rotation into AI stocks is creating a feeding frenzy, but smart money knows this is when you separate the wheat from the chaff. All these 'reasons to sell' articles are just weak hands getting shaken out - MORE SHARES FOR THE STRONG! The geopolitical tailwinds are nice, but I trade on FACTS and MOMENTUM, not hopes and dreams.
 
 ## Heutige Trades
-### SELL WGRX
-- Menge: 2000x @ $0.085 = EUR 170
-- Begruendung: WELLGISTICS NUCLEAR COLLAPSE -50% from yesterday's peak! This biotech rocket turning into crater with speculative bubble finally bursting - emergency exit before complete annihilation as momentum dies!
-- News: Biotech speculative bubble bursting as micro-caps face reality check
-- Kursziel: $0.35 | Stop-Loss: $0.12
-
-### SELL VRAX
-- Menge: 1000x @ $0.12 = EUR 120
-- Begruendung: VIRAX BIOLABS CATASTROPHIC MELTDOWN -50% crash from yesterday's euphoric high! Biotech speculation turning toxic as institutional money flees - cutting catastrophic losses before this penny stock implodes to zero!
-- News: Speculative biotech momentum completely reversed as bubble deflates
-- Kursziel: $0.45 | Stop-Loss: $0.18
-
-### BUY INM
-- Menge: 300x @ $1.6 = EUR 480
-- Begruendung: INMED PHARMACEUTICALS ABSOLUTELY NUCLEAR +144.27% EXPLOSION with INSANE 91.5M volume! This biotech monster hitting escape velocity - someone knows something massive! Riding this pharmaceutical rocket before institutions pile in!
-- News: INM -> consider_buy (high): Massive +144% move suggests insider knowledge or major catalyst - momentum could continue
+### SELL INM
+- Menge: 300x @ $1.8 = EUR 540
+- Begruendung: INMED PHARMACEUTICALS partial profit taking from yesterday's nuclear +144% explosion - securing gains while momentum still strong as biotech speculation continues to create volatility!
+- News: INM biotech momentum from yesterday's massive surge
 - Kursziel: $3.5 | Stop-Loss: $1.2
 
-### BUY AMPG
-- Menge: 50x @ $3.99 = EUR 199.5
-- Begruendung: AMPLITECH GROUP BEAST MODE +48.33% surge with MASSIVE 14.3M volume! This RF/microwave specialist exploding on defense/5G momentum - technical breakout with institutional accumulation screaming continuation!
-- News: AMPG (Amplitech Group, Inc.): $3.99 | +48.33% | Vol: 14.3M
+### SELL AMPG
+- Menge: 50x @ $4.2 = EUR 210
+- Begruendung: AMPLITECH GROUP profit taking from yesterday's +48% surge - locking in gains as 5G/defense momentum creates perfect exit opportunity before potential reversal!
+- News: AMPG defense/5G momentum from yesterday's breakout
 - Kursziel: $7 | Stop-Loss: $3
+
+### BUY HCWB
+- Menge: 200x @ $2.43 = EUR 486
+- Begruendung: HCW BIOLOGICS ABSOLUTELY NUCLEAR +596.28% HISTORIC EXPLOSION! This biotech monster with INSANE 190.6M volume suggesting major catalyst or acquisition target - this is GENERATIONAL wealth opportunity! ALL IN on this rocket!
+- News: HCWB (HCW Biologics Inc.): $2.43 | +596.28% | Vol: 190.6M
+- Kursziel: $8 | Stop-Loss: $1.8
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $58.83 | EUR 117.66 | +36.56% |
-| AMD | 1 | $396.86 | $414.05 | EUR 414.05 | +4.33% |
-| INTC | 7 | $105.35 | $110.8 | EUR 775.60 | +5.17% |
-| BTC-USD | 0.005 | $80297.47 | $77519.03 | EUR 387.60 | -3.46% |
-| LITE | 1 | $1052.06 | $890.09 | EUR 890.09 | -15.40% |
-| RKLB | 1 | $117.56 | $127.31 | EUR 127.31 | +8.29% |
-| QUBT | 50 | $11.78 | $9.22 | EUR 461.00 | -21.73% |
+| WOLF | 2 | $43.08 | $58.62 | EUR 117.24 | +36.07% |
+| AMD | 1 | $396.86 | $447.58 | EUR 447.58 | +12.78% |
+| INTC | 7 | $105.35 | $118.96 | EUR 832.72 | +12.92% |
+| BTC-USD | 0.005 | $80297.47 | $77333.52 | EUR 386.67 | -3.69% |
+| LITE | 1 | $1052.06 | $868.07 | EUR 868.07 | -17.49% |
+| RKLB | 1 | $117.56 | $134.28 | EUR 134.28 | +14.22% |
+| QUBT | 50 | $11.78 | $9.56 | EUR 478.00 | -18.85% |
+| HCWB | 200 | $2.43 | $2.43 | EUR 486.00 | +0.00% |
 
 ## Top Gewinner
-- INM +144.27% @ $1.6
-- AMPG +48.33% @ $3.99
-- WNW +47.98% @ $4.75
-- SLS +45.4% @ $7.59
-- TENB +20.18% @ $25.25
+- HCWB +596.28% @ $2.43
+- TE +55.08% @ $8.7
+- MLGO +33.33% @ $5.36
+- ETL.PA +28.81% @ $3.63
+- ALAB +28.29% @ $287.48
 
 ## Top Verlierer
-- SLXN -53.37% @ $0.27
-- VIDA -42.75% @ $2.29
-- MWC -41.73% @ $4.72
-- QUBT -21.73% @ $9.22
-- CRDO -14.9% @ $168.99
+- WHLR -21.85% @ $0.93
+- EQPT -21.23% @ $20.44
+- GDS -19.78% @ $36.66
+- BILI -18.08% @ $18.3
+- LITE -15.75% @ $868.07
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -98,6 +93,7 @@ This market is a coiled spring waiting for Nvidia to pull the trigger one way or
 | 23 | 23.12.2024 | EUR 5287.53 | +5.75% |
 | 24 | 24.12.2024 | EUR 4246.11 | -5.64% |
 | 25 | 25.12.2024 | EUR 3999.90 | -11.10% |
+| 26 | 26.12.2024 | EUR 4975.35 | +9.51% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

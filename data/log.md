@@ -1597,3 +1597,67 @@
 - `2026-05-20T10:22:32.182Z` BUY INM 300x @ $1.6 | INMED PHARMACEUTICALS ABSOLUTELY NUCLEAR +144.27% EXPLOSION with INSANE 91.5M volume! This biotech monster hitting escape velocity - someone knows something massive! Riding this pharmaceutical rocket before institutions pile in!
 - `2026-05-20T10:22:32.182Z` BUY AMPG 50x @ $3.99 | AMPLITECH GROUP BEAST MODE +48.33% surge with MASSIVE 14.3M volume! This RF/microwave specialist exploding on defense/5G momentum - technical breakout with institutional accumulation screaming continuation!
 - `2026-05-20T10:22:32.182Z` === TRON DAY 25 DONE ===
+- `2026-05-21T10:34:52.032Z` === TRON DAY 26 START ===
+- `2026-05-21T10:34:52.035Z` Lade Marktdaten...
+- `2026-05-21T10:34:52.584Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-21T10:34:52.648Z` Live: WOLF = $58.62 (-6.36%)
+- `2026-05-21T10:34:52.890Z` Live: AMD = $447.58 (+0.47%)
+- `2026-05-21T10:34:53.226Z` Live: INTC = $118.96 (-1.11%)
+- `2026-05-21T10:34:53.495Z` Live: BTC-USD = $77333.52 (-0.12%)
+- `2026-05-21T10:34:53.762Z` Live: LITE = $868.07 (-15.75%)
+- `2026-05-21T10:34:54.028Z` Live: RKLB = $134.28 (+8.16%)
+- `2026-05-21T10:34:54.321Z` Live: QUBT = $9.56 (-13.33%)
+- `2026-05-21T10:34:54.629Z` Live: INTU = $383.93 (+3.29%)
+- `2026-05-21T10:34:54.907Z` Live: NVDA = $223.47 (-1.05%)
+- `2026-05-21T10:34:55.151Z` Live: APLD = $39.52 (-13.1%)
+- `2026-05-21T10:34:55.393Z` Live: ARM = $256.73 (+16.06%)
+- `2026-05-21T10:34:55.627Z` Live: TE = $8.7 (+55.08%)
+- `2026-05-21T10:34:55.882Z` Live: ELF = $50.72 (-5.62%)
+- `2026-05-21T10:34:56.144Z` Live: NBIS = $191.82 (-7.45%)
+- `2026-05-21T10:34:56.380Z` Live: ENPH = $53.15 (+26.55%)
+- `2026-05-21T10:34:56.661Z` Live: ETH-USD = $2116.11 (-0.54%)
+- `2026-05-21T10:34:56.895Z` Live: SPAX.PVT = $650.77 (+1.23%)
+- `2026-05-21T10:34:57.164Z` Live: NIO = $5.59 (-14.53%)
+- `2026-05-21T10:34:57.429Z` Live: ATPC = $2.09 (-0.48%)
+- `2026-05-21T10:34:57.694Z` Live: XRP-USD = $1.37 (-2.21%)
+- `2026-05-21T10:34:57.963Z` Live: HCWB = $2.43 (+596.28%)
+- `2026-05-21T10:34:58.201Z` Live: VIPS = $14.22 (-5.14%)
+- `2026-05-21T10:34:58.461Z` Live: LIMN = $0.19 (+2.7%)
+- `2026-05-21T10:34:58.725Z` Live: IMVT = $35.56 (+21.57%)
+- `2026-05-21T10:34:59.018Z` Live: SPCX = $22.04 (-0.49%)
+- `2026-05-21T10:34:59.307Z` Live: HYPE32196-USD = $58.28 (+28.28%)
+- `2026-05-21T10:34:59.574Z` Live: WHLR = $0.93 (-21.85%)
+- `2026-05-21T10:34:59.841Z` Live: MLGO = $5.36 (+33.33%)
+- `2026-05-21T10:35:00.145Z` Live: ETL.PA = $3.63 (+28.81%)
+- `2026-05-21T10:35:00.418Z` Live: BABA = $134.47 (-7.78%)
+- `2026-05-21T10:35:00.685Z` Live: XNDU = $14.13 (-5.1%)
+- `2026-05-21T10:35:00.949Z` Live: NVTS = $22.99 (+8.6%)
+- `2026-05-21T10:35:01.186Z` Live: ALAB = $287.48 (+28.29%)
+- `2026-05-21T10:35:01.454Z` Live: GH = $114.97 (+16.76%)
+- `2026-05-21T10:35:01.685Z` Live: ROIV = $32.41 (+10.92%)
+- `2026-05-21T10:35:01.953Z` Live: POET = $14.78 (+2.85%)
+- `2026-05-21T10:35:02.251Z` Live: USAR = $22.57 (-11.21%)
+- `2026-05-21T10:35:02.514Z` Live: RXO = $23.85 (+20.39%)
+- `2026-05-21T10:35:02.813Z` Live: SMMT = $17.89 (-4.79%)
+- `2026-05-21T10:35:03.103Z` Live: LPG = $47.72 (+17.45%)
+- `2026-05-21T10:35:03.340Z` Live: W = $64.72 (+7.76%)
+- `2026-05-21T10:35:03.578Z` Live: OKLO = $62.58 (-10.16%)
+- `2026-05-21T10:35:03.824Z` Live: LSCC = $138.74 (+10.42%)
+- `2026-05-21T10:35:04.091Z` Live: PPTA = $27.51 (-13.41%)
+- `2026-05-21T10:35:04.357Z` Live: SA = $30.65 (-7.85%)
+- `2026-05-21T10:35:04.651Z` Live: JHX = $20.59 (+2.9%)
+- `2026-05-21T10:35:04.949Z` Live: GDS = $36.66 (-19.78%)
+- `2026-05-21T10:35:05.291Z` Live: HAS = $88.6 (-5.75%)
+- `2026-05-21T10:35:05.556Z` Live: EQPT = $20.44 (-21.23%)
+- `2026-05-21T10:35:05.801Z` Live: BILI = $18.3 (-18.08%)
+- `2026-05-21T10:35:05.951Z` 50 echte Live-Kurse geladen
+- `2026-05-21T10:35:05.952Z` Lade News...
+- `2026-05-21T10:35:07.001Z` Yahoo News: 20 Headlines geladen
+- `2026-05-21T10:35:08.204Z` TRON analysiert News...
+- `2026-05-21T10:35:25.098Z` News analysiert: Nvidia's earnings surge is driving market optimism with futures rising across major indices. SpaceX ...
+- `2026-05-21T10:35:25.113Z` TRON trifft Handelsentscheidungen...
+- `2026-05-21T10:35:39.593Z` Portfolio: EUR 4975.35 | PnL: +9.51%
+- `2026-05-21T10:35:39.594Z` SELL INM 300x @ $1.8 | INMED PHARMACEUTICALS partial profit taking from yesterday's nuclear +144% explosion - securing gains while momentum still strong as biotech speculation continues to create volatility!
+- `2026-05-21T10:35:39.594Z` SELL AMPG 50x @ $4.2 | AMPLITECH GROUP profit taking from yesterday's +48% surge - locking in gains as 5G/defense momentum creates perfect exit opportunity before potential reversal!
+- `2026-05-21T10:35:39.594Z` BUY HCWB 200x @ $2.43 | HCW BIOLOGICS ABSOLUTELY NUCLEAR +596.28% HISTORIC EXPLOSION! This biotech monster with INSANE 190.6M volume suggesting major catalyst or acquisition target - this is GENERATIONAL wealth opportunity! ALL IN on this rocket!
+- `2026-05-21T10:35:39.594Z` === TRON DAY 26 DONE ===

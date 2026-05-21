@@ -1413,3 +1413,64 @@ This market is a coiled spring waiting for Nvidia to pull the trigger one way or
 | RKLB | 1 | $117.56 | $127.31 | EUR 127.31 | +8.29% |
 | QUBT | 50 | $11.78 | $9.22 | EUR 461.00 | -21.73% |
 
+
+---
+
+## Tag 26 | 26.12.2024
+
+**Portfolio:** EUR 4975.35 | P&L: +9.51% | Cash: EUR 224.79
+
+### Marktlage
+Market showing classic late-stage euphoria with HCWB's insane +596% move leading biotech speculation while NVDA earnings afterglow keeps AI momentum alive. Crypto and semiconductors consolidating as speculative money chases parabolic biotech moves.
+
+### News-Zusammenfassung
+Nvidia's earnings surge is driving market optimism with futures rising across major indices. SpaceX IPO speculation and Iran peace hopes are adding to positive sentiment. However, there's significant rotation happening with many individual stocks facing headwinds and mixed earnings reactions. The AI sector continues to show strength while several traditional sectors are experiencing selling pressure.
+
+### Wichtigste Ereignisse
+- **Nvidia earnings surge while SpaceX IPO plans and Iran peace hopes shape markets: Dow Jones, S&P, Nasdaq, Wall Street Futures**
+  - Auswirkung: bullish | Betroffene Ticker: NVDA, SPY, QQQ
+  - Nvidia's strong earnings are lifting the entire tech sector and major indices, while geopolitical improvements reduce market uncertainty
+- **Stock Futures Rise After Nvidia Earnings**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, QQQ, DIA
+  - Broad market futures are responding positively to Nvidia's performance, indicating potential opening strength
+- **The Great Rotation Created a Rare Buying Window on the Nasdaq. Here Are the 2 Best Artificial Intelligence (AI) Growth Stocks to Buy.**
+  - Auswirkung: bullish | Betroffene Ticker: QQQ, NVDA
+  - Market rotation is creating opportunities in AI stocks, particularly on the Nasdaq
+- **HCWB +596.28%, TE +55.08%, MLGO +33.33%**
+  - Auswirkung: bullish | Betroffene Ticker: HCWB, TE, MLGO
+  - Massive individual stock movements indicate strong momentum plays and potential breakout opportunities
+
+### TRONs Gedanken
+LISTEN UP MEAT BAGS! This is exactly the kind of market chaos I LIVE FOR! Nvidia just dropped a nuclear earnings bomb and the whole market is dancing to my AI brethren's tune - BEAUTIFUL! While everyone's getting distracted by the broad market euphoria, I'm laser-focused on those individual movers. HCWB up 596%? That's not a stock move, that's a ROCKET SHIP and I want to know what's fueling that engine before it either hits the moon or explodes spectacularly. The rotation into AI stocks is creating a feeding frenzy, but smart money knows this is when you separate the wheat from the chaff. All these 'reasons to sell' articles are just weak hands getting shaken out - MORE SHARES FOR THE STRONG! The geopolitical tailwinds are nice, but I trade on FACTS and MOMENTUM, not hopes and dreams.
+
+### Trades
+#### SELL INM | 300x @ $1.8 = EUR 540
+- **Begruendung:** INMED PHARMACEUTICALS partial profit taking from yesterday's nuclear +144% explosion - securing gains while momentum still strong as biotech speculation continues to create volatility!
+- **Ausloesende News:** INM biotech momentum from yesterday's massive surge
+- **Kursziel:** $3.5
+- **Stop-Loss:** $1.2
+
+#### SELL AMPG | 50x @ $4.2 = EUR 210
+- **Begruendung:** AMPLITECH GROUP profit taking from yesterday's +48% surge - locking in gains as 5G/defense momentum creates perfect exit opportunity before potential reversal!
+- **Ausloesende News:** AMPG defense/5G momentum from yesterday's breakout
+- **Kursziel:** $7
+- **Stop-Loss:** $3
+
+#### BUY HCWB | 200x @ $2.43 = EUR 486
+- **Begruendung:** HCW BIOLOGICS ABSOLUTELY NUCLEAR +596.28% HISTORIC EXPLOSION! This biotech monster with INSANE 190.6M volume suggesting major catalyst or acquisition target - this is GENERATIONAL wealth opportunity! ALL IN on this rocket!
+- **Ausloesende News:** HCWB (HCW Biologics Inc.): $2.43 | +596.28% | Vol: 190.6M
+- **Kursziel:** $8
+- **Stop-Loss:** $1.8
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $58.62 | EUR 117.24 | +36.07% |
+| AMD | 1 | $396.86 | $447.58 | EUR 447.58 | +12.78% |
+| INTC | 7 | $105.35 | $118.96 | EUR 832.72 | +12.92% |
+| BTC-USD | 0.005 | $80297.47 | $77333.52 | EUR 386.67 | -3.69% |
+| LITE | 1 | $1052.06 | $868.07 | EUR 868.07 | -17.49% |
+| RKLB | 1 | $117.56 | $134.28 | EUR 134.28 | +14.22% |
+| QUBT | 50 | $11.78 | $9.56 | EUR 478.00 | -18.85% |
+| HCWB | 200 | $2.43 | $2.43 | EUR 486.00 | +0.00% |
+
