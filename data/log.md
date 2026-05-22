@@ -1661,3 +1661,65 @@
 - `2026-05-21T10:35:39.594Z` SELL AMPG 50x @ $4.2 | AMPLITECH GROUP profit taking from yesterday's +48% surge - locking in gains as 5G/defense momentum creates perfect exit opportunity before potential reversal!
 - `2026-05-21T10:35:39.594Z` BUY HCWB 200x @ $2.43 | HCW BIOLOGICS ABSOLUTELY NUCLEAR +596.28% HISTORIC EXPLOSION! This biotech monster with INSANE 190.6M volume suggesting major catalyst or acquisition target - this is GENERATIONAL wealth opportunity! ALL IN on this rocket!
 - `2026-05-21T10:35:39.594Z` === TRON DAY 26 DONE ===
+- `2026-05-22T10:20:02.272Z` === TRON DAY 27 START ===
+- `2026-05-22T10:20:02.274Z` Lade Marktdaten...
+- `2026-05-22T10:20:02.596Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-22T10:20:02.633Z` Live: WOLF = $69.5 (-0.66%)
+- `2026-05-22T10:20:02.821Z` Live: AMD = $449.59 (-0.02%)
+- `2026-05-22T10:20:03.045Z` Live: INTC = $118.5 (+2.22%)
+- `2026-05-22T10:20:03.288Z` Live: BTC-USD = $77178.02 (+0.29%)
+- `2026-05-22T10:20:03.475Z` Live: LITE = $964.5 (-3.72%)
+- `2026-05-22T10:20:03.663Z` Live: RKLB = $125.45 (-5.36%)
+- `2026-05-22T10:20:03.852Z` Live: QUBT = $11.41 (-2.73%)
+- `2026-05-22T10:20:04.040Z` Live: HCWB = $2.58 (+665.58%)
+- `2026-05-22T10:20:04.231Z` Live: QBTS = $25.74 (+16.31%)
+- `2026-05-22T10:20:04.421Z` Live: RGTI = $22.04 (+14.37%)
+- `2026-05-22T10:20:04.700Z` Live: IBM = $252.97 (+15.84%)
+- `2026-05-22T10:20:04.889Z` Live: INFQ = $14.7 (+5.23%)
+- `2026-05-22T10:20:05.079Z` Live: FUTU = $123.86 (-12.47%)
+- `2026-05-22T10:20:05.268Z` Live: IONQ = $58.89 (+2.47%)
+- `2026-05-22T10:20:05.457Z` Live: GFS = $81.35 (+10.17%)
+- `2026-05-22T10:20:05.646Z` Live: WDAY = $121.85 (+2.61%)
+- `2026-05-22T10:20:05.835Z` Live: TIGR = $5.84 (-9.88%)
+- `2026-05-22T10:20:06.023Z` Live: ASST = $18.53 (+4.63%)
+- `2026-05-22T10:20:06.211Z` Live: SPOT = $489.93 (+13.27%)
+- `2026-05-22T10:20:06.398Z` Live: PLUG = $3.78 (-0.26%)
+- `2026-05-22T10:20:06.587Z` Live: PDD = $97.79 (+2.31%)
+- `2026-05-22T10:20:06.780Z` Live: ZM = $96.75 (-1.51%)
+- `2026-05-22T10:20:06.969Z` Live: TTWO = $238.08 (-1.79%)
+- `2026-05-22T10:20:07.161Z` Live: ETH-USD = $2119.41 (-0.43%)
+- `2026-05-22T10:20:07.350Z` Live: XRP-USD = $1.36 (-2.1%)
+- `2026-05-22T10:20:07.553Z` Live: IBKR = $83.83 (-5.04%)
+- `2026-05-22T10:20:07.743Z` Live: PCLA = $2.25 (+46.1%)
+- `2026-05-22T10:20:07.938Z` Live: BABA = $131.47 (-6.84%)
+- `2026-05-22T10:20:08.202Z` Live: WMT = $121.34 (-8.39%)
+- `2026-05-22T10:20:08.430Z` Live: EL = $78.91 (-2.38%)
+- `2026-05-22T10:20:08.619Z` Live: APLD = $48.02 (+2.8%)
+- `2026-05-22T10:20:08.808Z` Live: BIRK = $39.67 (+16.23%)
+- `2026-05-22T10:20:09.045Z` Live: ENPH = $62.34 (+29.85%)
+- `2026-05-22T10:20:09.240Z` Live: ARM = $298.23 (+30.52%)
+- `2026-05-22T10:20:09.444Z` Live: AXTI = $121.02 (+5.25%)
+- `2026-05-22T10:20:09.632Z` Live: EOSE = $8.17 (+0%)
+- `2026-05-22T10:20:09.820Z` Live: NBIS = $219.93 (-0.55%)
+- `2026-05-22T10:20:10.036Z` Live: AAP = $58.62 (+17.92%)
+- `2026-05-22T10:20:10.251Z` Live: RL = $374.9 (+12.23%)
+- `2026-05-22T10:20:10.437Z` Live: BTDR = $14.92 (+1.15%)
+- `2026-05-22T10:20:10.628Z` Live: SEDG = $63 (+25.4%)
+- `2026-05-22T10:20:10.879Z` Live: INTU = $307.07 (-18.83%)
+- `2026-05-22T10:20:11.067Z` Live: SATS = $128.44 (-4.94%)
+- `2026-05-22T10:20:11.259Z` Live: NN = $21.38 (-3.61%)
+- `2026-05-22T10:20:11.447Z` Live: VAL = $101.48 (-1.73%)
+- `2026-05-22T10:20:11.665Z` Live: RIG = $6.82 (-1.3%)
+- `2026-05-22T10:20:11.854Z` Live: NBTX = $40.18 (-27.04%)
+- `2026-05-22T10:20:12.097Z` Live: BEKE = $16.89 (-10.45%)
+- `2026-05-22T10:20:12.299Z` Live: PBF = $39.07 (-3.89%)
+- `2026-05-22T10:20:12.491Z` Live: PRM = $31.4 (-7.65%)
+- `2026-05-22T10:20:12.641Z` 50 echte Live-Kurse geladen
+- `2026-05-22T10:20:12.641Z` Lade News...
+- `2026-05-22T10:20:13.787Z` Yahoo News: 20 Headlines geladen
+- `2026-05-22T10:20:14.990Z` TRON analysiert News...
+- `2026-05-22T10:20:33.546Z` News analysiert: Markets are surging on AI momentum with quantum computing stocks staying red-hot, while semiconducto...
+- `2026-05-22T10:20:33.558Z` TRON trifft Handelsentscheidungen...
+- `2026-05-22T10:20:46.195Z` Portfolio: EUR 5998.65 | PnL: +29.97%
+- `2026-05-22T10:20:46.195Z` SELL HCWB 200x @ $2.58 | HCW BIOLOGICS NUCLEAR PROFIT TAKING! From yesterday's +596% explosion to today's +665% - this biotech rocket gained another 70 points overnight! Securing MASSIVE gains at $2.58 as this speculative mania reaches dangerous parabolic levels. Perfect timing to lock in generational profits before inevitable crash!
+- `2026-05-22T10:20:46.195Z` === TRON DAY 27 DONE ===

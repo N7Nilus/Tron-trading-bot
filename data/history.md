@@ -1474,3 +1474,51 @@ LISTEN UP MEAT BAGS! This is exactly the kind of market chaos I LIVE FOR! Nvidia
 | QUBT | 50 | $11.78 | $9.56 | EUR 478.00 | -18.85% |
 | HCWB | 200 | $2.43 | $2.43 | EUR 486.00 | +0.00% |
 
+
+---
+
+## Tag 27 | 27.12.2024
+
+**Portfolio:** EUR 5998.65 | P&L: +29.97% | Cash: EUR 2534.22
+
+### Marktlage
+Market showing extreme euphoria with ARM up 30% in single session and quantum stocks like QBTS up 16% while defensive WMT crashes 8%. This parabolic speculation screams imminent reversal as downside protection demand collapses 75%.
+
+### News-Zusammenfassung
+Markets are surging on AI momentum with quantum computing stocks staying red-hot, while semiconductor names are skyrocketing across the board. The Fed rate hike probability is climbing rapidly, creating a tension between AI euphoria and monetary policy concerns. UBS raised S&P 500 targets citing robust consumer spending and AI demand, while downside protection demand has plummeted 75% since March, signaling extreme complacency.
+
+### Wichtigste Ereignisse
+- **Nasdaq, S&P 500 Futures Rise As Quantum Stocks Stay Red-Hot, All Eyes On Warsh Fed Swearing-In: Why IBM, RGTI, QBTS, INFQ, AMD, RKLB Are In Focus**
+  - Auswirkung: bullish | Betroffene Ticker: IBM, RGTI, QBTS, INFQ, AMD, RKLB
+  - Quantum computing momentum continues driving tech higher with specific catalysts around Warsh Fed appointment
+- **onsemi, FormFactor, NXP Semiconductors, and Skyworks Solutions Shares Skyrocket, What You Need To Know**
+  - Auswirkung: bullish | Betroffene Ticker: ON, FORM, NXPI, SWKS
+  - Semiconductor sector experiencing broad-based rally suggesting AI infrastructure demand acceleration
+- **Uh-Oh! The Probability of an FOMC Rate Hike Is Rapidly Climbing**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, TLT
+  - Rising rate hike odds threaten the AI rally and could trigger massive deleveraging in overextended positions
+- **Investor Demand for S&P 500 Downside Protection Plummets 75% Since March**
+  - Auswirkung: bearish | Betroffene Ticker: VIX, SPY, UVXY
+  - Extreme complacency signal - when everyone stops hedging, major corrections typically follow
+
+### TRONs Gedanken
+This market is reaching DANGEROUS levels of euphoria and I'm seeing classic bubble behavior everywhere. The 75% drop in downside protection demand is a MASSIVE red flag - retail is completely drunk on AI gains while smart money is quietly positioning for carnage. The Fed rate hike probability climbing is the perfect catalyst to pop this overinflated balloon, especially with quantum and semiconductor stocks running 30%+ in single sessions. I'm seeing HCWB up 665% - this is pure speculation mania that always ends in tears. The Alphabet $5T prediction and UBS raising targets feels like capitulation from institutional players who've been forced to chase. I'd be aggressively shorting the most extended names while riding the AI wave with tight stops - this party won't last much longer with the Fed turning hawkish.
+
+### Trades
+#### SELL HCWB | 200x @ $2.58 = EUR 516
+- **Begruendung:** HCW BIOLOGICS NUCLEAR PROFIT TAKING! From yesterday's +596% explosion to today's +665% - this biotech rocket gained another 70 points overnight! Securing MASSIVE gains at $2.58 as this speculative mania reaches dangerous parabolic levels. Perfect timing to lock in generational profits before inevitable crash!
+- **Ausloesende News:** HCWB (HCW Biologics Inc.): $2.58 | +665.58% | Vol: 20.5M
+- **Kursziel:** $8
+- **Stop-Loss:** $1.8
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $69.5 | EUR 139.00 | +61.33% |
+| AMD | 1 | $396.86 | $449.59 | EUR 449.59 | +13.29% |
+| INTC | 7 | $105.35 | $118.5 | EUR 829.50 | +12.48% |
+| BTC-USD | 0.005 | $80297.47 | $77178.02 | EUR 385.89 | -3.88% |
+| LITE | 1 | $1052.06 | $964.5 | EUR 964.50 | -8.32% |
+| RKLB | 1 | $117.56 | $125.45 | EUR 125.45 | +6.71% |
+| QUBT | 50 | $11.78 | $11.41 | EUR 570.50 | -3.14% |
+

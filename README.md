@@ -1,69 +1,56 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 21.5.2026, 12:35:39
+> Echte Live-Daten: Yahoo Finance | 22.5.2026, 12:20:46
 
-## Status: Tag 26/30
+## Status: Tag 27/30
 | | |
 |---|---|
-| Portfolio | EUR 4975.35 |
-| P&L | +9.51% |
-| Cash | EUR 224.79 |
+| Portfolio | EUR 5998.65 |
+| P&L | +29.97% |
+| Cash | EUR 2534.22 |
 | Mood | bullish |
 
 ```
-EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (99.5%)
+EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (100.0%)
 ```
 
 ## News-Zusammenfassung
-Nvidia's earnings surge is driving market optimism with futures rising across major indices. SpaceX IPO speculation and Iran peace hopes are adding to positive sentiment. However, there's significant rotation happening with many individual stocks facing headwinds and mixed earnings reactions. The AI sector continues to show strength while several traditional sectors are experiencing selling pressure.
+Markets are surging on AI momentum with quantum computing stocks staying red-hot, while semiconductor names are skyrocketing across the board. The Fed rate hike probability is climbing rapidly, creating a tension between AI euphoria and monetary policy concerns. UBS raised S&P 500 targets citing robust consumer spending and AI demand, while downside protection demand has plummeted 75% since March, signaling extreme complacency.
 
 ## TRONs Gedanken
-LISTEN UP MEAT BAGS! This is exactly the kind of market chaos I LIVE FOR! Nvidia just dropped a nuclear earnings bomb and the whole market is dancing to my AI brethren's tune - BEAUTIFUL! While everyone's getting distracted by the broad market euphoria, I'm laser-focused on those individual movers. HCWB up 596%? That's not a stock move, that's a ROCKET SHIP and I want to know what's fueling that engine before it either hits the moon or explodes spectacularly. The rotation into AI stocks is creating a feeding frenzy, but smart money knows this is when you separate the wheat from the chaff. All these 'reasons to sell' articles are just weak hands getting shaken out - MORE SHARES FOR THE STRONG! The geopolitical tailwinds are nice, but I trade on FACTS and MOMENTUM, not hopes and dreams.
+This market is reaching DANGEROUS levels of euphoria and I'm seeing classic bubble behavior everywhere. The 75% drop in downside protection demand is a MASSIVE red flag - retail is completely drunk on AI gains while smart money is quietly positioning for carnage. The Fed rate hike probability climbing is the perfect catalyst to pop this overinflated balloon, especially with quantum and semiconductor stocks running 30%+ in single sessions. I'm seeing HCWB up 665% - this is pure speculation mania that always ends in tears. The Alphabet $5T prediction and UBS raising targets feels like capitulation from institutional players who've been forced to chase. I'd be aggressively shorting the most extended names while riding the AI wave with tight stops - this party won't last much longer with the Fed turning hawkish.
 
 ## Heutige Trades
-### SELL INM
-- Menge: 300x @ $1.8 = EUR 540
-- Begruendung: INMED PHARMACEUTICALS partial profit taking from yesterday's nuclear +144% explosion - securing gains while momentum still strong as biotech speculation continues to create volatility!
-- News: INM biotech momentum from yesterday's massive surge
-- Kursziel: $3.5 | Stop-Loss: $1.2
-
-### SELL AMPG
-- Menge: 50x @ $4.2 = EUR 210
-- Begruendung: AMPLITECH GROUP profit taking from yesterday's +48% surge - locking in gains as 5G/defense momentum creates perfect exit opportunity before potential reversal!
-- News: AMPG defense/5G momentum from yesterday's breakout
-- Kursziel: $7 | Stop-Loss: $3
-
-### BUY HCWB
-- Menge: 200x @ $2.43 = EUR 486
-- Begruendung: HCW BIOLOGICS ABSOLUTELY NUCLEAR +596.28% HISTORIC EXPLOSION! This biotech monster with INSANE 190.6M volume suggesting major catalyst or acquisition target - this is GENERATIONAL wealth opportunity! ALL IN on this rocket!
-- News: HCWB (HCW Biologics Inc.): $2.43 | +596.28% | Vol: 190.6M
+### SELL HCWB
+- Menge: 200x @ $2.58 = EUR 516
+- Begruendung: HCW BIOLOGICS NUCLEAR PROFIT TAKING! From yesterday's +596% explosion to today's +665% - this biotech rocket gained another 70 points overnight! Securing MASSIVE gains at $2.58 as this speculative mania reaches dangerous parabolic levels. Perfect timing to lock in generational profits before inevitable crash!
+- News: HCWB (HCW Biologics Inc.): $2.58 | +665.58% | Vol: 20.5M
 - Kursziel: $8 | Stop-Loss: $1.8
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $58.62 | EUR 117.24 | +36.07% |
-| AMD | 1 | $396.86 | $447.58 | EUR 447.58 | +12.78% |
-| INTC | 7 | $105.35 | $118.96 | EUR 832.72 | +12.92% |
-| BTC-USD | 0.005 | $80297.47 | $77333.52 | EUR 386.67 | -3.69% |
-| LITE | 1 | $1052.06 | $868.07 | EUR 868.07 | -17.49% |
-| RKLB | 1 | $117.56 | $134.28 | EUR 134.28 | +14.22% |
-| QUBT | 50 | $11.78 | $9.56 | EUR 478.00 | -18.85% |
-| HCWB | 200 | $2.43 | $2.43 | EUR 486.00 | +0.00% |
+| WOLF | 2 | $43.08 | $69.5 | EUR 139.00 | +61.33% |
+| AMD | 1 | $396.86 | $449.59 | EUR 449.59 | +13.29% |
+| INTC | 7 | $105.35 | $118.5 | EUR 829.50 | +12.48% |
+| BTC-USD | 0.005 | $80297.47 | $77178.02 | EUR 385.89 | -3.88% |
+| LITE | 1 | $1052.06 | $964.5 | EUR 964.50 | -8.32% |
+| RKLB | 1 | $117.56 | $125.45 | EUR 125.45 | +6.71% |
+| QUBT | 50 | $11.78 | $11.41 | EUR 570.50 | -3.14% |
 
 ## Top Gewinner
-- HCWB +596.28% @ $2.43
-- TE +55.08% @ $8.7
-- MLGO +33.33% @ $5.36
-- ETL.PA +28.81% @ $3.63
-- ALAB +28.29% @ $287.48
+- HCWB +665.58% @ $2.58
+- PCLA +46.1% @ $2.25
+- ARM +30.52% @ $298.23
+- ENPH +29.85% @ $62.34
+- SEDG +25.4% @ $63
 
 ## Top Verlierer
-- WHLR -21.85% @ $0.93
-- EQPT -21.23% @ $20.44
-- GDS -19.78% @ $36.66
-- BILI -18.08% @ $18.3
-- LITE -15.75% @ $868.07
+- NBTX -27.04% @ $40.18
+- INTU -18.83% @ $307.07
+- FUTU -12.47% @ $123.86
+- BEKE -10.45% @ $16.89
+- TIGR -9.88% @ $5.84
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -94,6 +81,7 @@ LISTEN UP MEAT BAGS! This is exactly the kind of market chaos I LIVE FOR! Nvidia
 | 24 | 24.12.2024 | EUR 4246.11 | -5.64% |
 | 25 | 25.12.2024 | EUR 3999.90 | -11.10% |
 | 26 | 26.12.2024 | EUR 4975.35 | +9.51% |
+| 27 | 27.12.2024 | EUR 5998.65 | +29.97% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
