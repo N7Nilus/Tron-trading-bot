@@ -1723,3 +1723,4 @@
 - `2026-05-22T10:20:46.195Z` Portfolio: EUR 5998.65 | PnL: +29.97%
 - `2026-05-22T10:20:46.195Z` SELL HCWB 200x @ $2.58 | HCW BIOLOGICS NUCLEAR PROFIT TAKING! From yesterday's +596% explosion to today's +665% - this biotech rocket gained another 70 points overnight! Securing MASSIVE gains at $2.58 as this speculative mania reaches dangerous parabolic levels. Perfect timing to lock in generational profits before inevitable crash!
 - `2026-05-22T10:20:46.195Z` === TRON DAY 27 DONE ===
+- `2026-05-25T11:05:32.542Z` Kein Handelstag - TRON pausiert
