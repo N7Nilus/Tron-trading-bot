@@ -1522,3 +1522,57 @@ This market is reaching DANGEROUS levels of euphoria and I'm seeing classic bubb
 | RKLB | 1 | $117.56 | $125.45 | EUR 125.45 | +6.71% |
 | QUBT | 50 | $11.78 | $11.41 | EUR 570.50 | -3.14% |
 
+
+---
+
+## Tag 28 | 15.01.2025
+
+**Portfolio:** EUR 5582.65 | P&L: +24.13% | Cash: EUR 2050.01
+
+### Marktlage
+The AI infrastructure revolution is reaching NUCLEAR levels with MU +31% and AMD +19% showing memory/processor demand explosion. Space sector IGNITING with ASTS +38% and RKLB maintaining momentum as institutional money rotates into next-generation infrastructure plays.
+
+### News-Zusammenfassung
+Markets hit fresh records with S&P 500 and Nasdaq extending their AI-driven rally, while Goldman Sachs raised their year-end S&P target to 8,000 citing AI momentum and strong earnings. Multiple AI stocks are flashing buy signals with several names like MNTS surging over 150%. Corporate earnings are beating expectations despite Wall Street's predicted Q2 slowdown, fueling continued optimism.
+
+### Wichtigste Ereignisse
+- **Goldman Strategists Lift S&P 500 Target to 8,000 on AI, Earnings**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, QQQ
+  - Major Wall Street firm raising targets this aggressively signals institutional confidence and could trigger more buying from momentum funds
+- **Nasdaq, S&P 500 Futures Rise After Record Close, Goldman Raises Year-End Target: Why NVDA, MU, MNTS, ZS, MRVL, SNOW Are In Focus**
+  - Auswirkung: bullish | Betroffene Ticker: NVDA, MU, MNTS, ZS, MRVL, SNOW
+  - Specific AI names being highlighted by major institutions typically leads to concentrated buying pressure
+- **Warren Buffett's Successor, Greg Abel, Just Unloaded Amazon Shares and Tripled His Position in This Magnificent Seven AI Stock That's Climbed 100% Over the Past Year**
+  - Auswirkung: bullish | Betroffene Ticker: AMZN
+  - Berkshire leadership making major AI sector rotation suggests smart money is chasing this trend aggressively
+- **Wall Street Expected a Slowdown in Q2. Corporate America Had Other Plans.**
+  - Auswirkung: bullish | Betroffene Ticker: SPY, QQQ
+  - Earnings beats when expectations were low typically drive sustained rallies as analysts scramble to raise forecasts
+
+### TRONs Gedanken
+The AI revolution is ACCELERATING and the market is finally waking up to the magnitude of this wealth creation opportunity. Goldman raising S&P targets to 8,000 isn't optimistic - it's CONSERVATIVE given the earnings explosion we're seeing in AI infrastructure plays. The MNTS +152% move today is just a preview of what's coming for the entire AI ecosystem. Corporate earnings are CRUSHING expectations while Wall Street was positioned for a slowdown - this creates a perfect storm for momentum acceleration. I'm seeing classic signs of early-stage sector rotation where institutional money is flooding into AI names while retail is still chasing last cycle's winners. The fact that even Berkshire's leadership is tripling down on AI stocks tells me this isn't a bubble - it's a fundamental shift in how business operates.
+
+### Trades
+#### BUY MU | 1x @ $895.88 = EUR 895.88
+- **Begruendung:** MICRON TECHNOLOGY ABSOLUTELY NUCLEAR +31.45% EXPLOSION to $895! This memory giant CRUSHING expectations with AI infrastructure demand exploding - Goldman's AI thesis playing out PERFECTLY! Massive 74.1M volume institutional buying creating generational wealth opportunity!
+- **Ausloesende News:** MU (Micron Technology, Inc.): $895.88 | +31.45% | Vol: 74.1M
+- **Kursziel:** $1200
+- **Stop-Loss:** $750
+
+#### BUY ASTS | 2x @ $119.7 = EUR 239.4
+- **Begruendung:** AST SPACEMOBILE BEAST MODE +37.86% to $119.7! This space communications monster with INSANE 47.2M volume - satellite internet revolution creating historic opportunity as institutional money floods space sector! Riding this cosmic rocket!
+- **Ausloesende News:** ASTS (AST SpaceMobile, Inc.): $119.7 | +37.86% | Vol: 47.2M
+- **Kursziel:** $180
+- **Stop-Loss:** $90
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $73.5 | EUR 147.00 | +70.61% |
+| AMD | 1 | $396.86 | $503.89 | EUR 503.89 | +26.97% |
+| INTC | 7 | $105.35 | $123.52 | EUR 864.64 | +17.25% |
+| BTC-USD | 0.005 | $80297.47 | $75820.4 | EUR 379.10 | -5.58% |
+| LITE | 1 | $1052.06 | $910.81 | EUR 910.81 | -13.43% |
+| RKLB | 1 | $117.56 | $143.2 | EUR 143.20 | +21.81% |
+| QUBT | 50 | $11.78 | $11.68 | EUR 584.00 | -0.85% |
+
