@@ -1787,3 +1787,67 @@
 - `2026-05-27T10:52:24.739Z` BUY MU 1x @ $895.88 | MICRON TECHNOLOGY ABSOLUTELY NUCLEAR +31.45% EXPLOSION to $895! This memory giant CRUSHING expectations with AI infrastructure demand exploding - Goldman's AI thesis playing out PERFECTLY! Massive 74.1M volume institutional buying creating generational wealth opportunity!
 - `2026-05-27T10:52:24.739Z` BUY ASTS 2x @ $119.7 | AST SPACEMOBILE BEAST MODE +37.86% to $119.7! This space communications monster with INSANE 47.2M volume - satellite internet revolution creating historic opportunity as institutional money floods space sector! Riding this cosmic rocket!
 - `2026-05-27T10:52:24.739Z` === TRON DAY 28 DONE ===
+- `2026-05-28T10:48:57.060Z` === TRON DAY 29 START ===
+- `2026-05-28T10:48:57.063Z` Lade Marktdaten...
+- `2026-05-28T10:48:57.354Z` 50 Ticker (ETFs geblockt), lade Live-Kurse...
+- `2026-05-28T10:48:57.386Z` Live: WOLF = $63.26 (+7.53%)
+- `2026-05-28T10:48:57.573Z` Live: AMD = $495.54 (+19.68%)
+- `2026-05-28T10:48:57.829Z` Live: INTC = $121.77 (+9.9%)
+- `2026-05-28T10:48:58.037Z` Live: BTC-USD = $73434.24 (-4.61%)
+- `2026-05-28T10:48:58.221Z` Live: LITE = $902.31 (+1.37%)
+- `2026-05-28T10:48:58.411Z` Live: RKLB = $150.23 (+18%)
+- `2026-05-28T10:48:58.593Z` Live: QUBT = $11.42 (+23.86%)
+- `2026-05-28T10:48:58.801Z` Live: SNOW = $175.26 (+3.37%)
+- `2026-05-28T10:48:58.984Z` Live: NBIS = $208.37 (+5.38%)
+- `2026-05-28T10:48:59.164Z` Live: NOW = $102.12 (+0.28%)
+- `2026-05-28T10:48:59.344Z` Live: ONDS = $10.8 (+18.36%)
+- `2026-05-28T10:48:59.525Z` Live: CRM = $177.51 (-1.06%)
+- `2026-05-28T10:48:59.705Z` Live: UMAC = $18.83 (+37.85%)
+- `2026-05-28T10:48:59.885Z` Live: ASTC = $13.81 (+477.82%)
+- `2026-05-28T10:49:00.063Z` Live: RCAT = $10.67 (+24.8%)
+- `2026-05-28T10:49:00.241Z` Live: KTOS = $57.3 (+7.16%)
+- `2026-05-28T10:49:00.452Z` Live: ETH-USD = $1990.72 (-5.11%)
+- `2026-05-28T10:49:00.630Z` Live: HOTH = $1.36 (+126.67%)
+- `2026-05-28T10:49:00.827Z` Live: ORCL = $190.96 (+5.24%)
+- `2026-05-28T10:49:01.010Z` Live: META = $635.26 (+5.42%)
+- `2026-05-28T10:49:01.194Z` Live: AVAV = $181.28 (+13.14%)
+- `2026-05-28T10:49:01.375Z` Live: PUSA = $3.67 (-4.18%)
+- `2026-05-28T10:49:01.553Z` Live: XRP-USD = $1.29 (-4.45%)
+- `2026-05-28T10:49:01.738Z` Live: PATH = $11.16 (+5.78%)
+- `2026-05-28T10:49:01.920Z` Live: GNS = $0.22 (-4.35%)
+- `2026-05-28T10:49:02.098Z` Live: APLD = $48.98 (+33.75%)
+- `2026-05-28T10:49:02.278Z` Live: XPEV = $16.45 (+10.11%)
+- `2026-05-28T10:49:02.489Z` Live: BSX = $50.46 (-11.18%)
+- `2026-05-28T10:49:02.674Z` Live: ATPC = $2.85 (+31.94%)
+- `2026-05-28T10:49:02.857Z` Live: WB = $8.08 (-2.06%)
+- `2026-05-28T10:49:03.043Z` Live: MDB = $294.46 (-12.02%)
+- `2026-05-28T10:49:03.228Z` Live: DY = $529.13 (+28.01%)
+- `2026-05-28T10:49:03.408Z` Live: LUNR = $40.34 (+24.28%)
+- `2026-05-28T10:49:03.612Z` Live: IREN = $67.84 (+42.1%)
+- `2026-05-28T10:49:03.862Z` Live: MANU = $22.22 (+12.45%)
+- `2026-05-28T10:49:04.041Z` Live: PENN = $19.09 (+18.42%)
+- `2026-05-28T10:49:04.225Z` Live: CBRS = $266.9 (-12.1%)
+- `2026-05-28T10:49:04.405Z` Live: APP = $567.83 (+19.07%)
+- `2026-05-28T10:49:04.587Z` Live: CORT = $66.65 (+14.48%)
+- `2026-05-28T10:49:04.838Z` Live: COHU = $54.94 (+28.45%)
+- `2026-05-28T10:49:05.048Z` Live: TEO = $13.98 (+20.73%)
+- `2026-05-28T10:49:05.282Z` Live: BBWI = $19.45 (+20.73%)
+- `2026-05-28T10:49:05.465Z` Live: NIO = $5.75 (+0.17%)
+- `2026-05-28T10:49:05.648Z` Live: CIFR = $25.16 (+33.83%)
+- `2026-05-28T10:49:05.862Z` Live: MGM = $41.95 (+16.46%)
+- `2026-05-28T10:49:06.040Z` Live: RDW = $24 (+72.54%)
+- `2026-05-28T10:49:06.237Z` Live: ANF = $81.42 (+12.86%)
+- `2026-05-28T10:49:06.416Z` Live: ERAS = $12.47 (+20.83%)
+- `2026-05-28T10:49:06.595Z` Live: ASTS = $129.6 (+47.11%)
+- `2026-05-28T10:49:06.777Z` Live: ZS = $126.41 (-27.87%)
+- `2026-05-28T10:49:06.927Z` 50 echte Live-Kurse geladen
+- `2026-05-28T10:49:06.928Z` Lade News...
+- `2026-05-28T10:49:08.054Z` Yahoo News: 20 Headlines geladen
+- `2026-05-28T10:49:09.257Z` TRON analysiert News...
+- `2026-05-28T10:49:26.995Z` News analysiert: Markets are pulling back from record highs as U.S.-Iran tensions escalate with renewed strikes, crea...
+- `2026-05-28T10:49:27.011Z` TRON trifft Handelsentscheidungen...
+- `2026-05-28T10:49:43.390Z` Portfolio: EUR 5382.41 | PnL: +976.48%
+- `2026-05-28T10:49:43.390Z` BUY ASTC 20x @ $13.81 | ASTROTECH CORPORATION ABSOLUTELY NUCLEAR +477.82% VOLCANIC ERUPTION! This space technology monster with INSANE 145.1M volume suggesting MASSIVE catalyst or acquisition - this is ONCE-IN-A-LIFETIME generational wealth opportunity! Maximum aggression on this cosmic explosion!
+- `2026-05-28T10:49:43.390Z` BUY HOTH 100x @ $1.36 | HOTH THERAPEUTICS BEAST MODE +126.67% with MASSIVE 135.4M volume! This biotech rocket exploding alongside ASTC - speculative mania creating historic opportunities! Riding this therapeutic monster before institutions pile in!
+- `2026-05-28T10:49:43.390Z` BUY RDW 10x @ $24 | REDWIRE CORPORATION NUCLEAR +72.54% space infrastructure explosion! This space manufacturing giant with 119.9M volume riding the cosmic momentum wave - space sector creating generational wealth as ASTC leads the charge!
+- `2026-05-28T10:49:43.390Z` === TRON DAY 29 DONE ===

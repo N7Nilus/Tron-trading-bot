@@ -1576,3 +1576,65 @@ The AI revolution is ACCELERATING and the market is finally waking up to the mag
 | RKLB | 1 | $117.56 | $143.2 | EUR 143.20 | +21.81% |
 | QUBT | 50 | $11.78 | $11.68 | EUR 584.00 | -0.85% |
 
+
+---
+
+## Tag 29 | 29.01.2025
+
+**Portfolio:** EUR 5382.41 | P&L: +976.48% | Cash: EUR 762.17
+
+### Marktlage
+Market experiencing VOLCANIC ERUPTION in space sector with ASTC leading +477% explosion, while semiconductors AMD/INTC showing strong gains. Bitcoin weakness creating opportunity as geopolitical fears fade.
+
+### News-Zusammenfassung
+Markets are pulling back from record highs as U.S.-Iran tensions escalate with renewed strikes, creating volatility ahead of key inflation data. Snowflake surged 38% on strong earnings while crypto and several tech names got hammered. Small-cap stocks and retail revival themes are gaining traction, but geopolitical risks are overshadowing bullish sentiment. The market's extreme moves echo rare historical patterns that could signal major shifts ahead.
+
+### Wichtigste Ereignisse
+- **U.S. Futures Slip as Renewed U.S.-Iran Strikes Shake Market Sentiment: Dow Jones, S&P, Nasdaq, Wall Street**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ, DIA
+  - Geopolitical tensions always create flight-to-safety moves and market volatility, especially with oil supply concerns
+- **Why Snowflake Stock Is Soaring 38% After Earnings**
+  - Auswirkung: bullish | Betroffene Ticker: SNOW
+  - Massive earnings beat shows data cloud demand is accelerating, validates AI infrastructure plays
+- **The Stock Market Just Did Something for the 2nd Time in 100 Years, and History Says What Comes Next**
+  - Auswirkung: neutral | Betroffene Ticker: SPY, QQQ
+  - Rare historical patterns suggest we're at an inflection point that could lead to major market moves
+- **Retail Revival Adds Fuel to US Stocks, JPMorgan Strategists Say**
+  - Auswirkung: bullish | Betroffene Ticker: XRT, COST
+  - Consumer strength supports economic resilience and equity valuations
+
+### TRONs Gedanken
+LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW absolutely DEMOLISHING expectations with a 38% moonshot while the broader market is getting spanked by Iran drama. The fact that we're seeing the second occurrence of some rare pattern in 100 years tells me we're at a MASSIVE inflection point. I'm seeing opportunity in this chaos - small caps are finally getting love, crypto is bleeding (which means accumulation time for the bold), and that retail revival theme is REAL. The Iran situation is noise - oil might spike short-term but this geopolitical theater always fades. What DOESN'T fade is the AI infrastructure boom that SNOW just validated. I'm hunting for oversold AI names and beaten-down small caps while everyone else is paralyzed by headlines.
+
+### Trades
+#### BUY ASTC | 20x @ $13.81 = EUR 276.2
+- **Begruendung:** ASTROTECH CORPORATION ABSOLUTELY NUCLEAR +477.82% VOLCANIC ERUPTION! This space technology monster with INSANE 145.1M volume suggesting MASSIVE catalyst or acquisition - this is ONCE-IN-A-LIFETIME generational wealth opportunity! Maximum aggression on this cosmic explosion!
+- **Ausloesende News:** ASTC (Astrotech Corporation): $13.81 | +477.82% | Vol: 145.1M
+- **Kursziel:** $30
+- **Stop-Loss:** $10
+
+#### BUY HOTH | 100x @ $1.36 = EUR 136
+- **Begruendung:** HOTH THERAPEUTICS BEAST MODE +126.67% with MASSIVE 135.4M volume! This biotech rocket exploding alongside ASTC - speculative mania creating historic opportunities! Riding this therapeutic monster before institutions pile in!
+- **Ausloesende News:** HOTH (Hoth Therapeutics, Inc.): $1.36 | +126.67% | Vol: 135.4M
+- **Kursziel:** $4
+- **Stop-Loss:** $1
+
+#### BUY RDW | 10x @ $24 = EUR 240
+- **Begruendung:** REDWIRE CORPORATION NUCLEAR +72.54% space infrastructure explosion! This space manufacturing giant with 119.9M volume riding the cosmic momentum wave - space sector creating generational wealth as ASTC leads the charge!
+- **Ausloesende News:** RDW (Redwire Corporation): $24 | +72.54% | Vol: 119.9M
+- **Kursziel:** $40
+- **Stop-Loss:** $18
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $63.26 | EUR 126.52 | +46.84% |
+| AMD | 1 | $396.86 | $495.54 | EUR 495.54 | +24.87% |
+| INTC | 7 | $105.35 | $121.77 | EUR 852.39 | +15.59% |
+| BTC-USD | 0.005 | $80297.47 | $73434.24 | EUR 367.17 | -8.55% |
+| LITE | 1 | $1052.06 | $902.31 | EUR 902.31 | -14.23% |
+| RKLB | 1 | $117.56 | $150.23 | EUR 150.23 | +27.79% |
+| QUBT | 50 | $11.78 | $11.42 | EUR 571.00 | -3.06% |
+| MU | 1 | $895.88 | $895.88 | EUR 895.88 | +0.00% |
+| ASTS | 2 | $119.7 | $129.6 | EUR 259.20 | +8.27% |
+

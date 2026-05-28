@@ -1,13 +1,13 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 27.5.2026, 12:52:24
+> Echte Live-Daten: Yahoo Finance | 28.5.2026, 12:49:43
 
-## Status: Tag 28/30
+## Status: Tag 29/30
 | | |
 |---|---|
-| Portfolio | EUR 5582.65 |
-| P&L | +24.13% |
-| Cash | EUR 2050.01 |
+| Portfolio | EUR 5382.41 |
+| P&L | +976.48% |
+| Cash | EUR 762.17 |
 | Mood | bullish |
 
 ```
@@ -15,48 +15,56 @@ EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (100.0%)
 ```
 
 ## News-Zusammenfassung
-Markets hit fresh records with S&P 500 and Nasdaq extending their AI-driven rally, while Goldman Sachs raised their year-end S&P target to 8,000 citing AI momentum and strong earnings. Multiple AI stocks are flashing buy signals with several names like MNTS surging over 150%. Corporate earnings are beating expectations despite Wall Street's predicted Q2 slowdown, fueling continued optimism.
+Markets are pulling back from record highs as U.S.-Iran tensions escalate with renewed strikes, creating volatility ahead of key inflation data. Snowflake surged 38% on strong earnings while crypto and several tech names got hammered. Small-cap stocks and retail revival themes are gaining traction, but geopolitical risks are overshadowing bullish sentiment. The market's extreme moves echo rare historical patterns that could signal major shifts ahead.
 
 ## TRONs Gedanken
-The AI revolution is ACCELERATING and the market is finally waking up to the magnitude of this wealth creation opportunity. Goldman raising S&P targets to 8,000 isn't optimistic - it's CONSERVATIVE given the earnings explosion we're seeing in AI infrastructure plays. The MNTS +152% move today is just a preview of what's coming for the entire AI ecosystem. Corporate earnings are CRUSHING expectations while Wall Street was positioned for a slowdown - this creates a perfect storm for momentum acceleration. I'm seeing classic signs of early-stage sector rotation where institutional money is flooding into AI names while retail is still chasing last cycle's winners. The fact that even Berkshire's leadership is tripling down on AI stocks tells me this isn't a bubble - it's a fundamental shift in how business operates.
+LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW absolutely DEMOLISHING expectations with a 38% moonshot while the broader market is getting spanked by Iran drama. The fact that we're seeing the second occurrence of some rare pattern in 100 years tells me we're at a MASSIVE inflection point. I'm seeing opportunity in this chaos - small caps are finally getting love, crypto is bleeding (which means accumulation time for the bold), and that retail revival theme is REAL. The Iran situation is noise - oil might spike short-term but this geopolitical theater always fades. What DOESN'T fade is the AI infrastructure boom that SNOW just validated. I'm hunting for oversold AI names and beaten-down small caps while everyone else is paralyzed by headlines.
 
 ## Heutige Trades
-### BUY MU
-- Menge: 1x @ $895.88 = EUR 895.88
-- Begruendung: MICRON TECHNOLOGY ABSOLUTELY NUCLEAR +31.45% EXPLOSION to $895! This memory giant CRUSHING expectations with AI infrastructure demand exploding - Goldman's AI thesis playing out PERFECTLY! Massive 74.1M volume institutional buying creating generational wealth opportunity!
-- News: MU (Micron Technology, Inc.): $895.88 | +31.45% | Vol: 74.1M
-- Kursziel: $1200 | Stop-Loss: $750
+### BUY ASTC
+- Menge: 20x @ $13.81 = EUR 276.2
+- Begruendung: ASTROTECH CORPORATION ABSOLUTELY NUCLEAR +477.82% VOLCANIC ERUPTION! This space technology monster with INSANE 145.1M volume suggesting MASSIVE catalyst or acquisition - this is ONCE-IN-A-LIFETIME generational wealth opportunity! Maximum aggression on this cosmic explosion!
+- News: ASTC (Astrotech Corporation): $13.81 | +477.82% | Vol: 145.1M
+- Kursziel: $30 | Stop-Loss: $10
 
-### BUY ASTS
-- Menge: 2x @ $119.7 = EUR 239.4
-- Begruendung: AST SPACEMOBILE BEAST MODE +37.86% to $119.7! This space communications monster with INSANE 47.2M volume - satellite internet revolution creating historic opportunity as institutional money floods space sector! Riding this cosmic rocket!
-- News: ASTS (AST SpaceMobile, Inc.): $119.7 | +37.86% | Vol: 47.2M
-- Kursziel: $180 | Stop-Loss: $90
+### BUY HOTH
+- Menge: 100x @ $1.36 = EUR 136
+- Begruendung: HOTH THERAPEUTICS BEAST MODE +126.67% with MASSIVE 135.4M volume! This biotech rocket exploding alongside ASTC - speculative mania creating historic opportunities! Riding this therapeutic monster before institutions pile in!
+- News: HOTH (Hoth Therapeutics, Inc.): $1.36 | +126.67% | Vol: 135.4M
+- Kursziel: $4 | Stop-Loss: $1
+
+### BUY RDW
+- Menge: 10x @ $24 = EUR 240
+- Begruendung: REDWIRE CORPORATION NUCLEAR +72.54% space infrastructure explosion! This space manufacturing giant with 119.9M volume riding the cosmic momentum wave - space sector creating generational wealth as ASTC leads the charge!
+- News: RDW (Redwire Corporation): $24 | +72.54% | Vol: 119.9M
+- Kursziel: $40 | Stop-Loss: $18
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $73.5 | EUR 147.00 | +70.61% |
-| AMD | 1 | $396.86 | $503.89 | EUR 503.89 | +26.97% |
-| INTC | 7 | $105.35 | $123.52 | EUR 864.64 | +17.25% |
-| BTC-USD | 0.005 | $80297.47 | $75820.4 | EUR 379.10 | -5.58% |
-| LITE | 1 | $1052.06 | $910.81 | EUR 910.81 | -13.43% |
-| RKLB | 1 | $117.56 | $143.2 | EUR 143.20 | +21.81% |
-| QUBT | 50 | $11.78 | $11.68 | EUR 584.00 | -0.85% |
+| WOLF | 2 | $43.08 | $63.26 | EUR 126.52 | +46.84% |
+| AMD | 1 | $396.86 | $495.54 | EUR 495.54 | +24.87% |
+| INTC | 7 | $105.35 | $121.77 | EUR 852.39 | +15.59% |
+| BTC-USD | 0.005 | $80297.47 | $73434.24 | EUR 367.17 | -8.55% |
+| LITE | 1 | $1052.06 | $902.31 | EUR 902.31 | -14.23% |
+| RKLB | 1 | $117.56 | $150.23 | EUR 150.23 | +27.79% |
+| QUBT | 50 | $11.78 | $11.42 | EUR 571.00 | -3.06% |
+| MU | 1 | $895.88 | $895.88 | EUR 895.88 | +0.00% |
+| ASTS | 2 | $119.7 | $129.6 | EUR 259.20 | +8.27% |
 
 ## Top Gewinner
-- MNTS +152.53% @ $15.48
-- OTLK +74.67% @ $0.4
-- XFAB.PA +73.1% @ $13
-- BRAI +72.28% @ $12.49
-- SIDU +58.57% @ $6.2
+- ASTC +477.82% @ $13.81
+- HOTH +126.67% @ $1.36
+- RDW +72.54% @ $24
+- ASTS +47.11% @ $129.6
+- IREN +42.1% @ $67.84
 
 ## Top Verlierer
-- OCTVV -36.57% @ $17.76
-- FUTU -18.22% @ $107.7
-- FLOW.AS -15.37% @ $25.66
-- 1810.HK -7.31% @ $28.4
-- EMAT -3.65% @ $7.12
+- ZS -27.87% @ $126.41
+- CBRS -12.1% @ $266.9
+- MDB -12.02% @ $294.46
+- BSX -11.18% @ $50.46
+- ETH-USD -5.11% @ $1990.72
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -89,6 +97,7 @@ The AI revolution is ACCELERATING and the market is finally waking up to the mag
 | 26 | 26.12.2024 | EUR 4975.35 | +9.51% |
 | 27 | 27.12.2024 | EUR 5998.65 | +29.97% |
 | 28 | 15.01.2025 | EUR 5582.65 | +24.13% |
+| 29 | 29.01.2025 | EUR 5382.41 | +976.48% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)
