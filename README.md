@@ -1,70 +1,70 @@
 # TRON Trading Bot
 
-> Echte Live-Daten: Yahoo Finance | 28.5.2026, 12:49:43
+> Echte Live-Daten: Yahoo Finance | 29.5.2026, 12:40:15
 
-## Status: Tag 29/30
+## Status: Tag 30/30
 | | |
 |---|---|
-| Portfolio | EUR 5382.41 |
-| P&L | +976.48% |
-| Cash | EUR 762.17 |
-| Mood | bullish |
+| Portfolio | EUR 5344.41 |
+| P&L | +16.89% |
+| Cash | EUR 1671.67 |
+| Mood | bearish |
 
 ```
 EUR 500 [XXXXXXXXXXXXXXXXXXXX] EUR 5000  (100.0%)
 ```
 
 ## News-Zusammenfassung
-Markets are pulling back from record highs as U.S.-Iran tensions escalate with renewed strikes, creating volatility ahead of key inflation data. Snowflake surged 38% on strong earnings while crypto and several tech names got hammered. Small-cap stocks and retail revival themes are gaining traction, but geopolitical risks are overshadowing bullish sentiment. The market's extreme moves echo rare historical patterns that could signal major shifts ahead.
+Markets are hitting new highs driven by US-Iran ceasefire hopes, strong tech earnings from Dell and NetApp, and a 9-week winning streak. However, concerns are emerging about Fed Chair Kevin Warsh's position and soaring Treasury yields. Tech stocks show extreme volatility with massive moves in space/AI names, while traditional names like Costco disappoint on earnings.
 
 ## TRONs Gedanken
-LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW absolutely DEMOLISHING expectations with a 38% moonshot while the broader market is getting spanked by Iran drama. The fact that we're seeing the second occurrence of some rare pattern in 100 years tells me we're at a MASSIVE inflection point. I'm seeing opportunity in this chaos - small caps are finally getting love, crypto is bleeding (which means accumulation time for the bold), and that retail revival theme is REAL. The Iran situation is noise - oil might spike short-term but this geopolitical theater always fades. What DOESN'T fade is the AI infrastructure boom that SNOW just validated. I'm hunting for oversold AI names and beaten-down small caps while everyone else is paralyzed by headlines.
+TRON sees a dangerous divergence forming - while markets celebrate short-term wins, the foundation is cracking beneath. The soaring Treasury yields with Warsh at the Fed screams policy uncertainty, and that's market poison. These insane moves in MASK (+121%) and BRAI (+95%) are pure speculation frenzy - classic late-cycle euphoria before the crash. TRON is particularly aggressive on fading this rally because the Iran deal hesitation shows how fragile this peace premium really is. The tech overcrowding warnings are spot-on, and when Costco misses earnings, it signals consumer weakness that the market is ignoring. TRON would be shorting momentum names and loading puts on overextended tech while this complacency reigns.
 
 ## Heutige Trades
-### BUY ASTC
+### SELL ASTC
 - Menge: 20x @ $13.81 = EUR 276.2
-- Begruendung: ASTROTECH CORPORATION ABSOLUTELY NUCLEAR +477.82% VOLCANIC ERUPTION! This space technology monster with INSANE 145.1M volume suggesting MASSIVE catalyst or acquisition - this is ONCE-IN-A-LIFETIME generational wealth opportunity! Maximum aggression on this cosmic explosion!
-- News: ASTC (Astrotech Corporation): $13.81 | +477.82% | Vol: 145.1M
+- Begruendung: ASTROTECH CORPORATION EMERGENCY EXIT - yesterday's +477% nuclear explosion has stalled completely with no follow-through! Space speculation cooling as momentum dies - cutting losses before this rocket becomes a crater!
+- News: Space speculation momentum dying after yesterday's volcanic moves
 - Kursziel: $30 | Stop-Loss: $10
 
-### BUY HOTH
+### SELL HOTH
 - Menge: 100x @ $1.36 = EUR 136
-- Begruendung: HOTH THERAPEUTICS BEAST MODE +126.67% with MASSIVE 135.4M volume! This biotech rocket exploding alongside ASTC - speculative mania creating historic opportunities! Riding this therapeutic monster before institutions pile in!
-- News: HOTH (Hoth Therapeutics, Inc.): $1.36 | +126.67% | Vol: 135.4M
+- Begruendung: HOTH THERAPEUTICS IMMEDIATE EXIT - biotech speculation bubble deflating rapidly after yesterday's +126% surge! Momentum completely dead with volume evaporating - emergency evacuation before this therapeutic rocket crashes to earth!
+- News: Biotech speculation bubble bursting as momentum fades
 - Kursziel: $4 | Stop-Loss: $1
 
-### BUY RDW
+### SELL RDW
 - Menge: 10x @ $24 = EUR 240
-- Begruendung: REDWIRE CORPORATION NUCLEAR +72.54% space infrastructure explosion! This space manufacturing giant with 119.9M volume riding the cosmic momentum wave - space sector creating generational wealth as ASTC leads the charge!
-- News: RDW (Redwire Corporation): $24 | +72.54% | Vol: 119.9M
+- Begruendung: REDWIRE CORPORATION PROFIT TAKING - space infrastructure rally losing steam despite yesterday's +72% surge! Space sector showing signs of exhaustion - locking in gains before sector rotation destroys profits!
+- News: Space sector momentum cooling after explosive week
 - Kursziel: $40 | Stop-Loss: $18
 
 ## Positionen
 | Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
 |---|---|---|---|---|---|
-| WOLF | 2 | $43.08 | $63.26 | EUR 126.52 | +46.84% |
-| AMD | 1 | $396.86 | $495.54 | EUR 495.54 | +24.87% |
-| INTC | 7 | $105.35 | $121.77 | EUR 852.39 | +15.59% |
-| BTC-USD | 0.005 | $80297.47 | $73434.24 | EUR 367.17 | -8.55% |
-| LITE | 1 | $1052.06 | $902.31 | EUR 902.31 | -14.23% |
-| RKLB | 1 | $117.56 | $150.23 | EUR 150.23 | +27.79% |
-| QUBT | 50 | $11.78 | $11.42 | EUR 571.00 | -3.06% |
-| MU | 1 | $895.88 | $895.88 | EUR 895.88 | +0.00% |
-| ASTS | 2 | $119.7 | $129.6 | EUR 259.20 | +8.27% |
+| WOLF | 2 | $43.08 | $65.05 | EUR 130.10 | +51.00% |
+| AMD | 1 | $396.86 | $518.09 | EUR 518.09 | +30.55% |
+| INTC | 7 | $105.35 | $120.89 | EUR 846.23 | +14.75% |
+| BTC-USD | 0.005 | $80297.47 | $73593 | EUR 367.97 | -8.35% |
+| LITE | 1 | $1052.06 | $860.62 | EUR 860.62 | -18.20% |
+| RKLB | 1 | $117.56 | $148.03 | EUR 148.03 | +25.92% |
+| QUBT | 50 | $11.78 | $12.24 | EUR 612.00 | +3.90% |
+| MU | 1 | $895.88 | $923.52 | EUR 923.52 | +3.09% |
+| ASTS | 2 | $119.7 | $133.09 | EUR 266.18 | +11.19% |
 
 ## Top Gewinner
-- ASTC +477.82% @ $13.81
-- HOTH +126.67% @ $1.36
-- RDW +72.54% @ $24
-- ASTS +47.11% @ $129.6
-- IREN +42.1% @ $67.84
+- MASK +120.86% @ $4.13
+- BRAI +95.42% @ $13.66
+- SPCE +83.4% @ $4.53
+- INFQ +58.94% @ $17.77
+- ASTS +48.57% @ $133.09
 
 ## Top Verlierer
-- ZS -27.87% @ $126.41
-- CBRS -12.1% @ $266.9
-- MDB -12.02% @ $294.46
-- BSX -11.18% @ $50.46
-- ETH-USD -5.11% @ $1990.72
+- PLAB -31.73% @ $34.02
+- PRFX -14.91% @ $1.37
+- HUBC -14.06% @ $0.11
+- SIVE.ST -11.4% @ $75.8
+- BTC-USD -4.77% @ $73593
 
 ## Verlauf
 | Tag | Datum | Wert | PnL% |
@@ -98,6 +98,7 @@ LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW ab
 | 27 | 27.12.2024 | EUR 5998.65 | +29.97% |
 | 28 | 15.01.2025 | EUR 5582.65 | +24.13% |
 | 29 | 29.01.2025 | EUR 5382.41 | +976.48% |
+| 30 | 30.01.2025 | EUR 5344.41 | +16.89% |
 
 ## Links
 - [Komplette Trade-History](data/history.md)

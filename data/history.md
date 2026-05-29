@@ -1638,3 +1638,65 @@ LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW ab
 | MU | 1 | $895.88 | $895.88 | EUR 895.88 | +0.00% |
 | ASTS | 2 | $119.7 | $129.6 | EUR 259.20 | +8.27% |
 
+
+---
+
+## Tag 30 | 30.01.2025
+
+**Portfolio:** EUR 5344.41 | P&L: +16.89% | Cash: EUR 1671.67
+
+### Marktlage
+The manic space and biotech speculation from yesterday is completely dying with MASK's +121% and BRAI's +95% looking like desperation moves. SNOW's +43% and DELL's +30% suggest earnings-driven tech strength, but the insane moves in micro-caps scream bubble territory.
+
+### News-Zusammenfassung
+Markets are hitting new highs driven by US-Iran ceasefire hopes, strong tech earnings from Dell and NetApp, and a 9-week winning streak. However, concerns are emerging about Fed Chair Kevin Warsh's position and soaring Treasury yields. Tech stocks show extreme volatility with massive moves in space/AI names, while traditional names like Costco disappoint on earnings.
+
+### Wichtigste Ereignisse
+- **Dow Jones Futures Rise As Dell, NetApp Surge On Earnings; Market At Highs On U.S.-Iran Deal Hopes**
+  - Auswirkung: bullish | Betroffene Ticker: DELL, NTAP
+  - Strong tech earnings validate AI infrastructure spending while geopolitical risk reduction boosts overall market sentiment
+- **The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ
+  - Political pressure on Fed independence could destabilize monetary policy and create market volatility
+- **Treasury Yields Are Soaring -- and That's Not a Coincidence With Kevin Warsh Now Leading the Federal Reserve**
+  - Auswirkung: bearish | Betroffene Ticker: TLT, XLF
+  - Rising yields threaten equity valuations and signal potential Fed policy uncertainty under political pressure
+- **S&P 500, Nasdaq Futures Pull Back After Trump Wants 'Couple Days To Think' About Iran Ceasefire Deal**
+  - Auswirkung: bearish | Betroffene Ticker: SPY, QQQ
+  - Geopolitical uncertainty returns as ceasefire momentum stalls, removing key bullish catalyst
+
+### TRONs Gedanken
+TRON sees a dangerous divergence forming - while markets celebrate short-term wins, the foundation is cracking beneath. The soaring Treasury yields with Warsh at the Fed screams policy uncertainty, and that's market poison. These insane moves in MASK (+121%) and BRAI (+95%) are pure speculation frenzy - classic late-cycle euphoria before the crash. TRON is particularly aggressive on fading this rally because the Iran deal hesitation shows how fragile this peace premium really is. The tech overcrowding warnings are spot-on, and when Costco misses earnings, it signals consumer weakness that the market is ignoring. TRON would be shorting momentum names and loading puts on overextended tech while this complacency reigns.
+
+### Trades
+#### SELL ASTC | 20x @ $13.81 = EUR 276.2
+- **Begruendung:** ASTROTECH CORPORATION EMERGENCY EXIT - yesterday's +477% nuclear explosion has stalled completely with no follow-through! Space speculation cooling as momentum dies - cutting losses before this rocket becomes a crater!
+- **Ausloesende News:** Space speculation momentum dying after yesterday's volcanic moves
+- **Kursziel:** $30
+- **Stop-Loss:** $10
+
+#### SELL HOTH | 100x @ $1.36 = EUR 136
+- **Begruendung:** HOTH THERAPEUTICS IMMEDIATE EXIT - biotech speculation bubble deflating rapidly after yesterday's +126% surge! Momentum completely dead with volume evaporating - emergency evacuation before this therapeutic rocket crashes to earth!
+- **Ausloesende News:** Biotech speculation bubble bursting as momentum fades
+- **Kursziel:** $4
+- **Stop-Loss:** $1
+
+#### SELL RDW | 10x @ $24 = EUR 240
+- **Begruendung:** REDWIRE CORPORATION PROFIT TAKING - space infrastructure rally losing steam despite yesterday's +72% surge! Space sector showing signs of exhaustion - locking in gains before sector rotation destroys profits!
+- **Ausloesende News:** Space sector momentum cooling after explosive week
+- **Kursziel:** $40
+- **Stop-Loss:** $18
+
+### Positionen
+| Ticker | Stueck | Einstieg | Aktuell | Wert | PnL |
+|---|---|---|---|---|---|
+| WOLF | 2 | $43.08 | $65.05 | EUR 130.10 | +51.00% |
+| AMD | 1 | $396.86 | $518.09 | EUR 518.09 | +30.55% |
+| INTC | 7 | $105.35 | $120.89 | EUR 846.23 | +14.75% |
+| BTC-USD | 0.005 | $80297.47 | $73593 | EUR 367.97 | -8.35% |
+| LITE | 1 | $1052.06 | $860.62 | EUR 860.62 | -18.20% |
+| RKLB | 1 | $117.56 | $148.03 | EUR 148.03 | +25.92% |
+| QUBT | 50 | $11.78 | $12.24 | EUR 612.00 | +3.90% |
+| MU | 1 | $895.88 | $923.52 | EUR 923.52 | +3.09% |
+| ASTS | 2 | $119.7 | $133.09 | EUR 266.18 | +11.19% |
+

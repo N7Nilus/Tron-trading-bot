@@ -1,61 +1,61 @@
-# TRON News Report | 28.5.2026
+# TRON News Report | 29.5.2026
 
-> Generiert: 28.5.2026, 12:49:27
+> Generiert: 29.5.2026, 12:39:58
 
 ## Zusammenfassung
-Markets are pulling back from record highs as U.S.-Iran tensions escalate with renewed strikes, creating volatility ahead of key inflation data. Snowflake surged 38% on strong earnings while crypto and several tech names got hammered. Small-cap stocks and retail revival themes are gaining traction, but geopolitical risks are overshadowing bullish sentiment. The market's extreme moves echo rare historical patterns that could signal major shifts ahead.
+Markets are hitting new highs driven by US-Iran ceasefire hopes, strong tech earnings from Dell and NetApp, and a 9-week winning streak. However, concerns are emerging about Fed Chair Kevin Warsh's position and soaring Treasury yields. Tech stocks show extreme volatility with massive moves in space/AI names, while traditional names like Costco disappoint on earnings.
 
 ## TRONs Markteinschaetzung
-LISTEN UP, MEAT BAGS! This market is schizophrenic right now - we've got SNOW absolutely DEMOLISHING expectations with a 38% moonshot while the broader market is getting spanked by Iran drama. The fact that we're seeing the second occurrence of some rare pattern in 100 years tells me we're at a MASSIVE inflection point. I'm seeing opportunity in this chaos - small caps are finally getting love, crypto is bleeding (which means accumulation time for the bold), and that retail revival theme is REAL. The Iran situation is noise - oil might spike short-term but this geopolitical theater always fades. What DOESN'T fade is the AI infrastructure boom that SNOW just validated. I'm hunting for oversold AI names and beaten-down small caps while everyone else is paralyzed by headlines.
+TRON sees a dangerous divergence forming - while markets celebrate short-term wins, the foundation is cracking beneath. The soaring Treasury yields with Warsh at the Fed screams policy uncertainty, and that's market poison. These insane moves in MASK (+121%) and BRAI (+95%) are pure speculation frenzy - classic late-cycle euphoria before the crash. TRON is particularly aggressive on fading this rally because the Iran deal hesitation shows how fragile this peace premium really is. The tech overcrowding warnings are spot-on, and when Costco misses earnings, it signals consumer weakness that the market is ignoring. TRON would be shorting momentum names and loading puts on overextended tech while this complacency reigns.
 
 ## Wichtigste News
-### [-] U.S. Futures Slip as Renewed U.S.-Iran Strikes Shake Market Sentiment: Dow Jones, S&P, Nasdaq, Wall Street
+### [+] Dow Jones Futures Rise As Dell, NetApp Surge On Earnings; Market At Highs On U.S.-Iran Deal Hopes
+- **Einfluss:** bullish
+- **Betroffene Aktien:** DELL, NTAP
+- Strong tech earnings validate AI infrastructure spending while geopolitical risk reduction boosts overall market sentiment
+
+### [-] The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot
 - **Einfluss:** bearish
-- **Betroffene Aktien:** SPY, QQQ, DIA
-- Geopolitical tensions always create flight-to-safety moves and market volatility, especially with oil supply concerns
-
-### [+] Why Snowflake Stock Is Soaring 38% After Earnings
-- **Einfluss:** bullish
-- **Betroffene Aktien:** SNOW
-- Massive earnings beat shows data cloud demand is accelerating, validates AI infrastructure plays
-
-### [~] The Stock Market Just Did Something for the 2nd Time in 100 Years, and History Says What Comes Next
-- **Einfluss:** neutral
 - **Betroffene Aktien:** SPY, QQQ
-- Rare historical patterns suggest we're at an inflection point that could lead to major market moves
+- Political pressure on Fed independence could destabilize monetary policy and create market volatility
 
-### [+] Retail Revival Adds Fuel to US Stocks, JPMorgan Strategists Say
-- **Einfluss:** bullish
-- **Betroffene Aktien:** XRT, COST
-- Consumer strength supports economic resilience and equity valuations
+### [-] Treasury Yields Are Soaring -- and That's Not a Coincidence With Kevin Warsh Now Leading the Federal Reserve
+- **Einfluss:** bearish
+- **Betroffene Aktien:** TLT, XLF
+- Rising yields threaten equity valuations and signal potential Fed policy uncertainty under political pressure
+
+### [-] S&P 500, Nasdaq Futures Pull Back After Trump Wants 'Couple Days To Think' About Iran Ceasefire Deal
+- **Einfluss:** bearish
+- **Betroffene Aktien:** SPY, QQQ
+- Geopolitical uncertainty returns as ceasefire momentum stalls, removing key bullish catalyst
 
 ## Trading-Signale
 | Ticker | Signal | Dringlichkeit | Begruendung |
 |---|---|---|---|
-| SNOW | watch | high | 38% surge after earnings validates AI infrastructure thesis but entry point may be extended |
-| IREN | consider_buy | medium | 42% surge suggests crypto mining recovery despite BTC weakness, momentum play |
-| ZS | consider_buy | high | 27% drop creates oversold opportunity in cybersecurity leader |
-| XOM | watch | medium | Iran tensions could boost oil prices, article predicts outperformance |
-| BTC-USD | consider_buy | low | 4.6% drop creates accumulation opportunity on geopolitical fear |
+| DELL | consider_sell | high | Massive surge on earnings creates unsustainable valuation despite strong fundamentals |
+| MASK | avoid | high | 120% single-day move indicates pure speculation with inevitable crash coming |
+| TLT | consider_buy | medium | Treasury yields soaring creates oversold bond conditions and Fed policy uncertainty |
+| COST | watch | medium | Earnings miss signals broader consumer weakness that market hasn't priced in yet |
+| BRAI | avoid | high | 95% move screams bubble territory in AI speculation trade |
 
 ## Alle Headlines (20)
-- Turning $5,000 Into $50,000: 2 Small-Cap Stocks With Multibagger Potential *(Yahoo Finance)*
-- Jim Cramer says Warren Buffett is wrong about investors being addicted to 'gambling' — they're addicted to the S&amp;P 500 *(Yahoo Finance)*
-- U.S. Futures Slip as Renewed U.S.-Iran Strikes Shake Market Sentiment: Dow Jones, S&amp;P, Nasdaq, Wall Street *(Yahoo Finance)*
-- Retail Revival Adds Fuel to US Stocks, JPMorgan Strategists Say *(Yahoo Finance)*
-- Retirement savers hit with early 2026 volatility, with many losing millionaire status *(Yahoo Finance)*
-- Nasdaq, S&amp;P 500 Futures Dip As Markets Brace For Inflation Data, More Hormuz Tensions: SNOW, DELL, ONDS, NBIS, SIDU Are In Focus *(Yahoo Finance)*
-- Warren Buffett's Successor, Greg Abel, Buys an AI Stock That Poses a Threat to Nvidia *(Yahoo Finance)*
-- Micron’s Cheap Stock Valuation Seen as a Contrarian Warning Sign *(Yahoo Finance)*
-- Salesforce Can’t Escape the Software Slump *(Yahoo Finance)*
-- Why Snowflake Stock Is Soaring 38% After Earnings *(Yahoo Finance)*
-- Markets Fall From Record Highs as U.S. and Iran Trade Strikes. Stock Futures Drop. *(Yahoo Finance)*
-- New Fed Chair Kevin Warsh Yearns for Central Bank Reform, but 2 Concurrent Price Shocks, Courtesy of President Trump, Have Other Plans *(Yahoo Finance)*
-- Q1 Earnings Season Is Winding Down. Here Are the 5 Stocks That Defined It. *(Yahoo Finance)*
-- You Can’t Avoid AI. But Don’t Let It Crowd Your Retirement Portfolio. *(Yahoo Finance)*
-- Bull of the Day: DaVita Inc. (DVA) *(Yahoo Finance)*
-- FedEx Spin-Off Gets Rare S&amp;P 500 Fast Pass As Freight Unit Prepares To Trade *(Yahoo Finance)*
-- Bull Case For US Stocks Intact Despite ‘Melt-Up’ Fears: Yardeni Research *(Yahoo Finance)*
-- The Stock Market Just Did Something for the 2nd Time in 100 Years, and History Says What Comes Next *(Yahoo Finance)*
-- Costco Results Will Be This Earning Season’s Last Look at the Consumer *(Yahoo Finance)*
-- Prediction: ExxonMobil Will Outperform the S&amp;P 500 in 2026 *(Yahoo Finance)*
+- Dow Jones Futures Rise As Dell, NetApp Surge On Earnings; Market At Highs On U.S.-Iran Deal Hopes *(Yahoo Finance)*
+- Tesla Stock Could Soar in the Second Half of 2026. Here's Why. *(Yahoo Finance)*
+- Markets watch Iran ceasefire talks as investors assess mega IPO valuations: Dow Jones, S&amp;P, Nasdaq, Wall Street Futures *(Yahoo Finance)*
+- The tech trade is overcrowded. Here's your ETF escape route: Chart of the Day *(Yahoo Finance)*
+- 3 Industrials Stocks That Concern Us *(Yahoo Finance)*
+- The No. 1 Holding in Warren Buffett's $786 Million "Secret" Portfolio Is a Bona Fide Millionaire-Maker (but There's a Catch) *(Yahoo Finance)*
+- Stock Futures Rise as Market Chases 9-Week Winning Run *(Yahoo Finance)*
+- The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot *(Yahoo Finance)*
+- This Unstoppable Vanguard ETF Is Obliterating the S&amp;P 500 in 2026, but a Looming Change in Interest Rates Could Halt Its Momentum *(Yahoo Finance)*
+- Nasdaq, S&amp;P 500 Futures Rise Amid Iran Ceasefire Talks, Dell AI Rally: Why HPE, NOW, SMCI, ASTS, GME Are In Focus *(Yahoo Finance)*
+- Costco Wholesale Sees a Mixed Quarter, Misses Earnings Estimates *(Yahoo Finance)*
+- Treasury Yields Are Soaring -- and That's Not a Coincidence With Kevin Warsh Now Leading the Federal Reserve *(Yahoo Finance)*
+- S&amp;P 500, Nasdaq Futures Pull Back After Trump Wants 'Couple Days To Think' About Iran Ceasefire Deal: ASTS, DELL, BB, SMCI In Focus *(Yahoo Finance)*
+- Should You Buy the Dip on Gold as the S&amp;P 500 and Nasdaq Hit All-Time Highs? *(Yahoo Finance)*
+- Review and Preview: Shrugging Off the Shock *(Yahoo Finance)*
+- Ford Stock Is Moving Like Tesla Now. Its Results Can’t Justify the Premium. *(Yahoo Finance)*
+- Cathie Wood is Buying Cerebras Post-IPO: Should You Follow? *(Yahoo Finance)*
+- 3 Reasons to Avoid SHOO and 1 Stock to Buy Instead *(Yahoo Finance)*
+- Wall St hits more record closing highs on US-Iran ceasefire extension *(Yahoo Finance)*
+- 3 Reasons to Sell TDC and 1 Stock to Buy Instead *(Yahoo Finance)*
